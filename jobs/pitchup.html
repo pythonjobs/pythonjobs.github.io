@@ -6,7 +6,7 @@
 <!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
-    <meta charset="">
+    <meta charset="utf-8"> 
 
   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
        Remove this if you use the .htaccess -->
@@ -29,11 +29,11 @@
   <!--  Mobile viewport optimized: j.mp/bplateviewport -->
   <meta name="viewport" content="">
 
-    <!-- Place favicon.ico & apple-touch-icon.png
+  <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
-  <link rel="shortcut icon" href="/media/favicon.ico">
-  <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
-  
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
     <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/media/css/site.css">
   
@@ -45,89 +45,83 @@
     <div id="container">
             <div id="main" role="main">
           <header class="banner clearfix">
-          <img src='/media/images/logo.png' id="logo"/>
+          <a href="/"><img src='/media/images/logo.png' id="logo"/></a>
           <h1></h1>
             <h3></h3>                              <nav class=main_nav>
     <ul>
-                <li>
+                        <li>
             <a title="Home Page"
                 class="button white home"
                 href="/index.html">
                 Jobs
             </a>
-        </li>        <li>
+        </li>                <li>
             <a title="Job Tags"
                 class="button white tags"
                 href="/tags">
                 Tags
             </a>
-        </li>        <li>
+        </li>                    <li>
             <a title="About"
                 class="button white about"
-                href="/about.html">
+                href="https://github.com/pythonjobs/jobs">
                 About
             </a>
         </li>    </ul>
 </nav>
                     </header>
           <section class="content">
-          <article class="post">
-<nav class="post_nav">
-<a class="backlink" href="/jobs">Back to list</a>
-<a class="prev disabled"
-    title=""
-    >
-    Previous
-</a>
+          <nav class="post_nav">
+<a class="backlink" href="/">Back to list</a>
 
-<a class="next"
-    title="Test job"
-        href="/jobs/test-job-2015.html">
-    Next
-</a>
 
 <br>
 </nav>
-<h1 class="title">
-        Sample Job Advert
-</h1>
-<div>
-    <time datetime="2015-02-21">
-        Posted: Sat, 21 Feb 2015
-    </time>
-</div>
+<article class="job">
+    <h1 class="title">
+            Sample Job Advert
+    </h1>
+    <div class="head">
+        <span class="company">
+            ACME
+        </span>
+        <time datetime="2015-02-21">
+            Posted: Sat, 21 Feb 2015
+        </time>
+    </div>
 
-Tags:
-<ul class="tags clear">
-<li>
-    <a class="tag" href="/tags/london.html">
-        london
-    </a>
-</li>
-<li>
-    <a class="tag" href="/tags/python.html">
-        python
-    </a>
-</li>
-<li>
-    <a class="tag" href="/tags/sql.html">
-        sql
-    </a>
-</li>
-</ul>
-
-<h1>Test Job&nbsp;Description</h1>
+        Tags:
+    <ul class="tags clear">
+        <li>
+        <a class="tag" href="/tags/london.html">
+            london
+        </a>
+    </li>
+        <li>
+        <a class="tag" href="/tags/python.html">
+            python
+        </a>
+    </li>
+        <li>
+        <a class="tag" href="/tags/sql.html">
+            sql
+        </a>
+    </li>
+        </ul>
+        <div class="body">
+        <h1>Test Job&nbsp;Description</h1>
 <p>Help us build the world&#8217;s leading camping website. We&#8217;re looking for an ambitious and talented Python expert to join our existing team of three developers. Salary: £30,000 - £60,000 dependent on&nbsp;experience.</p>
 <h1>About the&nbsp;Company</h1>
 <p>We&#8217;re a multi award-winning team expanding the online bookable campsite market where only 30% are bookable&nbsp;online.</p>
 <p>Pitchup.com is the leading site for booking campsites and caravan parks, with 800 ites in the <span class="caps">UK</span>, Ireland, France, Italy and Spain. More Brits now go camping and caravanning than holiday in Spain and Greece combined. The business is profitable and was founded in 2009 by lastminute.com staff with a background in the camping&nbsp;sector.</p>
 <p>A Red Bull &#8216;Future 50&#8217; company, we&#8217;re highly rated by our customers (http://www.feefo.com/<span class="caps">GB</span>/en/reviews/Pitchupcom/?id=191904&amp;mode=service), featured regularly in the press and rapidly expanding into new markets. The site had up to 65,000 visits per day in the&nbsp;summer.</p>
 <p>We&#8217;re based in the Barley Mow Centre in Chiswick (nearest tubes: Turnham Green and Gunnersbury), and a lively, friendly team with bags of experience. We want someone similar to join us &#8230; is that&nbsp;you?</p>
-<p>Backend stack: Python / Django / Postgres / Celery / nginx /&nbsp;S3</p></article>          </section>
+<p>Backend stack: Python / Django / Postgres / Celery / nginx /&nbsp;S3</p>    </div>
+</article>          </section>
       </div>
       </div> <!--! end of #container -->
   <footer>
-      Powered by <a href="http://ringce.com/hyde">hyde</a>.
+      Pythonjobs - <a href="http://hyde.github.io/">hyde</a>.
   </footer>
       <!-- Javascript at the bottom for fast page loading -->
     <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->

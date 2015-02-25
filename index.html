@@ -6,7 +6,7 @@
 <!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
 <head>
-    <meta charset="">
+    <meta charset="utf-8"> 
 
   <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
        Remove this if you use the .htaccess -->
@@ -29,11 +29,11 @@
   <!--  Mobile viewport optimized: j.mp/bplateviewport -->
   <meta name="viewport" content="">
 
-    <!-- Place favicon.ico & apple-touch-icon.png
+  <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
-  <link rel="shortcut icon" href="/media/favicon.ico">
-  <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
-  
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
     <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/media/css/site.css">
   
@@ -45,56 +45,45 @@
     <div id="container">
             <div id="main" role="main">
           <header class="banner clearfix">
-          <img src='/media/images/logo.png' id="logo"/>
+          <a href="/"><img src='/media/images/logo.png' id="logo"/></a>
           <h1></h1>
             <h3></h3>                              <nav class=main_nav>
     <ul>
-                <li>
+                        <li>
             <a title="Home Page"
                 class="button white active home"
                 href="/index.html">
                 Jobs
             </a>
-        </li>        <li>
+        </li>                <li>
             <a title="Job Tags"
                 class="button white tags"
                 href="/tags">
                 Tags
             </a>
-        </li>        <li>
+        </li>                    <li>
             <a title="About"
                 class="button white about"
-                href="/about.html">
+                href="https://github.com/pythonjobs/jobs">
                 About
             </a>
         </li>    </ul>
 </nav>
                     </header>
           <section class="content">
-          <section class="blog_excerpt">
+          <h1>All Jobs</h1>
+<section class="blog_excerpt">
 <div class="job_item">
 	        <article class=post>
     <h3><a href="/jobs/pitchup.html">Sample Job Advert</a></h3>
     
     <time datetime="2015-02-21">
-        Posted: Sat, 21 Feb 2015
+        <em>ACME</em> Sat, 21 Feb 2015
     </time>
     </article>
 
 	<a class="button white medium"
     	href="/jobs/pitchup.html">Read more&hellip;</a>
-</div>
-<div class="job_item">
-	        <article class=post>
-    <h3><a href="/jobs/test-job-2015.html">Test job</a></h3>
-    
-    <time datetime="2015-02-20">
-        Posted: Fri, 20 Feb 2015
-    </time>
-    </article>
-
-	<a class="button white medium"
-    	href="/jobs/test-job-2015.html">Read more&hellip;</a>
 </div>
 
 </section>
@@ -102,7 +91,7 @@
       </div>
       </div> <!--! end of #container -->
   <footer>
-      Powered by <a href="http://ringce.com/hyde">hyde</a>.
+      Pythonjobs - <a href="http://hyde.github.io/">hyde</a>.
   </footer>
       <!-- Javascript at the bottom for fast page loading -->
     <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
