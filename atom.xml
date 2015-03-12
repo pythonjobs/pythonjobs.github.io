@@ -7,10 +7,79 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-12T15:39:25Z</updated>
+    <updated>2015-03-12T16:05:52Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Software Engineer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+            
+            <summary type="text">
+                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Contract Python Developer, Controls Technology</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+            
+            <summary type="text">
+                Overview We have number of contract positions available for experienced Python developers. Our team is responsible for building tools which help the organization improve the quality and consistency ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Full Stack Engineer - Cloud</title>
+            <link href="https://pythonjobs.github.io/jobs/navisite-web.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/navisite-web.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ny"
+                        label="Ny" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="usa"
+                        label="Usa" />
+            
+            <summary type="text">
+                Summary Full-stack developer helping create web-based applications for NaviSite’s enterprise cloud computing solution, custom APIs, and third-party product integrations. Responsibilities Work on one ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Web Services Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
@@ -29,29 +98,6 @@
             
             <summary type="text">
                 Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
-            
-            <summary type="text">
-                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
             </summary>
         </entry>
                     <entry>
