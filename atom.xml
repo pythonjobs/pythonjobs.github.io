@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-12T16:40:10Z</updated>
+    <updated>2015-03-12T16:58:54Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -81,26 +81,6 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Hacker</title>
-            <link href="https://pythonjobs.github.io/jobs/made-com.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/made-com.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-            
-            <summary type="text">
-                About us Made.com are a successful ecommerce company with insane growth, who are re-engineering for scale. To that end, we’re backing HTTP microservices as an integration strategy for a leaner, ...
-            </summary>
-        </entry>
-                    <entry>
             <title type="html">Web Services Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
             <updated>2015-03-11T00:00:00Z</updated>
@@ -121,23 +101,23 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">QA Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/skimlinks-qa.html"/>
-            <updated>2015-03-10T00:00:00Z</updated>
-            <published>2015-03-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skimlinks-qa.html</id>
+            <title type="html">Hacker</title>
+            <link href="https://pythonjobs.github.io/jobs/made-com.html"/>
+            <updated>2015-03-11T00:00:00Z</updated>
+            <published>2015-03-11T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/made-com.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="london"
                         label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="qa"
-                        label="Qa" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
+                        term="python"
+                        label="Python" />
             
             <summary type="text">
-                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
+                About us Made.com are a successful ecommerce company with insane growth, who are re-engineering for scale. To that end, we’re backing HTTP microservices as an integration strategy for a leaner, ...
             </summary>
         </entry>
                     <entry>
@@ -161,6 +141,26 @@
             
             <summary type="text">
                 About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">QA Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/skimlinks-qa.html"/>
+            <updated>2015-03-10T00:00:00Z</updated>
+            <published>2015-03-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skimlinks-qa.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="qa"
+                        label="Qa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
             </summary>
         </entry>
                     <entry>
