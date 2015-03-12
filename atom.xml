@@ -7,35 +7,38 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-11T23:18:35Z</updated>
+    <updated>2015-03-12T15:15:22Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
-            <title type="html">Web Services Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
+            <title type="html">Contract Python Developer, Controls Technology</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cambridge"
-                        label="Cambridge" />
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
+                        term="banking"
+                        label="Banking" />
             
             <summary type="text">
-                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
+                Overview We have number of contract positions available for experienced Python developers. Our team is responsible for building tools which help the organization improve the quality and consistency ...
             </summary>
         </entry>
                     <entry>
             <title type="html">AVP, Software Engineer, Global Technology and Operations</title>
             <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
             <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="uk"
@@ -75,26 +78,23 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Product Manager</title>
-            <link href="https://pythonjobs.github.io/jobs/skimlinks-pm.html"/>
-            <updated>2015-03-10T00:00:00Z</updated>
-            <published>2015-03-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skimlinks-pm.html</id>
+            <title type="html">Web Services Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
+            <updated>2015-03-11T00:00:00Z</updated>
+            <published>2015-03-11T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
+                        term="cambridge"
+                        label="Cambridge" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="project manager"
-                        label="Project Manager" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pm"
-                        label="Pm" />
+                        term="python"
+                        label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="uk"
                         label="Uk" />
             
             <summary type="text">
-                About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
+                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
             </summary>
         </entry>
                     <entry>
@@ -135,6 +135,29 @@
             
             <summary type="text">
                 About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Product Manager</title>
+            <link href="https://pythonjobs.github.io/jobs/skimlinks-pm.html"/>
+            <updated>2015-03-10T00:00:00Z</updated>
+            <published>2015-03-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skimlinks-pm.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="project manager"
+                        label="Project Manager" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pm"
+                        label="Pm" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
             </summary>
         </entry>
     </feed>
