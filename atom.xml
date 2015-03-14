@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-14T17:29:05Z</updated>
+    <updated>2015-03-14T17:53:47Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">VP, Software Developer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-DUB00895.html"/>
+            <updated>2015-03-14T00:00:00Z</updated>
+            <published>2015-03-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-DUB00895.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ireland"
+                        label="Ireland" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="dublin"
+                        label="Dublin" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
+            
+            <summary type="text">
+                Overview Bank of America Merrill’s is looking for an experienced Software Developer to join our Controls Technology Derivatives team in Dublin. This is an excellent opportunity to join a ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer RTB Platform</title>
             <link href="https://pythonjobs.github.io/jobs/mobpro-developer.html"/>
@@ -41,6 +67,32 @@
             
             <summary type="text">
                 We are looking for a Python developer to strengthen our tech team. You will be working in a multidisciplinary setting in a growing startup, dealing with software deployed on servers all around the ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Software Engineer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
+            
+            <summary type="text">
+                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
             </summary>
         </entry>
                     <entry>
@@ -79,55 +131,26 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Python Developer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/baml-LON07353.html"/>
+            <title type="html">Full Stack Engineer - Cloud</title>
+            <link href="https://pythonjobs.github.io/jobs/navisite-web.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
             <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml-LON07353.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
+            <id>https://pythonjobs.github.io/jobs/navisite-web.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
+                        term="javascript"
+                        label="Javascript" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="baml"
-                        label="Baml" />
+                        term="ny"
+                        label="Ny" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="usa"
+                        label="Usa" />
             
             <summary type="text">
-                Overview We are looking for an experienced Python Developer to help us build and scale our Financial Management application within the bank’s Quartz platform. Our team is responsible for delivering ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
-            <updated>2015-03-12T00:00:00Z</updated>
-            <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="baml"
-                        label="Baml" />
-            
-            <summary type="text">
-                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
+                Summary Full-stack developer helping create web-based applications for NaviSite’s enterprise cloud computing solution, custom APIs, and third-party product integrations. Responsibilities Work on one ...
             </summary>
         </entry>
                     <entry>
@@ -157,46 +180,29 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Full Stack Engineer - Cloud</title>
-            <link href="https://pythonjobs.github.io/jobs/navisite-web.html"/>
+            <title type="html">Python Developer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-LON07353.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
             <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/navisite-web.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="ny"
-                        label="Ny" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="usa"
-                        label="Usa" />
-            
-            <summary type="text">
-                Summary Full-stack developer helping create web-based applications for NaviSite’s enterprise cloud computing solution, custom APIs, and third-party product integrations. Responsibilities Work on one ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Web Services Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cambridge"
-                        label="Cambridge" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
+            <id>https://pythonjobs.github.io/jobs/baml-LON07353.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="uk"
                         label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
             
             <summary type="text">
-                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
+                Overview We are looking for an experienced Python Developer to help us build and scale our Financial Management application within the bank’s Quartz platform. Our team is responsible for delivering ...
             </summary>
         </entry>
                     <entry>
@@ -220,26 +226,43 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Product Manager</title>
-            <link href="https://pythonjobs.github.io/jobs/skimlinks-pm.html"/>
-            <updated>2015-03-10T00:00:00Z</updated>
-            <published>2015-03-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skimlinks-pm.html</id>
+            <title type="html">Web Services Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
+            <updated>2015-03-11T00:00:00Z</updated>
+            <published>2015-03-11T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
+                        term="cambridge"
+                        label="Cambridge" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="project manager"
-                        label="Project Manager" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pm"
-                        label="Pm" />
+                        term="python"
+                        label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="uk"
                         label="Uk" />
             
             <summary type="text">
-                About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
+                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Sales System Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/skimlinks-sales.html"/>
+            <updated>2015-03-10T00:00:00Z</updated>
+            <published>2015-03-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skimlinks-sales.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sales"
+                        label="Sales" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
             </summary>
         </entry>
                     <entry>
@@ -263,23 +286,26 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Sales System Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/skimlinks-sales.html"/>
+            <title type="html">Product Manager</title>
+            <link href="https://pythonjobs.github.io/jobs/skimlinks-pm.html"/>
             <updated>2015-03-10T00:00:00Z</updated>
             <published>2015-03-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skimlinks-sales.html</id>
+            <id>https://pythonjobs.github.io/jobs/skimlinks-pm.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="london"
                         label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sales"
-                        label="Sales" />
+                        term="project manager"
+                        label="Project Manager" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pm"
+                        label="Pm" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="uk"
                         label="Uk" />
             
             <summary type="text">
-                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
+                About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
             </summary>
         </entry>
     </feed>
