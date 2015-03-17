@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-17T00:25:17Z</updated>
+    <updated>2015-03-17T23:23:01Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -134,38 +134,29 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Investments Analyst and Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html"/>
+            <title type="html">Software Engineer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
             <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html</id>
+            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SQL"
-                        label="Sql" />
+                        term="banking"
+                        label="Banking" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="PostgreSQL"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="VBA"
-                        label="Vba" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="HTML"
-                        label="Html" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Canada"
-                        label="Canada" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Insurance"
-                        label="Insurance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Waterloo"
-                        label="Waterloo" />
+                        term="baml"
+                        label="Baml" />
             
             <summary type="text">
-                Overall Purpose The incumbent is responsible for spearheading a variety of divisional initiatives that support our key elements of the department vision of delivering superior, sustainable, ...
+                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
             </summary>
         </entry>
                     <entry>
@@ -192,32 +183,6 @@
             
             <summary type="text">
                 Overview We are looking for an experienced Python Developer to help us build and scale our Financial Management application within the bank’s Quartz platform. Our team is responsible for delivering ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
-            <updated>2015-03-12T00:00:00Z</updated>
-            <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml-LON07365.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="baml"
-                        label="Baml" />
-            
-            <summary type="text">
-                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Engineer to join our highly accomplished development team in London. You will be responsible for the ...
             </summary>
         </entry>
                     <entry>
@@ -270,6 +235,41 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Investments Analyst and Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQL"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PostgreSQL"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="VBA"
+                        label="Vba" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HTML"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Canada"
+                        label="Canada" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Insurance"
+                        label="Insurance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Waterloo"
+                        label="Waterloo" />
+            
+            <summary type="text">
+                Overall Purpose The incumbent is responsible for spearheading a variety of divisional initiatives that support our key elements of the department vision of delivering superior, sustainable, ...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Web Services Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
             <updated>2015-03-11T00:00:00Z</updated>
@@ -310,6 +310,26 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">QA Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/skimlinks-qa.html"/>
+            <updated>2015-03-10T00:00:00Z</updated>
+            <published>2015-03-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skimlinks-qa.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="qa"
+                        label="Qa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Product Manager</title>
             <link href="https://pythonjobs.github.io/jobs/skimlinks-pm.html"/>
             <updated>2015-03-10T00:00:00Z</updated>
@@ -330,26 +350,6 @@
             
             <summary type="text">
                 About Skimlinks Skimlinks is one of the best-known startups in the UK, described by Techcrunch as one of London’s leading startups, voted in the top 10 of the Guardian Tech Media Invest and ranked ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">QA Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/skimlinks-qa.html"/>
-            <updated>2015-03-10T00:00:00Z</updated>
-            <published>2015-03-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skimlinks-qa.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="qa"
-                        label="Qa" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-            
-            <summary type="text">
-                About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
             </summary>
         </entry>
                     <entry>
