@@ -7,10 +7,42 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-18T11:52:15Z</updated>
+    <updated>2015-03-18T15:59:16Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Engineers</title>
+            <link href="https://pythonjobs.github.io/jobs/exa-dev-uk.html"/>
+            <updated>2015-03-18T00:00:00Z</updated>
+            <published>2015-03-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/exa-dev-uk.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Twisted"
+                        label="Twisted" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Pyramid"
+                        label="Pyramid" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="OpenERP"
+                        label="Openerp" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Bootstrap"
+                        label="Bootstrap" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="UK"
+                        label="Uk" />
+            
+            <summary type="text">
+                Job Responsibilities A successful candidate will be be trained to primarily take responsibility of our ERP and / or Backend services. This role is to backfill a position and you can expect to join a ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Web Developer</title>
             <link href="https://pythonjobs.github.io/jobs/flw_intl_python_111.html"/>
