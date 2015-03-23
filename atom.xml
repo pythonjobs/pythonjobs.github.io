@@ -7,33 +7,10 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-23T15:35:26Z</updated>
+    <updated>2015-03-23T15:58:19Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
-                    <entry>
-            <title type="html">ACME Example Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/acme-example.html"/>
-            <updated>2015-03-22T00:00:00Z</updated>
-            <published>2015-03-22T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/acme-example.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="canada"
-                        label="Canada" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-            
-            <summary type="text">
-                About ACME Example Your job description here
-            </summary>
-        </entry>
                     <entry>
             <title type="html">Python developer</title>
             <link href="https://pythonjobs.github.io/jobs/addm-dev.html"/>

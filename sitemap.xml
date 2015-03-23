@@ -4,9 +4,6 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
-    <loc>https://pythonjobs.github.io/jobs/acme-example.html</loc>
-    </url>
-                <url>
     <loc>https://pythonjobs.github.io/jobs/addm-dev.html</loc>
     </url>
                 <url>
@@ -99,9 +96,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/england.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/flask.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/graphite.html</loc>
