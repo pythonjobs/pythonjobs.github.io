@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/acme-example.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/addm-dev.html</loc>
     </url>
                 <url>
@@ -25,6 +28,9 @@
     <loc>https://pythonjobs.github.io/jobs/mobpro-developer.html</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/baml-LON07353.html</loc>
     </url>
                 <url>
@@ -34,22 +40,19 @@
     <loc>https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html</loc>
     </url>
                 <url>
-    <loc>https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html</loc>
-    </url>
-                <url>
     <loc>https://pythonjobs.github.io/jobs/navisite-web.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/made-com.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/arm-web.html</loc>
     </url>
                 <url>
-    <loc>https://pythonjobs.github.io/jobs/skimlinks-qa.html</loc>
+    <loc>https://pythonjobs.github.io/jobs/made-com.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/skimlinks-pm.html</loc>
+    </url>
+                <url>
+    <loc>https://pythonjobs.github.io/jobs/skimlinks-qa.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/skimlinks-sales.html</loc>
@@ -96,6 +99,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/england.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/flask.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/graphite.html</loc>
