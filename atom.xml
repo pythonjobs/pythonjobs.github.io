@@ -7,25 +7,16 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-24T14:23:59Z</updated>
+    <updated>2015-03-24T14:24:03Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
-            <title type="html">Python web developer</title>
-            <link href="https://pythonjobs.github.io/jobs/pitchup-com-python-developer.html"/>
+            <title type="html">Junior Systems Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html"/>
             <updated>2015-03-24T00:00:00Z</updated>
             <published>2015-03-24T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/pitchup-com-python-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="chiswick"
-                        label="Chiswick" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="ansible"
-                        label="Ansible" />
+            <id>https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="london"
                         label="London" />
@@ -39,7 +30,33 @@
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
+                        term="pandas"
+                        label="Pandas" />
+            
+            <summary type="text">
+                About us At Essentia, we’re a friendly bunch of ex-fund managers, neuroscientists, quants and developers who are breaking new ground in the application of behavioural science to financial markets. We ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python web developer</title>
+            <link href="https://pythonjobs.github.io/jobs/pitchup-com-python-developer.html"/>
+            <updated>2015-03-24T00:00:00Z</updated>
+            <published>2015-03-24T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/pitchup-com-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgreSQL"
                         label="Postgresql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="django"
