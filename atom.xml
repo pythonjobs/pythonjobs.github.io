@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-24T14:30:35Z</updated>
+    <updated>2015-03-24T17:37:30Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -47,6 +47,15 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="javascript"
                         label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="redis"
+                        label="Redis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nginx"
+                        label="Nginx" />
             
             <summary type="text">
                 Help us build the world’s leading campsite booking website We’re looking for an ambitious and talented Python expert to join our small team of developers. Salary: £35,000 - £65,000 dependent ...
@@ -73,6 +82,15 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="pandas"
                         label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="notting hill"
+                        label="Notting Hill" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="fiance"
+                        label="Fiance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="essentia"
+                        label="Essentia" />
             
             <summary type="text">
                 About us At Essentia, we’re a friendly bunch of ex-fund managers, neuroscientists, quants and developers who are breaking new ground in the application of behavioural science to financial markets. We ...
