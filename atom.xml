@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-03-29T23:04:20Z</updated>
+    <updated>2015-03-29T23:08:52Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -38,70 +38,6 @@
             
             <summary type="text">
                 Overview Bank of America Merrill Lynch’s Treasury Technology team is looking to recruit a driven and passionate AVP, Python Developer in Dublin. You will be responsible for designing and developing ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">AVP, Software Developer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/BAML_LON07506_AVP_Software%20Developer_%20London.html"/>
-            <updated>2015-03-24T00:00:00Z</updated>
-            <published>2015-03-24T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/BAML_LON07506_AVP_Software%20Developer_%20London.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="england"
-                        label="England" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="c++"
-                        label="C++" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-            
-            <summary type="text">
-                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Developer to join our highly accomplished development team in London. You will be responsible for the ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Junior Systems Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html"/>
-            <updated>2015-03-24T00:00:00Z</updated>
-            <published>2015-03-24T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="england"
-                        label="England" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pandas"
-                        label="Pandas" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="notting hill"
-                        label="Notting Hill" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="fiance"
-                        label="Fiance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="essentia"
-                        label="Essentia" />
-            
-            <summary type="text">
-                About us At Essentia, we’re a friendly bunch of ex-fund managers, neuroscientists, quants and developers who are breaking new ground in the application of behavioural science to financial markets. We ...
             </summary>
         </entry>
                     <entry>
@@ -152,6 +88,70 @@
             
             <summary type="text">
                 Help us build the world’s leading campsite booking website We’re looking for an ambitious and talented Python expert to join our small team of developers. Salary: £35,000 - £65,000 dependent ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Junior Systems Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html"/>
+            <updated>2015-03-24T00:00:00Z</updated>
+            <published>2015-03-24T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/essentia_analytics_junior_dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="notting hill"
+                        label="Notting Hill" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="fiance"
+                        label="Fiance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="essentia"
+                        label="Essentia" />
+            
+            <summary type="text">
+                About us At Essentia, we’re a friendly bunch of ex-fund managers, neuroscientists, quants and developers who are breaking new ground in the application of behavioural science to financial markets. We ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">AVP, Software Developer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/BAML_LON07506_AVP_Software%20Developer_%20London.html"/>
+            <updated>2015-03-24T00:00:00Z</updated>
+            <published>2015-03-24T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/BAML_LON07506_AVP_Software%20Developer_%20London.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="c++"
+                        label="C++" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+            
+            <summary type="text">
+                Overview Bank of America Merrill Lynch is looking to recruit a drive and passionate Software Developer to join our highly accomplished development team in London. You will be responsible for the ...
             </summary>
         </entry>
                     <entry>
@@ -239,6 +239,29 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/mintel-software-developer-chicago.html"/>
+            <updated>2015-03-16T00:00:00Z</updated>
+            <published>2015-03-16T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/mintel-software-developer-chicago.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="usa"
+                        label="Usa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="chicago"
+                        label="Chicago" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Overview Mintel is the world’s leading market intelligence agency. We have a great opportunity for a talented individual to join us in Chicago as a Software Developer. Joining an established team, ...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Python Web Developer</title>
             <link href="https://pythonjobs.github.io/jobs/flw_intl_python_111.html"/>
             <updated>2015-03-16T00:00:00Z</updated>
@@ -280,29 +303,6 @@
             
             <summary type="text">
                 Job Responsibilities Building and maintaining Django views, forms, widgets, and the occasion middleware. Creating Python modules from scratch that will work across multiple properties HTML5, CSS3 and ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/mintel-software-developer-chicago.html"/>
-            <updated>2015-03-16T00:00:00Z</updated>
-            <published>2015-03-16T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/mintel-software-developer-chicago.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="usa"
-                        label="Usa" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="chicago"
-                        label="Chicago" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-            
-            <summary type="text">
-                Overview Mintel is the world’s leading market intelligence agency. We have a great opportunity for a talented individual to join us in Chicago as a Software Developer. Joining an established team, ...
             </summary>
         </entry>
                     <entry>
@@ -370,6 +370,32 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Contract Python Developer, Controls Technology</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
+            
+            <summary type="text">
+                Overview We have number of contract positions available for experienced Python developers. Our team is responsible for building tools which help the organization improve the quality and consistency ...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Investments Analyst and Developer</title>
             <link href="https://pythonjobs.github.io/jobs/ELoC-investments-analyst-and-developer.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
@@ -405,32 +431,6 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Python Developer, Global Technology and Operations</title>
-            <link href="https://pythonjobs.github.io/jobs/baml-LON07353.html"/>
-            <updated>2015-03-12T00:00:00Z</updated>
-            <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml-LON07353.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="baml"
-                        label="Baml" />
-            
-            <summary type="text">
-                Overview We are looking for an experienced Python Developer to help us build and scale our Financial Management application within the bank’s Quartz platform. Our team is responsible for delivering ...
-            </summary>
-        </entry>
-                    <entry>
             <title type="html">Software Engineer, Global Technology and Operations</title>
             <link href="https://pythonjobs.github.io/jobs/baml-LON07365.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
@@ -457,32 +457,6 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Contract Python Developer, Controls Technology</title>
-            <link href="https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html"/>
-            <updated>2015-03-12T00:00:00Z</updated>
-            <published>2015-03-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml_contract_python_developer_london.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="banking"
-                        label="Banking" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="baml"
-                        label="Baml" />
-            
-            <summary type="text">
-                Overview We have number of contract positions available for experienced Python developers. Our team is responsible for building tools which help the organization improve the quality and consistency ...
-            </summary>
-        </entry>
-                    <entry>
             <title type="html">Full Stack Engineer - Cloud</title>
             <link href="https://pythonjobs.github.io/jobs/navisite-web.html"/>
             <updated>2015-03-12T00:00:00Z</updated>
@@ -506,23 +480,29 @@
             </summary>
         </entry>
                     <entry>
-            <title type="html">Web Services Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
+            <title type="html">Python Developer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-LON07353.html"/>
+            <updated>2015-03-12T00:00:00Z</updated>
+            <published>2015-03-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-LON07353.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cambridge"
-                        label="Cambridge" />
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
             
             <summary type="text">
-                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
+                Overview We are looking for an experienced Python Developer to help us build and scale our Financial Management application within the bank’s Quartz platform. Our team is responsible for delivering ...
             </summary>
         </entry>
                     <entry>
@@ -555,6 +535,26 @@
             
             <summary type="text">
                 About us Made.com are a successful ecommerce company with insane growth, who are re-engineering for scale. To that end, we’re backing HTTP microservices as an integration strategy for a leaner, ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Web Services Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
+            <updated>2015-03-11T00:00:00Z</updated>
+            <published>2015-03-11T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cambridge"
+                        label="Cambridge" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team developing ...
             </summary>
         </entry>
                     <entry>
