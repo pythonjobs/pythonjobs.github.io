@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 53.3498053 + ':' + -6.2603097;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/devpeople_london_perm_1.html\">Senior Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 13 Apr 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Devpeople</span>\n    \n    <p> Senor Python\u00a0Developer Central London,\u00a0UK We are seeking a senior Python Developer to work directly for us on a new recruitment platform aimed at contract staff across different platforms and devices. The candidate will ...</p>\n    \n"
+        });
+                        var key = '' + 53.3498053 + ':' + -6.2603097;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 53.3498053, "lng": -6.2603097},
@@ -262,7 +268,7 @@
           coords: {"lat": 51.5073509, "lng": -0.1277583},
           content: "        <h1><a href=\"/jobs/skimlinks-sales.html\">Sales System Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 10 Mar 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Skimlinks</span>\n    \n    <p> About\u00a0Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and have become leaders ...</p>\n    \n"
         });
-                        console.log(jobs);
+              console.log(jobs);
     var MAP_OPTIONS = {
       center: { lat: 40, lng: 0},
       zoom: 1,

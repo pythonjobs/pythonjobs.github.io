@@ -7,10 +7,42 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-04-13T21:40:52Z</updated>
+    <updated>2015-04-13T21:45:12Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/devpeople_london_perm_1.html"/>
+            <updated>2015-04-13T00:00:00Z</updated>
+            <published>2015-04-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/devpeople_london_perm_1.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mysql"
+                        label="Mysql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Senor Python Developer Central London, UK We are seeking a senior Python Developer to work directly for us on a new recruitment platform aimed at contract staff across different platforms and ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">AVP, Python Developer, Global Technology and Operations</title>
             <link href="https://pythonjobs.github.io/jobs/BAML_DUB00930_AVP_Software%20Developer_%20Dublin.html"/>
@@ -644,35 +676,6 @@
             
             <summary type="text">
                 About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/devpeople_london_perm_1.html"/>
-            <updated>2015-02-20T00:00:00Z</updated>
-            <published>2015-02-20T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/devpeople_london_perm_1.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="england"
-                        label="England" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-            
-            <summary type="text">
-                Senor Python Developer Central London, UK We are seeking a senior Python Developer to work directly for us on a new recruitment platform aimed at contract staff across different platforms and ...
             </summary>
         </entry>
     </feed>
