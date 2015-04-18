@@ -7,10 +7,45 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-04-13T21:45:12Z</updated>
+    <updated>2015-04-18T18:07:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Full Stack Web Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/fenix_solar_django_SF.html"/>
+            <updated>2015-04-17T00:00:00Z</updated>
+            <published>2015-04-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/fenix_solar_django_SF.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mysql"
+                        label="Mysql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="san francisco"
+                        label="San Francisco" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uganda"
+                        label="Uganda" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="solar"
+                        label="Solar" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="environment"
+                        label="Environment" />
+            
+            <summary type="text">
+                Job Description Fenix International is looking for a talented, self-starting software developer to join the Fenix team to help deliver affordable solar power to emerging markets in Uganda and the ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/devpeople_london_perm_1.html"/>

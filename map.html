@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 37.7749295 + ':' + -122.4194155;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 37.7749295, "lng": -122.4194155},
+          content: "        <h1><a href=\"/jobs/fenix_solar_django_SF.html\">Full Stack Web Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> San Francisco, US; Kampala, UG</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Fri, 17 Apr 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Fenix International</span>\n    \n    <p> Job\u00a0Description Fenix International is looking for a talented, self-starting software developer to join the Fenix team to help deliver affordable solar power to emerging markets in Uganda and the larger East African ...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
