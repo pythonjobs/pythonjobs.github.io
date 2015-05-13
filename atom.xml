@@ -7,10 +7,33 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-05-13T19:34:07Z</updated>
+    <updated>2015-05-13T19:34:09Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Django developer</title>
+            <link href="https://pythonjobs.github.io/jobs/compoundpartners.html"/>
+            <updated>2015-05-13T00:00:00Z</updated>
+            <published>2015-05-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/compoundpartners.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                About the company We’re a small, content marketing focussed, consultancy based in London. Our core areas of expertise are digital publishing strategy, web product development and analytics. We’ve ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Full Stack Web Developer</title>
             <link href="https://pythonjobs.github.io/jobs/fenix_solar_django_SF.html"/>
