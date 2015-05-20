@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-05-15T10:01:49Z</updated>
+    <updated>2015-05-20T06:40:26Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-CHI-GRANITE.html"/>
+            <updated>2015-05-19T00:00:00Z</updated>
+            <published>2015-05-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-CHI-GRANITE.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="chicago"
+                        label="Chicago" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="illinois"
+                        label="Illinois" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+            
+            <summary type="text">
+                The candidate will be working in a middle office technology team which is working on developing a target PL analysis and reporting tool (called Granite) in python. In general, the candidate must have ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Django developer</title>
             <link href="https://pythonjobs.github.io/jobs/compoundpartners.html"/>
