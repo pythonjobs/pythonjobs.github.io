@@ -7,10 +7,51 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-05-20T06:40:26Z</updated>
+    <updated>2015-06-22T10:12:47Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Full Stack Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/openutility-full-stack-developer.html"/>
+            <updated>2015-06-09T00:00:00Z</updated>
+            <published>2015-06-09T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/openutility-full-stack-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="front-end"
+                        label="Front-End" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="html"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="css"
+                        label="Css" />
+            
+            <summary type="text">
+                Full Stack Developer Hello, we’re looking for a full stack developer, might this be you? Our vision is a world powered by renewable energy. Our mission is to give generators and energy users access ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/baml-CHI-GRANITE.html"/>

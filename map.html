@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 41.8781136 + ':' + -87.6297982;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/openutility-full-stack-developer.html\">Full Stack Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London,UK</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 09 Jun 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Open Utility</span>\n    \n    <p> Full Stack\u00a0Developer Hello, we\u2019re looking for a full stack developer, might this be\u00a0you? Our vision is a world powered by renewable energy. Our mission is to give generators and energy users access and control of their ...</p>\n    \n"
+        });
+                        var key = '' + 41.8781136 + ':' + -87.6297982;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 41.8781136, "lng": -87.6297982},
