@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 33.7489954 + ':' + -84.3879824;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 33.7489954, "lng": -84.3879824},
+          content: "        <h1><a href=\"/jobs/pindrop_atlanta_python_perm.html\">Python Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Atlanta, Georgia, USA</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Thu, 18 Jun 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Pindrop Security</span>\n    \n    <p> About\u00a0Pindrop Our engineering team solves tough problems and invents new ways to battle fraud using big data and audio science in the cloud. We are looking for software engineers to help us create our bleeding edge ...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
