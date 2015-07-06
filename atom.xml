@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-07-06T18:48:31Z</updated>
+    <updated>2015-07-06T18:51:18Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -41,6 +41,29 @@
             
             <summary type="text">
                 Data Engineer Description Namely is an agile startup dedicated to building an end-to-end Human Capital Management platform for businesses of all sizes – some of the world’s most innovative and ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python /C++  WebCrawler Engineer​ – NJ</title>
+            <link href="https://pythonjobs.github.io/jobs/python-webcrawler-enginer.html"/>
+            <updated>2015-07-03T00:00:00Z</updated>
+            <published>2015-07-03T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/python-webcrawler-enginer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="c++"
+                        label="C++" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Hadoop"
+                        label="Hadoop" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+            
+            <summary type="text">
+                Overview SkyMax’s global business / financial information leader client is seeking a motivated Senior Software Engineer to assist in development of web crawling system. This is s​ome of the most ...
             </summary>
         </entry>
                     <entry>
