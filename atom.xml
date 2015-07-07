@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-07-06T20:51:59Z</updated>
+    <updated>2015-07-07T17:40:23Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -41,6 +41,58 @@
             
             <summary type="text">
                 Data Engineer Description Namely is an agile startup dedicated to building an end-to-end Human Capital Management platform for businesses of all sizes – some of the world’s most innovative and ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Data Scientist</title>
+            <link href="https://pythonjobs.github.io/jobs/growth_intel_data_sci.html"/>
+            <updated>2015-07-07T00:00:00Z</updated>
+            <published>2015-07-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/growth_intel_data_sci.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data scientist"
+                        label="Data Scientist" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="machine learning"
+                        label="Machine Learning" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data"
+                        label="Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Growth Intelligence (Gi) Gi is a fast-growing tech startup based in East London and is a pioneer of Predictive Lead Generation. Our clients include Google, American Express and Vodafone. As an ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/growth_intel_dev.html"/>
+            <updated>2015-07-07T00:00:00Z</updated>
+            <published>2015-07-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/growth_intel_dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="developer"
+                        label="Developer" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="machine learning"
+                        label="Machine Learning" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data"
+                        label="Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                About Growth Intelligence (Gi) Gi is a fast-growing tech startup based in East London and is a pioneer of Predictive Lead Generation. Our clients include Google, American Express and Vodafone. As an ...
             </summary>
         </entry>
                     <entry>
