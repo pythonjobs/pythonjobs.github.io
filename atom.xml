@@ -7,15 +7,65 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-07-07T17:40:23Z</updated>
+    <updated>2015-07-19T02:00:01Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
+            <title type="html">Pre-IPO Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/leveridgesystems.html"/>
+            <updated>2015-07-19T00:00:00Z</updated>
+            <published>2015-07-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/leveridgesystems.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="boston"
+                        label="Boston" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="burlington"
+                        label="Burlington" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="masschusetts"
+                        label="Masschusetts" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="R"
+                        label="R" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flash"
+                        label="Flash" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nginx"
+                        label="Nginx" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mongodb"
+                        label="Mongodb" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="node.js"
+                        label="Node.js" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="redis"
+                        label="Redis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ansible"
+                        label="Ansible" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="d3"
+                        label="D3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="socketio"
+                        label="Socketio" />
+            
+            <summary type="text">
+                This is a pre-IPO project with substantial stock-options. git f
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Data Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/namely_nyc_data_engineer_78513.html"/>
-            <updated>2015-07-25T00:00:00Z</updated>
-            <published>2015-07-25T00:00:00Z</published>
+            <updated>2015-07-18T00:00:00Z</updated>
+            <published>2015-07-18T00:00:00Z</published>
             <id>https://pythonjobs.github.io/jobs/namely_nyc_data_engineer_78513.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="nyc"
@@ -93,6 +143,32 @@
             
             <summary type="text">
                 About Growth Intelligence (Gi) Gi is a fast-growing tech startup based in East London and is a pioneer of Predictive Lead Generation. Our clients include Google, American Express and Vodafone. As an ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Lead Python Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/skyscanner_lead_python_engineer.html"/>
+            <updated>2015-07-06T00:00:00Z</updated>
+            <published>2015-07-06T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skyscanner_lead_python_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Edinburgh"
+                        label="Edinburgh" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Glasgow"
+                        label="Glasgow" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Scotland"
+                        label="Scotland" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="UK"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+            
+            <summary type="text">
+                Lead Python Engineer We’re looking for an accomplished Python Engineer, who is willing to take calculated risks in order to deliver and make impact with their work. This role calls for an engineer ...
             </summary>
         </entry>
                     <entry>
