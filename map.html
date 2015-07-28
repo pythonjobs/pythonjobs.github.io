@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 42.3600825 + ':' + -71.0588801;
+                  var key = '' + 52.5200066 + ':' + 13.404954;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 52.52000659999999, "lng": 13.404954},
+          content: "        <h1><a href=\"/jobs/viasto_senior_python_engineer_08_2015.html\">Senior Python Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Berlin, Germany</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 28 Jul 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> viasto GmbH</span>\n    \n    <p> About\u00a0viasto viasto is a Software-as-a-Service company, based in the center of Berlin. Our product, the interview suite, allows companies to get to know their job applicants via video in order to avoid wrong selection ...</p>\n    \n"
+        });
+                        var key = '' + 42.3600825 + ':' + -71.0588801;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 42.3600825, "lng": -71.0588801},

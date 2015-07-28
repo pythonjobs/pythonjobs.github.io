@@ -7,10 +7,48 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-07-19T02:32:07Z</updated>
+    <updated>2015-07-28T11:41:51Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/viasto_senior_python_engineer_08_2015.html"/>
+            <updated>2015-07-28T00:00:00Z</updated>
+            <published>2015-07-28T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/viasto_senior_python_engineer_08_2015.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Berlin"
+                        label="Berlin" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HR"
+                        label="Hr" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Recruiting"
+                        label="Recruiting" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Germany"
+                        label="Germany" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="WebRTC"
+                        label="Webrtc" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="live video"
+                        label="Live Video" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Video recruiting"
+                        label="Video Recruiting" />
+            
+            <summary type="text">
+                About viasto viasto is a Software-as-a-Service company, based in the center of Berlin. Our product, the interview suite, allows companies to get to know their job applicants via video in order to ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Pre-IPO Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/leveridgesystems.html"/>
