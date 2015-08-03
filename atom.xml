@@ -7,10 +7,60 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-07-29T12:22:56Z</updated>
+    <updated>2015-08-03T17:33:27Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Web Developer, Global Technology and Operations</title>
+            <link href="https://pythonjobs.github.io/jobs/baml-london-contract-web-developer.html"/>
+            <updated>2015-08-04T00:00:00Z</updated>
+            <published>2015-08-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml-london-contract-web-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="banking"
+                        label="Banking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="baml"
+                        label="Baml" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="coffeescript"
+                        label="Coffeescript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="angular"
+                        label="Angular" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="gulp"
+                        label="Gulp" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="bower"
+                        label="Bower" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="grunt"
+                        label="Grunt" />
+            
+            <summary type="text">
+                Overview We are looking for an experienced web developer to help build our next generation of financial application. The successful candidate will play a major role in the full development cycle of ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/viasto_senior_python_engineer_08_2015.html"/>
