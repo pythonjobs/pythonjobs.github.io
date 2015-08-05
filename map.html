@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 37.6624312 + ':' + -121.8746789;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 37.6624312, "lng": -121.8746789},
+          content: "        <h1><a href=\"/jobs/veeva_engineer_1.html\">Senior Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Pleasanton, California</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 05 Aug 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Veeva</span>\n    \n    <p> Overview Join a very small and fast-paced product team to help build a completely new product. As one of the first engineers of this newly formed team, you will be responsible for building and improving the web ...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
