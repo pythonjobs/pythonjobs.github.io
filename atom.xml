@@ -7,10 +7,78 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-09-16T13:03:42Z</updated>
+    <updated>2015-09-16T13:10:35Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Lead Software Engineer - storage | containers | Docker</title>
+            <link href="https://pythonjobs.github.io/jobs/ClusterHQ_SeniorEngineer_perm_techfolk_2.html"/>
+            <updated>2015-09-16T00:00:00Z</updated>
+            <published>2015-09-16T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ClusterHQ_SeniorEngineer_perm_techfolk_2.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Bristol"
+                        label="Bristol" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="England"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Go"
+                        label="Go" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Golang"
+                        label="Golang" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="containers"
+                        label="Containers" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="containerisation"
+                        label="Containerisation" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="containerization"
+                        label="Containerization" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="asynchronous"
+                        label="Asynchronous" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Twisted"
+                        label="Twisted" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Asyncio"
+                        label="Asyncio" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Klein"
+                        label="Klein" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Tuilp"
+                        label="Tuilp" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Tornado"
+                        label="Tornado" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Flocker"
+                        label="Flocker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Relocation"
+                        label="Relocation" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Network programming"
+                        label="Network Programming" />
+            
+            <summary type="text">
+                Lead Software Engineer ClusterHQ needs you to help define, architect and build open source storage management software in the rapidly evolving domain of Docker and containerisation. Our product ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Backend Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/futurelinkcorp_santo_domingo_dominican_republic_senior_python_developer_0.html"/>
@@ -450,74 +518,6 @@
             
             <summary type="text">
                 Overview SkyMax’s global business / financial information leader client is seeking a motivated Senior Software Engineer to assist in development of web crawling system. This is s​ome of the most ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior &amp; Lead Software Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/ClusterHQ_SeniorEngineer_perm_techfolk_2.html"/>
-            <updated>2015-06-22T00:00:00Z</updated>
-            <published>2015-06-22T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/ClusterHQ_SeniorEngineer_perm_techfolk_2.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Bristol"
-                        label="Bristol" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="England"
-                        label="England" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Go"
-                        label="Go" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Golang"
-                        label="Golang" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="containers"
-                        label="Containers" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="containerisation"
-                        label="Containerisation" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="containerization"
-                        label="Containerization" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="asynchronous"
-                        label="Asynchronous" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Twisted"
-                        label="Twisted" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Asyncio"
-                        label="Asyncio" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Klein"
-                        label="Klein" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Tuilp"
-                        label="Tuilp" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Tornado"
-                        label="Tornado" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Flocker"
-                        label="Flocker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Relocation"
-                        label="Relocation" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Network programming"
-                        label="Network Programming" />
-            
-            <summary type="text">
-                Senior / Lead Software Engineer - ClusterHQ Your challenge ClusterHQ has just released Flocker v1.0, providing the data layer for Docker, and needs needs you to help define and build next generation ...
             </summary>
         </entry>
                     <entry>
