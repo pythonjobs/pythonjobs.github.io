@@ -130,7 +130,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 53.4807593 + ':' + -2.2426305;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 53.4807593, "lng": -2.2426305},
+          content: "        <h1><a href=\"/jobs/arctic-shores-100.html\">Python, Django, Full Stack Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Manchester, United Kingdom</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 07 Oct 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Arctic Shores</span>\n    \n    <p> About\u00a0Us Arctic Shores is a startup company based in the heart of Manchester, UK. We\u2019re behind the UK\u2019s first mobile games based psychometric test for recruitment and selection combining rigorous science with ...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
