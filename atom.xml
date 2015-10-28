@@ -7,10 +7,45 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-10-12T12:02:09Z</updated>
+    <updated>2015-10-28T11:23:43Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Lead Python / Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/tictrac_london_perm_python_lead_20151019.html"/>
+            <updated>2015-10-19T00:00:00Z</updated>
+            <published>2015-10-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tictrac_london_perm_python_lead_20151019.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mongo"
+                        label="Mongo" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                About Tictrac Tictrac is a leading Digital Health Platform that focuses on centralizing healthcare around the consumer. Tictrac is disrupting a highly fragmented healthcare market by focusing on ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python, Django, Full Stack Developer</title>
             <link href="https://pythonjobs.github.io/jobs/arctic-shores-100.html"/>
