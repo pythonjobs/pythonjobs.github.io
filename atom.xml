@@ -7,10 +7,60 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-11-04T23:51:58Z</updated>
+    <updated>2015-11-04T23:52:37Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Statistical Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/genomicsplc_statistical_developer.html"/>
+            <updated>2015-11-04T00:00:00Z</updated>
+            <published>2015-11-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/genomicsplc_statistical_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="oxford"
+                        label="Oxford" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="r"
+                        label="R" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="tdd"
+                        label="Tdd" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="continuous delivery"
+                        label="Continuous Delivery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="css"
+                        label="Css" />
+            
+            <summary type="text">
+                Introduction Genomics plc was launched in 2014 by four leading statistical geneticists at the University of Oxford, and is a leading analysis company developing algorithms and software solutions to ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Developer</title>
             <link href="https://pythonjobs.github.io/jobs/uconn_sait_software_developer_storrs_connecticut_2015.html"/>
