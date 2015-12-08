@@ -7,10 +7,39 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-11-26T23:20:28Z</updated>
+    <updated>2015-12-08T15:58:31Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_us_functional_programmer.html"/>
+            <updated>2015-12-08T00:00:00Z</updated>
+            <published>2015-12-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_us_functional_programmer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scala"
+                        label="Scala" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="coffeescript"
+                        label="Coffeescript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="functional"
+                        label="Functional" />
+            
+            <summary type="text">
+                Job Description We are looking for Python developers to join our teams in our Downtown offices. We consider developers from all backgrounds and all levels of experience. Financial experience is ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/Osirium_Senior_Developer_job.html"/>
