@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-12-09T18:58:16Z</updated>
+    <updated>2015-12-09T19:00:47Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -32,9 +32,6 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="finance"
                         label="Finance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="functional"
-                        label="Functional" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="css"
                         label="Css" />
