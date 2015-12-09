@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-12-09T20:20:23Z</updated>
+    <updated>2015-12-09T20:26:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -125,6 +125,12 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="finance"
                         label="Finance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nyc"
+                        label="Nyc" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="new_york"
+                        label="New_york" />
             
             <summary type="text">
                 Job Description We are looking for Python developers to join our teams in Canary Wharf and St. Pauls. We consider developers from all backgrounds and all levels of experience. Developers from ...
