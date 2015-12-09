@@ -7,53 +7,12 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-12-09T17:44:16Z</updated>
+    <updated>2015-12-09T17:55:58Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
-            <title type="html">Front-end Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/baml_front_end_developer.html"/>
-            <updated>2015-12-08T00:00:00Z</updated>
-            <published>2015-12-08T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml_front_end_developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="coffeescript"
-                        label="Coffeescript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="web"
-                        label="Web" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="finance"
-                        label="Finance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="functional"
-                        label="Functional" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="css"
-                        label="Css" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="html"
-                        label="Html" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="angular"
-                        label="Angular" />
-            
-            <summary type="text">
-                Job Description We are looking for Python developers to join our teams in our Downtown offices. We are looking for individuals who have interest and expertise in bulding responsive web interfaces ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Developer</title>
+            <title type="html">Backend Developer</title>
             <link href="https://pythonjobs.github.io/jobs/baml_us_functional_programmer.html"/>
             <updated>2015-12-08T00:00:00Z</updated>
             <published>2015-12-08T00:00:00Z</published>
@@ -65,20 +24,20 @@
                         term="scala"
                         label="Scala" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="coffeescript"
-                        label="Coffeescript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="web"
-                        label="Web" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
                         term="finance"
                         label="Finance" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="functional"
                         label="Functional" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rest"
+                        label="Rest" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="websocket"
+                        label="Websocket" />
             
             <summary type="text">
-                Job Description We are looking for Python developers to join our teams in our Downtown offices. We consider developers from all backgrounds and all levels of experience. Financial experience is ...
+                Job Description We are looking for back-end developers to join our teams in our Downtown offices. We consider developers from all backgrounds and all levels of experience. Financial experience is ...
             </summary>
         </entry>
                     <entry>
