@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2015-12-09T20:26:40Z</updated>
+    <updated>2015-12-18T23:37:50Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -125,12 +125,6 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="finance"
                         label="Finance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nyc"
-                        label="Nyc" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="new_york"
-                        label="New_york" />
             
             <summary type="text">
                 Job Description We are looking for Python developers to join our teams in Canary Wharf and St. Pauls. We consider developers from all backgrounds and all levels of experience. Developers from ...
@@ -907,29 +901,6 @@
             
             <summary type="text">
                 Lead Python Engineer We’re looking for an accomplished Python Engineer, who is willing to take calculated risks in order to deliver and make impact with their work. This role calls for an engineer ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python /C++  WebCrawler Engineer​ – NJ</title>
-            <link href="https://pythonjobs.github.io/jobs/python-webcrawler-enginer.html"/>
-            <updated>2015-07-03T00:00:00Z</updated>
-            <published>2015-07-03T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/python-webcrawler-enginer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="c++"
-                        label="C++" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Hadoop"
-                        label="Hadoop" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-            
-            <summary type="text">
-                Overview SkyMax’s global business / financial information leader client is seeking a motivated Senior Software Engineer to assist in development of web crawling system. This is s​ome of the most ...
             </summary>
         </entry>
                     <entry>
