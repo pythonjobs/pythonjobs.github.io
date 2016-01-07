@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 40.7141805 + ':' + -74.0155677;
+                  var key = '' + 34.0633443 + ':' + -117.6508876;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 34.0633443, "lng": -117.6508876},
+          content: "        <h1><a href=\"/jobs/chalkandwire_fulltime_senior_dev.html\">Senior Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Ontario</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 04 Jan 2016</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Chalk & Wire</span>\n    \n    <p class=\"detail\"> Overview We are looking to recruit lead developers to help build a brand new education technology web\u00a0app. Join a very small and agile product team to help build a completely new product. As one of the app\u2019s first ...</p>\n    \n"
+        });
+                        var key = '' + 40.7141805 + ':' + -74.0155677;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 40.7141805, "lng": -74.01556769999999},
@@ -379,12 +385,6 @@
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
           content: "        <h1><a href=\"/jobs/skimlinks-sales.html\">Sales System Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 10 Mar 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Skimlinks</span>\n    \n    <p class=\"detail\"> About\u00a0Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space and have become ...</p>\n    \n"
-        });
-                        var key = '' + 34.0633443 + ':' + -117.6508876;
-        if (!(key in jobs)) { jobs[key] = []; }
-        jobs[key].push({
-          coords: {"lat": 34.0633443, "lng": -117.6508876},
-          content: "        <h1><a href=\"/jobs/chalkandwire_fulltime_senior_dev.html\">Senior Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Ontario</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Sun, 04 Jan 2015</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Chalk & Wire</span>\n    \n    <p class=\"detail\"> Overview We are looking to recruit lead developers to help build a brand new education technology web\u00a0app. Join a very small and agile product team to help build a completely new product. As one of the app\u2019s first ...</p>\n    \n"
         });
               console.log(jobs);
     var MAP_OPTIONS = {

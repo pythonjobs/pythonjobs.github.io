@@ -7,10 +7,48 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-01-07T17:11:52Z</updated>
+    <updated>2016-01-07T17:15:05Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html"/>
+            <updated>2016-01-04T00:00:00Z</updated>
+            <published>2016-01-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Ontario"
+                        label="Ontario" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote working"
+                        label="Remote Working" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="education"
+                        label="Education" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web app"
+                        label="Web App" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="startup"
+                        label="Startup" />
+            
+            <summary type="text">
+                Overview We are looking to recruit lead developers to help build a brand new education technology web app. Join a very small and agile product team to help build a completely new product. As one ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Front-end Developer</title>
             <link href="https://pythonjobs.github.io/jobs/baml_front_end_developer.html"/>
@@ -1479,44 +1517,6 @@
             
             <summary type="text">
                 About Skimlinks Skimlinks is an award-winning, mature tech startup headquartered in London and an office in San Francisco. We are known for having disrupted the online content monetization space ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html"/>
-            <updated>2015-01-04T00:00:00Z</updated>
-            <published>2015-01-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Ontario"
-                        label="Ontario" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="remote working"
-                        label="Remote Working" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="education"
-                        label="Education" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="web app"
-                        label="Web App" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="startup"
-                        label="Startup" />
-            
-            <summary type="text">
-                Overview We are looking to recruit lead developers to help build a brand new education technology web app. Join a very small and agile product team to help build a completely new product. As one ...
             </summary>
         </entry>
     </feed>
