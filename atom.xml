@@ -7,10 +7,42 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-01-07T17:15:05Z</updated>
+    <updated>2016-01-29T00:13:41Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior DevOps engineer with Python experience</title>
+            <link href="https://pythonjobs.github.io/jobs/bookitbee_devops_201601.html"/>
+            <updated>2016-01-11T00:00:00Z</updated>
+            <published>2016-01-11T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/bookitbee_devops_201601.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="devops"
+                        label="Devops" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="edinburgh"
+                        label="Edinburgh" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="glasgow"
+                        label="Glasgow" />
+            
+            <summary type="text">
+                Job Description As a DevOps engineer, you’ll be helping us grow our platform to support our fast growth as one of the UK’s leading online events companies. You’ll enjoy working in a small ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html"/>
