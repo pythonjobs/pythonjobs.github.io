@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 38.9187222 + ':' + -77.2310925;
+                  var key = '' + 40.7127837 + ':' + -74.0059413;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 40.7127837, "lng": -74.0059413},
+          content: "        <h1><a href=\"/jobs/leaflink-new-york-city-django-engineer.html\">Senior Django Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> New York City</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 17 Feb 2016</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> LeafLink</span>\n    \n    <p class=\"detail\"> Django\u00a0Engineer Overview We currently have an MVP of our platform which we\u2019ve built in house and are piloting. As we come out of the pilot with a better understanding of the ideal user experience, we are looking to ...</p>\n    \n"
+        });
+                        var key = '' + 38.9187222 + ':' + -77.2310925;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 38.9187222, "lng": -77.2310925},

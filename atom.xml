@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-02-17T15:01:05Z</updated>
+    <updated>2016-02-17T15:47:54Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/leaflink-new-york-city-django-engineer.html"/>
+            <updated>2016-02-17T00:00:00Z</updated>
+            <published>2016-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/leaflink-new-york-city-django-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nyc"
+                        label="Nyc" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Django Engineer Overview We currently have an MVP of our platform which we’ve built in house and are piloting. As we come out of the pilot with a better understanding of the ideal user experience, ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer/Data Scientist</title>
             <link href="https://pythonjobs.github.io/jobs/b23_python_developer.html"/>
