@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-03-11T13:41:32Z</updated>
+    <updated>2016-03-11T13:42:19Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/vericant_python_software_engineer.html"/>
+            <updated>2016-02-25T00:00:00Z</updated>
+            <published>2016-02-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/vericant_python_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Beijing"
+                        label="Beijing" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="China"
+                        label="China" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="zh"
+                        label="Zh" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+            
+            <summary type="text">
+                About Vericant Vericant partners with US schools/colleges to identify best-fit Chinese applicants via verified video interviews, proctored writing samples, and spoken English evaluation. One of ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Sr. Backend Engineer - Data Platform</title>
             <link href="https://pythonjobs.github.io/jobs/percolate_data-platform_sf.html"/>

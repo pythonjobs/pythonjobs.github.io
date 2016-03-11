@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 37.7749295 + ':' + -122.4194155;
+                  var key = '' + 39.904211 + ':' + 116.407395;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 39.904211, "lng": 116.407395},
+          content: "        <h1><a href=\"/jobs/vericant_python_software_engineer.html\">Python Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Beijing,China</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Thu, 25 Feb 2016</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Vericant</span>\n    \n    <p class=\"detail\"> About\u00a0Vericant Vericant partners with US schools/colleges to identify best-fit Chinese applicants via verified video interviews, proctored writing samples, and spoken English evaluation. One of Vericant\u2019s core ...</p>\n    \n"
+        });
+                        var key = '' + 37.7749295 + ':' + -122.4194155;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 37.7749295, "lng": -122.4194155},
