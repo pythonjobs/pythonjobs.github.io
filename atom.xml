@@ -7,10 +7,57 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-04-13T21:32:43Z</updated>
+    <updated>2016-04-28T10:47:09Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/Navenio_Ltd--Senior_Developer.html"/>
+            <updated>2016-04-27T00:00:00Z</updated>
+            <published>2016-04-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Navenio_Ltd--Senior_Developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="oxford"
+                        label="Oxford" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="tdd"
+                        label="Tdd" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="continuous delivery"
+                        label="Continuous Delivery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="css"
+                        label="Css" />
+            
+            <summary type="text">
+                Would you like to join a team that treats rock-star programmers as rock-stars and uses Done as defined by Ken Schwaber? Are you interested in staying releasable at all times, have no process ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/motiondsp_software_engineer.html"/>
