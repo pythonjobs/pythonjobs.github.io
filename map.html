@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 38.6270025 + ':' + -90.1994042;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/Memrise-Head-Of-Platfrom-Django.html\">Head of Platform (Python/Django)</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 13 Jun 2016</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Memrise</span>\n    \n    <p class=\"detail\"> Overview We\u2019re a team of 25 people working on a product used by millions worldwide that makes learning joyful and effortless, leveraging lots of brain science and plenty of humour in the\u00a0process. We\u2019re scaling fast, ...</p>\n    \n"
+        });
+                        var key = '' + 38.6270025 + ':' + -90.1994042;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 38.6270025, "lng": -90.19940419999999},

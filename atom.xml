@@ -7,10 +7,33 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-05-18T23:32:55Z</updated>
+    <updated>2016-06-13T18:46:35Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Head of Platform (Python/Django)</title>
+            <link href="https://pythonjobs.github.io/jobs/Memrise-Head-Of-Platfrom-Django.html"/>
+            <updated>2016-06-13T00:00:00Z</updated>
+            <published>2016-06-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Memrise-Head-Of-Platfrom-Django.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Overview We’re a team of 25 people working on a product used by millions worldwide that makes learning joyful and effortless, leveraging lots of brain science and plenty of humour in the process. ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/tagglogistics_stl_160505.html"/>
