@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-06-13T18:46:35Z</updated>
+    <updated>2016-06-15T06:17:16Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -32,6 +32,32 @@
             
             <summary type="text">
                 Overview We’re a team of 25 people working on a product used by millions worldwide that makes learning joyful and effortless, leveraging lots of brain science and plenty of humour in the process. ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Backend Engineer Lead</title>
+            <link href="https://pythonjobs.github.io/jobs/Tablet_Hotels_Backend_Engineer_Lead.html"/>
+            <updated>2016-06-10T00:00:00Z</updated>
+            <published>2016-06-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Tablet_Hotels_Backend_Engineer_Lead.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="FreeBSD"
+                        label="Freebsd" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="elasticsearch"
+                        label="Elasticsearch" />
+            
+            <summary type="text">
+                Company Overview Tablet (TabletHotels.com) was founded in the year 2000 by Laurent Vernhes and Michael Davis, a pair of new-media veterans in search of a cure for boring travel and an antidote to ...
             </summary>
         </entry>
                     <entry>
