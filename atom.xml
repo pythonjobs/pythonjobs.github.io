@@ -7,10 +7,33 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-08-22T11:07:42Z</updated>
+    <updated>2016-08-23T15:41:41Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/huq_senior_python_engineer_01.html"/>
+            <updated>2016-08-23T00:00:00Z</updated>
+            <published>2016-08-23T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/huq_senior_python_engineer_01.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Company: Huq provides real world, real time consumer insights at unprecedented scale. Huq has built a proprietary and unique technology that leverages mobile data to interpret what consumers do in ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Junior Backend Developer</title>
             <link href="https://pythonjobs.github.io/jobs/openutility-junior-backend.html"/>
