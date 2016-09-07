@@ -7,10 +7,57 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-05T07:09:51Z</updated>
+    <updated>2016-09-07T10:32:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Web Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/Housekeep_Senior_Web_Developer.html"/>
+            <updated>2016-09-07T00:00:00Z</updated>
+            <published>2016-09-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Housekeep_Senior_Web_Developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Rest Framework"
+                        label="Rest Framework" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Heroku"
+                        label="Heroku" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Angular"
+                        label="Angular" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="API"
+                        label="Api" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Startup"
+                        label="Startup" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cleaning"
+                        label="Cleaning" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="London"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="England"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                Are you… Interested in working at a successful, funded start-up where every team member can make a huge contribution? Keen to make software that people will use every single day to make their ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python / Django Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/octopus-energy-engineer.html"/>
@@ -38,6 +85,32 @@
             
             <summary type="text">
                 Octopus Energy We’re a 6-month-old, tech-focussed energy supplier for the UK based in London with around 25 staff (with around 9 in engineering). There’s a great opportunity for disruption in the ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Web Developer for open data projects</title>
+            <link href="https://pythonjobs.github.io/jobs/open_data_services_python_web_developer.html"/>
+            <updated>2016-09-04T00:00:00Z</updated>
+            <published>2016-09-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/open_data_services_python_web_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Open Data"
+                        label="Open Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Open Source"
+                        label="Open Source" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Co-operative"
+                        label="Co-Operative" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+            
+            <summary type="text">
+                Company overview Open Data Services is a new and growing workers co-operative. We deliver sustainable support for world-changing open data projects, including the Open Contracting Data Standard, ...
             </summary>
         </entry>
                     <entry>
