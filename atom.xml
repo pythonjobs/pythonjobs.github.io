@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-07T10:32:07Z</updated>
+    <updated>2016-09-14T22:53:26Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Junior and Mid-weight Python Developers</title>
+            <link href="https://pythonjobs.github.io/jobs/live-better-with-junior-and-midweight-developers.html"/>
+            <updated>2016-09-14T00:00:00Z</updated>
+            <published>2016-09-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/live-better-with-junior-and-midweight-developers.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="oscar"
+                        label="Oscar" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                Live Better With are hiring Junior and Mid-weight Python Developers. We are expanding our tech team as part of scaling the company. This is an opportunity to make a big impact on our E-commerce ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Web Developer</title>
             <link href="https://pythonjobs.github.io/jobs/Housekeep_Senior_Web_Developer.html"/>
