@@ -7,10 +7,30 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-14T22:53:26Z</updated>
+    <updated>2016-09-15T17:03:51Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer Job</title>
+            <link href="https://pythonjobs.github.io/jobs/Python_developer_Headforwards_Cornwall.html"/>
+            <updated>2016-09-15T00:00:00Z</updated>
+            <published>2016-09-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Python_developer_Headforwards_Cornwall.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Headforwards is an outsource software development company based in Cornwall, South West England. Cornwall is fast becoming a hub for Agile software development. It is home to the renowned Agile ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Junior and Mid-weight Python Developers</title>
             <link href="https://pythonjobs.github.io/jobs/live-better-with-junior-and-midweight-developers.html"/>
