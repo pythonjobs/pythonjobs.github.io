@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-15T17:03:51Z</updated>
+    <updated>2016-09-15T22:57:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -29,6 +29,32 @@
             
             <summary type="text">
                 Headforwards is an outsource software development company based in Cornwall, South West England. Cornwall is fast becoming a hub for Agile software development. It is home to the renowned Agile ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Developer (Contract or Perm)</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_uk_bromley_contractor.html"/>
+            <updated>2016-09-15T00:00:00Z</updated>
+            <published>2016-09-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_uk_bromley_contractor.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scala"
+                        label="Scala" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+            
+            <summary type="text">
+                Job Description We are looking for Python developers to join our new team based in Bromley, South London. We consider developers from all backgrounds and all levels of experience. Developers from ...
             </summary>
         </entry>
                     <entry>
@@ -215,6 +241,29 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Junior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/stackjobs_junior_python_developer.html"/>
+            <updated>2016-07-27T00:00:00Z</updated>
+            <published>2016-07-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/stackjobs_junior_python_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                Junior Python Developer StackJobs is a trending IT job board in the United Kingdom. We are looking for a Junior Python Developer to join our collaborative and forward thinking team located ...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Strats Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/hbk-strats-developer.html"/>
             <updated>2016-07-21T00:00:00Z</updated>
@@ -267,6 +316,26 @@
             
             <summary type="text">
                 About Vericant Vericant partners with US schools/colleges to identify best-fit Chinese applicants via verified video interviews, proctored writing samples, and spoken English evaluation. One of ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Full Stack Developer at Travel Tech Startup</title>
+            <link href="https://pythonjobs.github.io/jobs/tab_london_full_stack_developer_2016-07-07.html"/>
+            <updated>2016-07-07T00:00:00Z</updated>
+            <published>2016-07-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tab_london_full_stack_developer_2016-07-07.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+            
+            <summary type="text">
+                About Tab Tab is a young startup that mixes travel & fintech, and we’re backed by Y Combinator (the incubator/accelerator behind Airbnb, Dropbox and Twitch). Tab powers bookings and payments for ...
             </summary>
         </entry>
                     <entry>
@@ -915,35 +984,6 @@
             
             <summary type="text">
                 Overview Osirium are looking to hire a couple of brilliant engineers for their dev team Please send a github profile to the address above. Role requirements Python Ruby on Rails PostgreSQL Security
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developer (Contract or Perm)</title>
-            <link href="https://pythonjobs.github.io/jobs/baml_uk_contractor.html"/>
-            <updated>2015-11-04T00:00:00Z</updated>
-            <published>2015-11-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/baml_uk_contractor.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="web"
-                        label="Web" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="finance"
-                        label="Finance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nyc"
-                        label="Nyc" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="new_york"
-                        label="New_york" />
-            
-            <summary type="text">
-                Job Description We are looking for Python developers to join our teams in Canary Wharf and St. Pauls. We consider developers from all backgrounds and all levels of experience. Developers from ...
             </summary>
         </entry>
                     <entry>
