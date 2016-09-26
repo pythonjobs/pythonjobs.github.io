@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-15T23:10:41Z</updated>
+    <updated>2016-09-26T16:23:05Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Backend Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/pythonkwalee.html"/>
+            <updated>2016-09-26T00:00:00Z</updated>
+            <published>2016-09-26T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/pythonkwalee.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nosql"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Overview Kwalee is an expanding, independent mobile game developer based right in the heart of Leamington Spa, England, specialising in multiplayer, mass market games featuring user generated ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer Job</title>
             <link href="https://pythonjobs.github.io/jobs/Python_developer_Headforwards_Cornwall.html"/>
