@@ -7,10 +7,54 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-09-26T16:23:05Z</updated>
+    <updated>2016-10-19T11:08:31Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Data Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/DataReplyUK_London_DataEngineer_Perm.html"/>
+            <updated>2016-10-17T00:00:00Z</updated>
+            <published>2016-10-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/DataReplyUK_London_DataEngineer_Perm.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Data"
+                        label="Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Machine Learning"
+                        label="Machine Learning" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ipython"
+                        label="Ipython" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nosql"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Data Science"
+                        label="Data Science" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Spark"
+                        label="Spark" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+            
+            <summary type="text">
+                Overview We have open positions for Data Engineers to join our growing consultancy startup. You will be working with the latest tools and technologies but above all else what matters is how you ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Backend Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/pythonkwalee.html"/>
@@ -1201,50 +1245,6 @@
             
             <summary type="text">
                 Overview Student Affairs Information Technology is seeking a Software Developer. This is an opportunity to build new software business products for UConn staff and students. You will work with a ...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Data Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/DataReplyUK_London_DataEngineer_Perm.html"/>
-            <updated>2015-10-19T00:00:00Z</updated>
-            <published>2015-10-19T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/DataReplyUK_London_DataEngineer_Perm.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Data"
-                        label="Data" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Machine Learning"
-                        label="Machine Learning" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="ipython"
-                        label="Ipython" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nosql"
-                        label="Nosql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Data Science"
-                        label="Data Science" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Spark"
-                        label="Spark" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="numpy"
-                        label="Numpy" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="scipy"
-                        label="Scipy" />
-            
-            <summary type="text">
-                Overview We have open positions for Data Engineers to join our growing consultancy startup. You will be working with the latest tools and technologies but above all else what matters is how you ...
             </summary>
         </entry>
                     <entry>
