@@ -7,10 +7,33 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-10-19T11:08:31Z</updated>
+    <updated>2016-10-19T11:35:27Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">CTO / Lead Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/patch_cto_london.html"/>
+            <updated>2016-10-18T00:00:00Z</updated>
+            <published>2016-10-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/patch_cto_london.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                Overview: Patch are hiring a CTO / Lead Developer. We are expanding our tech team as part of scaling the company. This is an opportunity to make a big impact on our E- commerce platform and help ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Data Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/DataReplyUK_London_DataEngineer_Perm.html"/>
