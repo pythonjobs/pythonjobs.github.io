@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-10-24T12:50:20Z</updated>
+    <updated>2016-10-24T13:42:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -68,6 +68,29 @@
             
             <summary type="text">
                 Introduction Genomics plc is an ambitious genome analytics business formed in March 2014 by four leading scientists at the University of Oxford: Peter Donnelly (Director of the Wellcome Trust ...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Chief Technology Officer</title>
+            <link href="https://pythonjobs.github.io/jobs/patch_garden_CTO.html"/>
+            <updated>2016-10-19T00:00:00Z</updated>
+            <published>2016-10-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/patch_garden_CTO.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                Overview: Patch are hiring Junior and Mid-weight Python Developers. We are expanding our tech team as part of scaling the company. This is an opportunity to make a big impact on our E- commerce ...
             </summary>
         </entry>
                     <entry>
