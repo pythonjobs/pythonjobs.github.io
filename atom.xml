@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-10-24T13:42:07Z</updated>
+    <updated>2016-10-25T09:28:58Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Reliability Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/twosigma_reliability_engineer.html"/>
+            <updated>2016-10-25T00:00:00Z</updated>
+            <published>2016-10-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/twosigma_reliability_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="devops"
+                        label="Devops" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="unix"
+                        label="Unix" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+            
+            <summary type="text">
+                We’re not your typical investment manager. We follow principles of technology and innovation as much as principles of investment management. Fields like machine learning and distributed computing ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Software Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/genomicsplc_senior_software_engineer_20161020.html"/>
