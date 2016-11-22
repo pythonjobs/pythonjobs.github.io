@@ -7,10 +7,33 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2016-10-31T22:27:13Z</updated>
+    <updated>2016-11-22T17:12:50Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python and Javascript Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/odoo_python_developer.html"/>
+            <updated>2016-11-22T00:00:00Z</updated>
+            <published>2016-11-22T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/odoo_python_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Belgium"
+                        label="Belgium" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Open Source"
+                        label="Open Source" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="startup"
+                        label="Startup" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+            
+            <summary type="text">
+                Overview Odoo is a web suite of Open Source business apps in Python: CRM, Website Builder, Accounting, Inventory, Point of Sale, eCommerce, Marketing apps, etc. We are looking for 25 Python ...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Reliability Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/twosigma_reliability_engineer.html"/>
