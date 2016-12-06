@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 34.1705609 + ':' + -118.8375937;
+                  var key = '' + 22.2863943 + ':' + 114.1491375;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 22.2863943, "lng": 114.1491375},
+          content: "        <h1><a href=\"/jobs/ambilabs_hk_backend_developer.html\">Backend Developer for IoT Startup</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Sheung Wan, Hong Kong</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 06 Dec 2016</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Ambi Labs</span>\n    \n    <p class=\"detail\"> We\u2019re currently looking for a Backend Python developer to assist in the design and development of our cloud services. You will implement elegant solutions to complex problems and maintain the modules within the ...</p>\n    \n"
+        });
+                        var key = '' + 34.1705609 + ':' + -118.8375937;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 34.1705609, "lng": -118.8375937},
