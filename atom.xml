@@ -7,10 +7,36 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-18T23:15:12Z</updated>
+    <updated>2017-01-18T23:15:31Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python/Django Developer - Power the world with renewables (Full-time)</title>
+            <link href="https://pythonjobs.github.io/jobs/OpenUtility_Experienced_Python_Django_Dev_London.html"/>
+            <updated>2017-01-16T00:00:00Z</updated>
+            <published>2017-01-16T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/OpenUtility_Experienced_Python_Django_Dev_London.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQL"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Experienced Developer"
+                        label="Experienced Developer" />
+            
+            <summary type="text">
+                Hello Thanks for your interest in our Python/Django Developer role here at Open Utility. We’re a London based startup shaking up the energy industry. We build well designed digital services to...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Backend Developer for IoT Startup</title>
             <link href="https://pythonjobs.github.io/jobs/ambilabs_hk_backend_developer.html"/>
