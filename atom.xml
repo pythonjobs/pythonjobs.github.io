@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-18T23:15:31Z</updated>
+    <updated>2017-01-18T23:25:02Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -35,6 +35,29 @@
             
             <summary type="text">
                 Hello Thanks for your interest in our Python/Django Developer role here at Open Utility. We’re a London based startup shaking up the energy industry. We build well designed digital services to...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Backend Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/teleomed_labs_contract.html"/>
+            <updated>2017-01-13T00:00:00Z</updated>
+            <published>2017-01-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/teleomed_labs_contract.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="drf"
+                        label="Drf" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="security"
+                        label="Security" />
+            
+            <summary type="text">
+                Overview Teleomed Labs is a small development group that specializes in healthcare solutions for vulnerable populations, including low-income seniors, veterans, and people in developing nations....
             </summary>
         </entry>
                     <entry>
