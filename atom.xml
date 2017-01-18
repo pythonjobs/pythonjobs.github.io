@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-18T23:25:02Z</updated>
+    <updated>2017-01-18T23:28:54Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -58,6 +58,38 @@
             
             <summary type="text">
                 Overview Teleomed Labs is a small development group that specializes in healthcare solutions for vulnerable populations, including low-income seniors, veterans, and people in developing nations....
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Full-Stack Web Developer at STEINBAUER Performance</title>
+            <link href="https://pythonjobs.github.io/jobs/STEINBAUER_Performance_Austria_Web-Developer.html"/>
+            <updated>2017-01-12T00:00:00Z</updated>
+            <published>2017-01-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/STEINBAUER_Performance_Austria_Web-Developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PHP"
+                        label="Php" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HTML"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="CSS"
+                        label="Css" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Odoo"
+                        label="Odoo" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Austria"
+                        label="Austria" />
+            
+            <summary type="text">
+                Full-Stack Web Developer YOUR tasks Full-Stack development of web applications incl. Interfaces and Web Services Project supervision - Front and Backend Further development of existing patforms...
             </summary>
         </entry>
                     <entry>
