@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-18T23:28:54Z</updated>
+    <updated>2017-01-21T17:43:43Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -35,6 +35,44 @@
             
             <summary type="text">
                 Hello Thanks for your interest in our Python/Django Developer role here at Open Utility. We’re a London based startup shaking up the energy industry. We build well designed digital services to...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/suade_senior_developer.html"/>
+            <updated>2017-01-13T00:00:00Z</updated>
+            <published>2017-01-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/suade_senior_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="oauth"
+                        label="Oauth" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sqlalchemy"
+                        label="Sqlalchemy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="elasticsearch"
+                        label="Elasticsearch" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Overview We’re pretty proud of the Linux based (micro)service oriented architecture that we’ve built, and now we’re looking for someone to help us take it to the next level. Key technology we use:...
             </summary>
         </entry>
                     <entry>
