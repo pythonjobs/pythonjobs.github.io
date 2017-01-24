@@ -7,10 +7,80 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-21T17:43:43Z</updated>
+    <updated>2017-01-24T13:23:24Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Software Engineer (Mid-Level)</title>
+            <link href="https://pythonjobs.github.io/jobs/ubuquity_press_software_engineer.html"/>
+            <updated>2017-01-24T00:00:00Z</updated>
+            <published>2017-01-24T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ubuquity_press_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="php"
+                        label="Php" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="full-stack"
+                        label="Full-Stack" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="devops"
+                        label="Devops" />
+            
+            <summary type="text">
+                Overview Our platform is specialised for open access academic publishing, which makes research available to anyone in the world, without barriers. It includes all aspects of publishing technology,...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Tech Team Lead</title>
+            <link href="https://pythonjobs.github.io/jobs/ubuquity_press_tech_team_lead.html"/>
+            <updated>2017-01-24T00:00:00Z</updated>
+            <published>2017-01-24T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ubuquity_press_tech_team_lead.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="full-stack"
+                        label="Full-Stack" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="devops"
+                        label="Devops" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="team-lead"
+                        label="Team-Lead" />
+            
+            <summary type="text">
+                Overview Our platform is specialised for open access academic publishing, which makes research available to anyone in the world, without barriers. It includes all aspects of publishing technology,...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python/Django Developer - Power the world with renewables (Full-time)</title>
             <link href="https://pythonjobs.github.io/jobs/OpenUtility_Experienced_Python_Django_Dev_London.html"/>
