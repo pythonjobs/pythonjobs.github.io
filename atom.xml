@@ -7,10 +7,57 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-24T13:23:24Z</updated>
+    <updated>2017-01-25T19:09:50Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer - HFT</title>
+            <link href="https://pythonjobs.github.io/jobs/sartregroup_NY_pythondatadev.html"/>
+            <updated>2017-01-25T00:00:00Z</updated>
+            <published>2017-01-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/sartregroup_NY_pythondatadev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="expert"
+                        label="Expert" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scientific libraries"
+                        label="Scientific Libraries" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="trading analytics"
+                        label="Trading Analytics" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HFT"
+                        label="Hft" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="trade analysis"
+                        label="Trade Analysis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data analysis"
+                        label="Data Analysis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="quant finance"
+                        label="Quant Finance" />
+            
+            <summary type="text">
+                Overview Python developer role, working in a leading financial institution (see company description). The role is placed within a tight-knit engineering team, working on cutting edge data...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Engineer (Mid-Level)</title>
             <link href="https://pythonjobs.github.io/jobs/ubuquity_press_software_engineer.html"/>
