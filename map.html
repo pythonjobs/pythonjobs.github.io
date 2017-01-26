@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 43.2994285 + ':' + -74.2179326;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/yunojuno-django-developer-london.html\">Platform Developer - Python / Django</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Thu, 26 Jan 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> YunoJuno</span>\n    \n    <p class=\"detail\"> Overview YunoJuno was founded by employers and freelancers from the creative and tech industry to redefine the Future of Work. We came together because we believe that the global shift towards freelancing needs an...</p>\n    \n"
+        });
+                        var key = '' + 43.2994285 + ':' + -74.2179326;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 43.2994285, "lng": -74.21793260000001},
