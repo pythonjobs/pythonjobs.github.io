@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-28T00:21:50Z</updated>
+    <updated>2017-01-28T01:42:48Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -344,29 +344,6 @@
             
             <summary type="text">
                 Overview We are looking to make a web portal for our members, where they can login and download a PDF copy of their financial plan. The site would require secure logins of our customers to a...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developer - Build the smartest way to buy a car (Telecommute - full time)</title>
-            <link href="https://pythonjobs.github.io/jobs/Senior_Python_Developer_Unhaggle_Inc.html"/>
-            <updated>2016-11-23T00:00:00Z</updated>
-            <published>2016-11-23T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/Senior_Python_Developer_Unhaggle_Inc.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Telecommute"
-                        label="Telecommute" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Full Stack Developer"
-                        label="Full Stack Developer" />
-            
-            <summary type="text">
-                Python Developer Unhaggle is currently the #1 web portal in Canada for new car buying. The data we provide powers our own tools and products, including our flagship consumer car buying service at...
             </summary>
         </entry>
                     <entry>
