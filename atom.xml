@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-29T11:58:07Z</updated>
+    <updated>2017-01-30T22:14:10Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -228,29 +228,6 @@
             
             <summary type="text">
                 Overview We’re pretty proud of the Linux based (micro)service oriented architecture that we’ve built, and now we’re looking for someone to help us take it to the next level. Key technology we use:...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Backend Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/teleomed_labs_contract.html"/>
-            <updated>2017-01-13T00:00:00Z</updated>
-            <published>2017-01-13T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/teleomed_labs_contract.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="drf"
-                        label="Drf" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="security"
-                        label="Security" />
-            
-            <summary type="text">
-                Overview Teleomed Labs is a small development group that specializes in healthcare solutions for vulnerable populations, including low-income seniors, veterans, and people in developing nations....
             </summary>
         </entry>
                     <entry>
