@@ -7,10 +7,49 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-01-31T14:09:09Z</updated>
+    <updated>2017-02-02T00:01:23Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/Software_Engineer_Molex.html"/>
+            <author>Annette Wise</author>
+            <updated>2017-01-31T00:00:00Z</updated>
+            <published>2017-01-31T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Software_Engineer_Molex.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="us"
+                        label="Us" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="wxPython"
+                        label="Wxpython" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PyQt"
+                        label="Pyqt" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="architecture"
+                        label="Architecture" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="svn"
+                        label="Svn" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="git"
+                        label="Git" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scientific"
+                        label="Scientific" />
+            
+            <summary type="text">
+                Position Overview Molex is seeking a Software Engineer enthusiast to develop, integrate, and deploy software to facilitate the design, manufacture, and testing of high-speed electrical...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Platform Developer - Python / Django</title>
             <link href="https://pythonjobs.github.io/jobs/yunojuno-django-developer-london.html"/>

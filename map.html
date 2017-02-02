@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 34.8667565 + ':' + -92.4043219;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 34.8667565, "lng": -92.4043219},
+          content: "        <h1><a href=\"/jobs/Software_Engineer_Molex.html\">Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Maumelle, AR</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 31 Jan 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Molex, LLC</span>\n    \n    <p class=\"detail\"> Position\u00a0Overview Molex is seeking a Software Engineer enthusiast to develop, integrate, and deploy software to facilitate the design, manufacture, and testing of high-speed electrical interconnects across multiple...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
