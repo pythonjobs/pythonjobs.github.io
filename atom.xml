@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-02T00:01:23Z</updated>
+    <updated>2017-02-03T00:05:12Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -135,6 +135,54 @@
             
             <summary type="text">
                 Overview Python developer role, working in a leading financial institution (see company description). The role is placed within a tight-knit engineering team, working on cutting edge data...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Experienced Python Developer - Quant Finance</title>
+            <link href="https://pythonjobs.github.io/jobs/sartregroup_london_exppythondev.html"/>
+            <author>Joe Jolly</author>
+            <updated>2017-01-25T00:00:00Z</updated>
+            <published>2017-01-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/sartregroup_london_exppythondev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="experienced"
+                        label="Experienced" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scientific libraries"
+                        label="Scientific Libraries" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data visualisation"
+                        label="Data Visualisation" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="D3"
+                        label="D3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="matplotlib"
+                        label="Matplotlib" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="greenfield development"
+                        label="Greenfield Development" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="quant finance"
+                        label="Quant Finance" />
+            
+            <summary type="text">
+                Overview Experienced python developer role, working in a leading financial institution (see company description). The role is placed within a globally distributed technology team (US and UK), as...
             </summary>
         </entry>
                     <entry>
