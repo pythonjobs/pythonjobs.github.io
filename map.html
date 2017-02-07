@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 34.8667565 + ':' + -92.4043219;
+                  var key = '' + 52.205337 + ':' + 0.121817;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 52.205337, "lng": 0.121817},
+          content: "        <h1><a href=\"/jobs/enthought_web-developer.html\">Full Stack Web Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Cambridge, UK</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 06 Feb 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Enthought</span>\n    \n    <p class=\"detail\"> Overview This is an opportunity to be part of a small team at Enthought to build a growing set of web services, for both internal use and customer-facing SaaS. We are looking for experienced web developers to expand...</p>\n    \n"
+        });
+                        var key = '' + 34.8667565 + ':' + -92.4043219;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 34.8667565, "lng": -92.4043219},

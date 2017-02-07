@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-03T00:05:12Z</updated>
+    <updated>2017-02-07T10:35:50Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Full Stack Web Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/enthought_web-developer.html"/>
+            <author>Jill Cowan</author>
+            <updated>2017-02-06T00:00:00Z</updated>
+            <published>2017-02-06T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/enthought_web-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Overview This is an opportunity to be part of a small team at Enthought to build a growing set of web services, for both internal use and customer-facing SaaS. We are looking for experienced web...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/Software_Engineer_Molex.html"/>
