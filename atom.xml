@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-12T22:45:43Z</updated>
+    <updated>2017-02-12T22:46:05Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -63,6 +63,30 @@
             
             <summary type="text">
                 About the Job At ThoughtLeadr, we provide our clients with best-in-class analytics and advertising solutions. The Engineering and Products teams work tightly together to create a shared vision for...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/qustodio_backend_barcelona_contract_1.html"/>
+            <author>Andreas Papaspyropoulos</author>
+            <updated>2017-02-08T00:00:00Z</updated>
+            <published>2017-02-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/qustodio_backend_barcelona_contract_1.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="spain"
+                        label="Spain" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="barcelona"
+                        label="Barcelona" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Overview Qustodio is a parental control company with offices in the center of Barcelona. We are a multi-national group with a passion for security, software and technology. Our product is a...
             </summary>
         </entry>
                     <entry>
