@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-07T10:35:50Z</updated>
+    <updated>2017-02-12T22:29:14Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -30,6 +30,9 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="django"
                         label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="angular"
+                        label="Angular" />
             
             <summary type="text">
                 Overview This is an opportunity to be part of a small team at Enthought to build a growing set of web services, for both internal use and customer-facing SaaS. We are looking for experienced web...
