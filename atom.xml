@@ -7,10 +7,85 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-12T22:46:05Z</updated>
+    <updated>2017-02-20T15:13:59Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Backend Platform Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html"/>
+            <author>Jian Yuan Lee</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                Yoyo Wallet Launched in 2014 at Imperial College London, Yoyo Wallet has become the UK’s fastest growing mobile wallet by expanding across hundreds of University and Corporate locations. In the...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/yoyowallet_senior_devops_engineer.html"/>
+            <author>Jian Yuan Lee</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/yoyowallet_senior_devops_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="chatops"
+                        label="Chatops" />
+            
+            <summary type="text">
+                Yoyo Wallet Launched in 2014 at Imperial College London, Yoyo Wallet has become the UK’s fastest growing mobile wallet by expanding across hundreds of University and Corporate locations. In the...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Web Services Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
