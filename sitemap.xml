@@ -4,6 +4,12 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html</loc>
+    </url>
+                <url>
+    <loc>https://pythonjobs.github.io/jobs/wegift_senior_python_software_engineer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html</loc>
     </url>
                 <url>
@@ -582,6 +588,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/jenkins.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/jinja2.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/json.html</loc>

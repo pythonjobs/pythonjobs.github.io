@@ -7,10 +7,88 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-20T15:13:59Z</updated>
+    <updated>2017-02-27T17:55:51Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html"/>
+            <author>Aron Alexander</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jinja2"
+                        label="Jinja2" />
+            
+            <summary type="text">
+                Overview We are looking for: A highly talented full stack engineer. Who is looking to build a new multi-faceted greenfield platform. Who relishes the unique challenges of working in a...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Python Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/wegift_senior_python_software_engineer.html"/>
+            <author>Aron Alexander</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/wegift_senior_python_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jinja2"
+                        label="Jinja2" />
+            
+            <summary type="text">
+                Overview We are looking for: A highly talented full stack engineer. Who is looking to build a new multi-faceted greenfield platform. Who relishes the unique challenges of working in a...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Backend Platform Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html"/>
