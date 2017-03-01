@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 50.1109221 + ':' + 8.6821267;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 50.1109221, "lng": 8.6821267},
+          content: "        <h1><a href=\"/jobs/quoscient_cybersecurity_germany_permanent.html\">Senior Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Frankfurt am Main, Germany</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 01 Mar 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> QuoScient GmbH</span>\n    \n    <p class=\"detail\"> Overview QuoScient is a specialist in Information Security Services. We are providing security integration support, incident response consultancy and a distributed analysis platform that is supporting collaboration...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},

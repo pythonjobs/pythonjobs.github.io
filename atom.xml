@@ -7,10 +7,46 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-02-27T17:55:51Z</updated>
+    <updated>2017-03-01T20:04:04Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/quoscient_cybersecurity_germany_permanent.html"/>
+            <author>Ina Klemm</author>
+            <updated>2017-03-01T00:00:00Z</updated>
+            <published>2017-03-01T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/quoscient_cybersecurity_germany_permanent.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="germany"
+                        label="Germany" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python 3"
+                        label="Python 3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cyber security"
+                        label="Cyber Security" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="NoSQL"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="OOP"
+                        label="Oop" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Git"
+                        label="Git" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Unix"
+                        label="Unix" />
+            
+            <summary type="text">
+                Overview QuoScient is a specialist in Information Security Services. We are providing security integration support, incident response consultancy and a distributed analysis platform that is...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Software Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html"/>
