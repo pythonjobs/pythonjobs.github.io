@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-03-01T23:03:49Z</updated>
+    <updated>2017-03-01T23:12:26Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -75,6 +75,372 @@
             
             <summary type="text">
                 Job Description We are looking for a DevOps expert to join our New York teams. We are building an application which will use a large Elastic Search index to make certain kinds of financial data...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/quoscient_cybersecurity_germany_permanent.html"/>
+            <author>Ina Klemm</author>
+            <updated>2017-03-01T00:00:00Z</updated>
+            <published>2017-03-01T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/quoscient_cybersecurity_germany_permanent.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="germany"
+                        label="Germany" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python 3"
+                        label="Python 3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cyber security"
+                        label="Cyber Security" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="NoSQL"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="OOP"
+                        label="Oop" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Git"
+                        label="Git" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Unix"
+                        label="Unix" />
+            
+            <summary type="text">
+                Overview QuoScient is a specialist in Information Security Services. We are providing security integration support, incident response consultancy and a distributed analysis platform that is...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/lima_devops.html"/>
+            <author>Aloïs Guillopé</author>
+            <updated>2017-02-27T00:00:00Z</updated>
+            <published>2017-02-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/lima_devops.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nginx"
+                        label="Nginx" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+            
+            <summary type="text">
+                Lima is a revolutionary and innovative technology that consolidates all of your content, enabling you to browse the same files on all of your devices regardless of operating system or device size....
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html"/>
+            <author>Aron Alexander</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/wegift_python_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jinja2"
+                        label="Jinja2" />
+            
+            <summary type="text">
+                Overview We are looking for: A highly talented full stack engineer. Who is looking to build a new multi-faceted greenfield platform. Who relishes the unique challenges of working in a...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Python Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/wegift_senior_python_software_engineer.html"/>
+            <author>Aron Alexander</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/wegift_senior_python_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jinja2"
+                        label="Jinja2" />
+            
+            <summary type="text">
+                Overview We are looking for: A highly talented full stack engineer. Who is looking to build a new multi-faceted greenfield platform. Who relishes the unique challenges of working in a...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Backend Platform Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html"/>
+            <author>Jian Yuan Lee</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/yoyowallet_backend_platform_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+            
+            <summary type="text">
+                Yoyo Wallet Launched in 2014 at Imperial College London, Yoyo Wallet has become the UK’s fastest growing mobile wallet by expanding across hundreds of University and Corporate locations. In the...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/yoyowallet_senior_devops_engineer.html"/>
+            <author>Jian Yuan Lee</author>
+            <updated>2017-02-17T00:00:00Z</updated>
+            <published>2017-02-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/yoyowallet_senior_devops_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="chatops"
+                        label="Chatops" />
+            
+            <summary type="text">
+                Yoyo Wallet Launched in 2014 at Imperial College London, Yoyo Wallet has become the UK’s fastest growing mobile wallet by expanding across hundreds of University and Corporate locations. In the...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Web Services Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
+            <author>John-Paul Stanford</author>
+            <updated>2017-02-10T00:00:00Z</updated>
+            <published>2017-02-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cambridge"
+                        label="Cambridge" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+            
+            <summary type="text">
+                Overview We are looking for a talented web services engineer who relishes the unique challenges of working in a new business space, to help us provide reliable web services that are part of our...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/ThoughtLeadr-Python-Engineer-NativeKit.html"/>
+            <author>Todd Cullen</author>
+            <updated>2017-02-08T00:00:00Z</updated>
+            <published>2017-02-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ThoughtLeadr-Python-Engineer-NativeKit.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Austin"
+                        label="Austin" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Texas"
+                        label="Texas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="USA"
+                        label="Usa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="React"
+                        label="React" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+            
+            <summary type="text">
+                About the Job At ThoughtLeadr, we provide our clients with best-in-class analytics and advertising solutions. The Engineering and Products teams work tightly together to create a shared vision for...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/qustodio_backend_barcelona_contract_1.html"/>
+            <author>Andreas Papaspyropoulos</author>
+            <updated>2017-02-08T00:00:00Z</updated>
+            <published>2017-02-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/qustodio_backend_barcelona_contract_1.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="spain"
+                        label="Spain" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="barcelona"
+                        label="Barcelona" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Overview Qustodio is a parental control company with offices in the center of Barcelona. We are a multi-national group with a passion for security, software and technology. Our product is a...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Full Stack Web Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/enthought_web-developer.html"/>
+            <author>Jill Cowan</author>
+            <updated>2017-02-06T00:00:00Z</updated>
+            <published>2017-02-06T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/enthought_web-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="angular"
+                        label="Angular" />
+            
+            <summary type="text">
+                Overview This is an opportunity to be part of a small team at Enthought to build a growing set of web services, for both internal use and customer-facing SaaS. We are looking for experienced web...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Software Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/Software_Engineer_Molex.html"/>
+            <author>Annette Wise</author>
+            <updated>2017-01-31T00:00:00Z</updated>
+            <published>2017-01-31T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Software_Engineer_Molex.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="us"
+                        label="Us" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="wxPython"
+                        label="Wxpython" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PyQt"
+                        label="Pyqt" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="architecture"
+                        label="Architecture" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="svn"
+                        label="Svn" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="git"
+                        label="Git" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scientific"
+                        label="Scientific" />
+            
+            <summary type="text">
+                Position Overview Molex is seeking a Software Engineer enthusiast to develop, integrate, and deploy software to facilitate the design, manufacture, and testing of high-speed electrical...
             </summary>
         </entry>
                     <entry>
@@ -162,6 +528,54 @@
             
             <summary type="text">
                 Overview Python developer role, working in a leading financial institution (see company description). The role is placed within a tight-knit engineering team, working on cutting edge data...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Experienced Python Developer - Quant Finance</title>
+            <link href="https://pythonjobs.github.io/jobs/sartregroup_london_exppythondev.html"/>
+            <author>Joe Jolly</author>
+            <updated>2017-01-25T00:00:00Z</updated>
+            <published>2017-01-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/sartregroup_london_exppythondev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="experienced"
+                        label="Experienced" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scientific libraries"
+                        label="Scientific Libraries" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pandas"
+                        label="Pandas" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scipy"
+                        label="Scipy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="numpy"
+                        label="Numpy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data visualisation"
+                        label="Data Visualisation" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="D3"
+                        label="D3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="matplotlib"
+                        label="Matplotlib" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="greenfield development"
+                        label="Greenfield Development" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="quant finance"
+                        label="Quant Finance" />
+            
+            <summary type="text">
+                Overview Experienced python developer role, working in a leading financial institution (see company description). The role is placed within a globally distributed technology team (US and UK), as...
             </summary>
         </entry>
                     <entry>
@@ -300,30 +714,6 @@
             
             <summary type="text">
                 Overview We’re pretty proud of the Linux based (micro)service oriented architecture that we’ve built, and now we’re looking for someone to help us take it to the next level. Key technology we use:...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Backend Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/teleomed_labs_contract.html"/>
-            <author>Team</author>
-            <updated>2017-01-13T00:00:00Z</updated>
-            <published>2017-01-13T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/teleomed_labs_contract.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="drf"
-                        label="Drf" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="security"
-                        label="Security" />
-            
-            <summary type="text">
-                Overview Teleomed Labs is a small development group that specializes in healthcare solutions for vulnerable populations, including low-income seniors, veterans, and people in developing nations....
             </summary>
         </entry>
                     <entry>
@@ -2703,27 +3093,6 @@
             
             <summary type="text">
                 Summary Full-stack developer helping create web-based applications for NaviSite’s enterprise cloud computing solution, custom APIs, and third-party product integrations. Responsibilities Work on...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Web Services Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/arm-web.html"/>
-            <author>Dan Ros</author>
-            <updated>2015-03-11T00:00:00Z</updated>
-            <published>2015-03-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/arm-web.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cambridge"
-                        label="Cambridge" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-            
-            <summary type="text">
-                Overview My team within ARM is looking for a full time permanent full stack web services engineer. The role is based on site in our Cambridge office. You’ll be part of a web services team...
             </summary>
         </entry>
                     <entry>
