@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-03-01T20:04:04Z</updated>
+    <updated>2017-03-01T20:04:21Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -45,6 +45,39 @@
             
             <summary type="text">
                 Overview QuoScient is a specialist in Information Security Services. We are providing security integration support, incident response consultancy and a distributed analysis platform that is...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/lima_devops.html"/>
+            <author>Aloïs Guillopé</author>
+            <updated>2017-02-27T00:00:00Z</updated>
+            <published>2017-02-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/lima_devops.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nginx"
+                        label="Nginx" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+            
+            <summary type="text">
+                Lima is a revolutionary and innovative technology that consolidates all of your content, enabling you to browse the same files on all of your devices regardless of operating system or device size....
             </summary>
         </entry>
                     <entry>
