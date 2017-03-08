@@ -1,0 +1,4 @@
+Title: Freelance Django Developer.
+Company: Niche.
+Tags: python sql django freelance remote telecommute.
+Startup company seeks freelance Python/Django developer for putting finishing touches on our product. We are practically in our eleventh hour, and need additional help to get ready and appropriately scalable for primetime. Ongoing maintenance will be needed as well. Fullstack experience is a plus. Please send a CV to the address above.   Python Django PostgreSQL Celery Stripe Fabric Saltstack  Please make sure to include a link or reference to experience (resume, linkedin, etc.). This is a remote position, but we can only accept US-based developers at this time.

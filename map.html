@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5138453 + ':' + -0.0983506;
+                  var key = '' + 40.7127837 + ':' + -74.0059413;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 40.7127837, "lng": -74.0059413},
+          content: "        <h1><a href=\"/jobs/nicheny-django-developer.html\">Freelance Django Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> New York, NY</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 07 Mar 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> contract</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Niche</span>\n    \n    <p class=\"detail\"> Overview Startup company seeks freelance Python/Django developer for putting finishing touches on our product. We are practically in our eleventh hour, and need additional help to get ready and appropriately scalable...</p>\n    \n"
+        });
+                        var key = '' + 51.5138453 + ':' + -0.0983506;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5138453, "lng": -0.0983506},
