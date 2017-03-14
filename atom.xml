@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-03-08T16:17:46Z</updated>
+    <updated>2017-03-14T10:02:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Test Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/baml_uk_london_lead_developer.html"/>
+            <author>Salim Fadhley</author>
+            <updated>2017-03-14T00:00:00Z</updated>
+            <published>2017-03-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/baml_uk_london_lead_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="testing"
+                        label="Testing" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jenkins"
+                        label="Jenkins" />
+            
+            <summary type="text">
+                Job Description We are looking for an experienced developer to join an existing team within Middle Office Technology, a team based in our central London office. This team is primarily concerned...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Freelance Django Developer</title>
             <link href="https://pythonjobs.github.io/jobs/nicheny-django-developer.html"/>
@@ -471,6 +501,33 @@
             
             <summary type="text">
                 Position Overview Molex is seeking a Software Engineer enthusiast to develop, integrate, and deploy software to facilitate the design, manufacture, and testing of high-speed electrical...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/3dhubs_amsterdam_python_flask.html"/>
+            <author>Alina Cojanu</author>
+            <updated>2017-01-27T00:00:00Z</updated>
+            <published>2017-01-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/3dhubs_amsterdam_python_flask.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Redis"
+                        label="Redis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQLAlchemy"
+                        label="Sqlalchemy" />
+            
+            <summary type="text">
+                Overview At 3D Hubs we are doing something that has never been done before; decentralising manufacturing by connecting people who want to 3D print to the people owning the machines. Today, 3D Hubs...
             </summary>
         </entry>
                     <entry>
