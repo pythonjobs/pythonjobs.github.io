@@ -7,12 +7,12 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-03-14T10:17:32Z</updated>
+    <updated>2017-03-14T10:19:41Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
-            <title type="html">Test Engineer</title>
+            <title type="html">Lead Developer</title>
             <link href="https://pythonjobs.github.io/jobs/baml_uk_london_lead_developer.html"/>
             <author>Salim Fadhley</author>
             <updated>2017-03-14T00:00:00Z</updated>
@@ -33,9 +33,6 @@
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="testing"
                         label="Testing" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="jenkins"
-                        label="Jenkins" />
             
             <summary type="text">
                 Job Description We are looking for an experienced developer to join an existing team within Middle Office Technology, a team based in our central London office. This team is primarily concerned...
