@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-03-29T16:45:28Z</updated>
+    <updated>2017-03-30T11:21:22Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Sr. Staff SQA Engineer (Automation Tools</title>
+            <link href="https://pythonjobs.github.io/jobs/panw_sr_staff_sqa_engineer_automation_tools.html"/>
+            <author>Darlene Wong</author>
+            <updated>2017-03-27T00:00:00Z</updated>
+            <published>2017-03-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/panw_sr_staff_sqa_engineer_automation_tools.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="networking"
+                        label="Networking" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="linux"
+                        label="Linux" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="firewall"
+                        label="Firewall" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Palo Alto Networks Palo Alto Networks® is the fastest-growing security company in history. We offer the chance to be part of an important mission: ending breaches and protecting our way of digital...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Lead Developer</title>
             <link href="https://pythonjobs.github.io/jobs/live-better-with-lead-developer.html"/>
