@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 37.3541079 + ':' + -121.9552356;
+                  var key = '' + 60.1698557 + ':' + 24.938379;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 60.16985569999999, "lng": 24.938379},
+          content: "        <h1><a href=\"/jobs/EniramFI_Developer_Infra.html\">Software Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Helsinki, Finland</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Thu, 30 Mar 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Eniram (a W\u00e4rtsil\u00e4 company)</span>\n    \n    <p class=\"detail\"> Tired of the same old ERP and IoT projects? Would you rather use your skills to help save fuel, the environment, and lives? At Eniram, we provide measurable benefits to our seafaring customers by crunching data to...</p>\n    \n"
+        });
+                        var key = '' + 37.3541079 + ':' + -121.9552356;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 37.3541079, "lng": -121.9552356},
