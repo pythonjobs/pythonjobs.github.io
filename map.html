@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 60.1698557 + ':' + 24.938379;
+                  var key = '' + 48.2488721 + ':' + 11.6532477;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 48.2488721, "lng": 11.6532477},
+          content: "        <h1><a href=\"/jobs/MLZ2.html\">Scientific Software Developer (Python and C++)</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Garching near Munich, Germany</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 05 Apr 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> temporary (3+ years)</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Forschungszentrum J\u00fclich GmbH</span>\n    \n    <p class=\"detail\"> Overview With a Staff of 5700, Forschungszentrum J\u00fclich - a member of the Helmholtz Association - is one of the largest interdisciplinary research centers in Europe. The J\u00fclich Centre for Neutron Science (JCNS)...</p>\n    \n"
+        });
+                        var key = '' + 60.1698557 + ':' + 24.938379;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 60.16985569999999, "lng": 24.938379},

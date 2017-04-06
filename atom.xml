@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-04-01T10:55:26Z</updated>
+    <updated>2017-04-06T11:39:53Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Scientific Software Developer (Python and C++)</title>
+            <link href="https://pythonjobs.github.io/jobs/MLZ2.html"/>
+            <author>Dr. Joachim Wuttke</author>
+            <updated>2017-04-05T00:00:00Z</updated>
+            <published>2017-04-05T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/MLZ2.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="germany"
+                        label="Germany" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="C++"
+                        label="C++" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="physics"
+                        label="Physics" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="post-doc"
+                        label="Post-Doc" />
+            
+            <summary type="text">
+                Overview With a Staff of 5700, Forschungszentrum Jülich - a member of the Helmholtz Association - is one of the largest interdisciplinary research centers in Europe. The Jülich Centre for Neutron...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Developer</title>
             <link href="https://pythonjobs.github.io/jobs/EniramFI_Developer_Infra.html"/>
