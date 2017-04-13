@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-04-13T18:53:44Z</updated>
+    <updated>2017-04-13T18:54:05Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Backend Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/Arabella-Backend-Software-Engineer.html"/>
+            <author>Jacek Ostanski</author>
+            <updated>2017-04-13T00:00:00Z</updated>
+            <published>2017-04-13T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Arabella-Backend-Software-Engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="tdd"
+                        label="Tdd" />
+            
+            <summary type="text">
+                We are seeking enthusiastic, intelligent individuals to join our team and in return, we offer an exciting and challenging environment where you can continually contribute to solving real...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Full Stack to join the ‘Github for Hardware’</title>
             <link href="https://pythonjobs.github.io/jobs/Wevolver_Senior_Full_Stack.html"/>
