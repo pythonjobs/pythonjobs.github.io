@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 43.0059455 + ':' + -123.8925908;
+                  var key = '' + 51.5153161 + ':' + -0.1321398;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5153161, "lng": -0.1321398},
+          content: "        <h1><a href=\"/jobs/senior-platform-and-devops-engineer-at-popsa.html\">Senior Platform & DevOps Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Soho Square, London, UK</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Tue, 18 Apr 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Popsa</span>\n    \n    <p class=\"detail\"> About\u00a0Us Popsa is an e-Commerce startup that uses data to automatically create personalised prints such as photobooks, calendars, posters, canvases, and\u00a0postcards. Our vision is to generate beautiful keep-sake...</p>\n    \n"
+        });
+                        var key = '' + 43.0059455 + ':' + -123.8925908;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 43.0059455, "lng": -123.8925908},

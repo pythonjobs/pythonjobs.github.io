@@ -7,10 +7,55 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-04-13T18:54:05Z</updated>
+    <updated>2017-04-18T16:44:07Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Platform &amp; DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/senior-platform-and-devops-engineer-at-popsa.html"/>
+            <author>Tom Cohen</author>
+            <updated>2017-04-18T00:00:00Z</updated>
+            <published>2017-04-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/senior-platform-and-devops-engineer-at-popsa.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="AWS"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="EC2"
+                        label="Ec2" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jenkins"
+                        label="Jenkins" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="lambda"
+                        label="Lambda" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Laravel"
+                        label="Laravel" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="node"
+                        label="Node" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PHP"
+                        label="Php" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="REST"
+                        label="Rest" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQL"
+                        label="Sql" />
+            
+            <summary type="text">
+                About Us Popsa is an e-Commerce startup that uses data to automatically create personalised prints such as photobooks, calendars, posters, canvases, and postcards. Our vision is to generate...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Backend Developer</title>
             <link href="https://pythonjobs.github.io/jobs/Arabella-Backend-Software-Engineer.html"/>
