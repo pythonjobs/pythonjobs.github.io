@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-05-02T11:18:57Z</updated>
+    <updated>2017-05-04T22:27:04Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python/Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/PrimarySiteDjangoDev.html"/>
+            <author>Christian Ledermann</author>
+            <updated>2017-05-04T00:00:00Z</updated>
+            <published>2017-05-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/PrimarySiteDjangoDev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Django Developer This is an exceptional opportunity to be a key part of a team of eight developers and three sysadmins at PrimarySite, the leading provider of primary school websites....
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Tech Lead - Platform / Django</title>
             <link href="https://pythonjobs.github.io/jobs/YunoJuno_London_TechLead.html"/>
