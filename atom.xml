@@ -7,10 +7,46 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-05-04T22:27:04Z</updated>
+    <updated>2017-05-06T01:50:09Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Backend Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/pythonjobs-madecom-developer-2017-05-05.html"/>
+            <author>Jon Bramley</author>
+            <updated>2017-05-05T00:00:00Z</updated>
+            <published>2017-05-05T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/pythonjobs-madecom-developer-2017-05-05.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="TDD"
+                        label="Tdd" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="DDD"
+                        label="Ddd" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="AWS"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SOA"
+                        label="Soa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Event Sourcing"
+                        label="Event Sourcing" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="EventStore"
+                        label="Eventstore" />
+            
+            <summary type="text">
+                This is a header WHO WE ARE At MADE.COM we believe that everyone should have access to great design, so we’ve taken a unique approach to making and selling furniture - no middlemen, no agents or...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python/Django Developer</title>
             <link href="https://pythonjobs.github.io/jobs/PrimarySiteDjangoDev.html"/>
