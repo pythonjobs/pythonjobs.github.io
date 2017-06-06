@@ -7,17 +7,164 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-05-06T01:50:09Z</updated>
+    <updated>2017-06-06T13:48:24Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
+            <title type="html">Experienced Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html"/>
+            <author>Koen Vossen</author>
+            <updated>2017-05-31T00:00:00Z</updated>
+            <published>2017-05-31T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="machine learning"
+                        label="Machine Learning" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="belgium"
+                        label="Belgium" />
+            
+            <summary type="text">
+                Enervalis believes in a maximal green energy future and therefore has set itself the mission to build the operating system of the future energy networks. To support fast growth in a very exciting...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python/Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/skilljar_sde_seattle.html"/>
+            <author>Hiring Manager</author>
+            <updated>2017-05-22T00:00:00Z</updated>
+            <published>2017-05-22T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/skilljar_sde_seattle.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django-rest-framework"
+                        label="Django-Rest-Framework" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="heroku"
+                        label="Heroku" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Skilljar - Software Development Engineer Skilljar is seeking a versatile Software Development Engineer to join our fast-growing team. This person will be responsible for the technical design,...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/adspert_python_dev.html"/>
+            <author>Karl Bartel</author>
+            <updated>2017-05-15T00:00:00Z</updated>
+            <published>2017-05-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/adspert_python_dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+            
+            <summary type="text">
+                We are looking for a Python Software Developer Note: The position is full-time and based in our Berlin office, therefore if you are outside of Berlin you must be prepared to relocate for...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python / Django Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/octopus-energy-engineer.html"/>
+            <author>Omer Korner</author>
+            <updated>2017-05-15T00:00:00Z</updated>
+            <published>2017-05-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/octopus-energy-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="soho"
+                        label="Soho" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="terraform"
+                        label="Terraform" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="packer"
+                        label="Packer" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="react"
+                        label="React" />
+            
+            <summary type="text">
+                Octopus Energy We are a tech-focused energy supplier for the UK market and we’re looking for diligent software engineers to join us. There’s a great opportunity for disruption in the UK energy...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/opensyllabus-project.html"/>
+            <author>Joe Karaganis</author>
+            <updated>2017-05-08T00:00:00Z</updated>
+            <published>2017-05-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/opensyllabus-project.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+            
+            <summary type="text">
+                The Open Syllabus Project is an academic data mining project based at Columbia University that’s analyzing a corpus of 1M+ college course syllabi. We’re building a wide range of tools and services...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Backend Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/pythonjobs-madecom-developer-2017-05-05.html"/>
+            <link href="https://pythonjobs.github.io/jobs/madecom-developer-2017-05-05.html"/>
             <author>Jon Bramley</author>
             <updated>2017-05-05T00:00:00Z</updated>
             <published>2017-05-05T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/pythonjobs-madecom-developer-2017-05-05.html</id>
+            <id>https://pythonjobs.github.io/jobs/madecom-developer-2017-05-05.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
@@ -44,7 +191,7 @@
                         label="Eventstore" />
             
             <summary type="text">
-                This is a header WHO WE ARE At MADE.COM we believe that everyone should have access to great design, so we’ve taken a unique approach to making and selling furniture - no middlemen, no agents or...
+                Who we are At MADE.COM we believe that everyone should have access to great design, so we’ve taken a unique approach to making and selling furniture - no middlemen, no agents or importers and no...
             </summary>
         </entry>
                     <entry>
@@ -248,7 +395,7 @@
                         label="Open Source" />
             
             <summary type="text">
-                I’m Bram Geenen, co-founder of Wevolver, and if you are skilled, highly motivated, and keen to make a big positive impact, then our team might be a great place for you. Intro: Wevolver is a...
+                I’m Bram Geenen, co-founder of Wevolver, and if you are skilled, highly motivated, and keen to make a big positive impact, then our team might be a great place for you. Intro Wevolver is a...
             </summary>
         </entry>
                     <entry>
@@ -1569,36 +1716,6 @@
             
             <summary type="text">
                 Are you… Interested in working at a successful, funded start-up where every team member can make a huge contribution? Keen to make software that people will use every single day to make their...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python / Django Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/octopus-energy-engineer.html"/>
-            <author>David Winterbottom</author>
-            <updated>2016-09-04T00:00:00Z</updated>
-            <published>2016-09-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/octopus-energy-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-            
-            <summary type="text">
-                Octopus Energy We’re a 6-month-old, tech-focussed energy supplier for the UK based in London with around 25 staff (with around 9 in engineering). There’s a great opportunity for disruption in the...
             </summary>
         </entry>
                     <entry>
