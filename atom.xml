@@ -7,10 +7,55 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-06-07T12:37:13Z</updated>
+    <updated>2017-06-12T22:36:00Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/arctic-shores-senior-python-developer.html"/>
+            <author>Safe Hammad</author>
+            <updated>2017-06-12T00:00:00Z</updated>
+            <published>2017-06-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/arctic-shores-senior-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="manchester"
+                        label="Manchester" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="linux"
+                        label="Linux" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="html"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="css"
+                        label="Css" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+            
+            <summary type="text">
+                About Us Arctic Shores is global provider of game-based psychometric assessments which enable organisations to differentiate their hiring process and make fair and objective hiring decisions....
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Experienced Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html"/>
