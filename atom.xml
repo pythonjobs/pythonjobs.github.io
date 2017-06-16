@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-06-12T22:36:00Z</updated>
+    <updated>2017-06-16T07:39:28Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Software Engineer - Python</title>
+            <link href="https://pythonjobs.github.io/jobs/tenable_senior_software_engineer.html"/>
+            <author>Lucas Tamagna-Darr</author>
+            <updated>2017-06-15T00:00:00Z</updated>
+            <published>2017-06-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tenable_senior_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="elasticsearch"
+                        label="Elasticsearch" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Overview Tenable is looking for a senior software engineer to join our team. This position will involve designing, developing, and maintaining an automated system for collecting vulnerability and...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/arctic-shores-senior-python-developer.html"/>

@@ -1,0 +1,4 @@
+Title: Senior Software Engineer - Python.
+Company: Tenable Network Security.
+Tags: python elasticsearch senior.
+Tenable is looking for a senior software engineer to join our team. This position will involve designing, developing,  and maintaining an automated system for collecting vulnerability and threat information and using that data to generate content for Tenable products. Please send a CV to the address above.   Strong Python development skills in Python 2.7 or 3.x  Experience in multi-threaded programming Experienced with Elasticsearch Experience with distributed web applications Prior experience with web scraping preferred Experience using templating libraries Experience using Linux as a primary development environment Experience with revision control systems Excellent communication and analytical skills
