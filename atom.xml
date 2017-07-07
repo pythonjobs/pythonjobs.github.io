@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-06-20T18:30:34Z</updated>
+    <updated>2017-07-07T21:14:49Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -111,6 +111,36 @@
             
             <summary type="text">
                 About Us Arctic Shores is global provider of game-based psychometric assessments which enable organisations to differentiate their hiring process and make fair and objective hiring decisions....
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/ccn_vancouver_django.html"/>
+            <author>Jordan Slaman</author>
+            <updated>2017-06-07T00:00:00Z</updated>
+            <published>2017-06-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ccn_vancouver_django.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="vancouver"
+                        label="Vancouver" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django-rest-framework"
+                        label="Django-Rest-Framework" />
+            
+            <summary type="text">
+                Overview CCN/2M is a young and expanding company founded in Vancouver. We provide innovative online services to cycling and sports sectors (among others), and strive to always do business...
             </summary>
         </entry>
                     <entry>
