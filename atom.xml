@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-07-07T21:14:49Z</updated>
+    <updated>2017-07-14T12:41:22Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/Hactar_perm.html"/>
+            <author>Andy Beaumont</author>
+            <updated>2017-07-12T00:00:00Z</updated>
+            <published>2017-07-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Hactar_perm.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="wagtail"
+                        label="Wagtail" />
+            
+            <summary type="text">
+                Us We’re a London based digital design studio specialising in working with charities, non-profits, social enterprises and the arts. The vast majority of our work is Python based, whether that’s...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Lead Creative Back-end Developer</title>
             <link href="https://pythonjobs.github.io/jobs/cgpartners_lead_creative_backend_developer.html"/>

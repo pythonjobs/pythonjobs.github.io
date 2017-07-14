@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 40.7127837 + ':' + -74.0059413;
+                  var key = '' + 51.5214993 + ':' + -0.1365872;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5214993, "lng": -0.1365872},
+          content: "        <h1><a href=\"/jobs/Hactar_perm.html\">Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Fitzrovia, London, UK.</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 12 Jul 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Hactar</span>\n    \n    <p class=\"detail\"> Us We\u2019re a London based digital design studio specialising in working with charities, non-profits, social enterprises and the arts. The vast majority of our work is Python based, whether that\u2019s Flask, Django...</p>\n    \n"
+        });
+                        var key = '' + 40.7127837 + ':' + -74.0059413;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 40.7127837, "lng": -74.0059413},
