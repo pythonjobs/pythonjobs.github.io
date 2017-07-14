@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5214993 + ':' + -0.1365872;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/AHL_london_quant_developer.html\">AHL Quant Platform Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Fri, 14 Jul 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Man AHL</span>\n    \n    <p class=\"detail\"> Overview As a Quant Platform Developer at AHL you will be building the tools, frameworks, libraries and applications which power our Quantitative Research and Systematic Trading. This includes responsibility for the...</p>\n    \n"
+        });
+                        var key = '' + 51.5214993 + ':' + -0.1365872;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5214993, "lng": -0.1365872},

@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-07-14T12:41:22Z</updated>
+    <updated>2017-07-14T12:55:24Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">AHL Quant Platform Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/AHL_london_quant_developer.html"/>
+            <author>Milly Parrott</author>
+            <updated>2017-07-14T00:00:00Z</updated>
+            <published>2017-07-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/AHL_london_quant_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQL"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="London"
+                        label="London" />
+            
+            <summary type="text">
+                Overview As a Quant Platform Developer at AHL you will be building the tools, frameworks, libraries and applications which power our Quantitative Research and Systematic Trading. This includes...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/Hactar_perm.html"/>
