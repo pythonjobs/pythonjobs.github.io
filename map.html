@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 42.3736158 + ':' + -71.1097335;
+                  var key = '' + 37.09024 + ':' + -95.712891;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 37.09024, "lng": -95.712891},
+          content: "        <h1><a href=\"/jobs/utilityapi_software_engineer.html\">Python Software Engineer (Clean Energy Job)</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> United States</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 24 Jul 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> UtilityAPI</span>\n    \n    <p class=\"detail\"> Job\u00a0Description UtilityAPI (https://utilityapi.com) is a software platform that is used by solar and energy efficiency companies to collect their customer\u2019s utility bill and usage data automatically. You will be...</p>\n    \n"
+        });
+                        var key = '' + 42.3736158 + ':' + -71.1097335;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 42.3736158, "lng": -71.10973349999999},
