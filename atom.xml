@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-07-24T08:09:45Z</updated>
+    <updated>2017-07-25T08:30:29Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Web Back End Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/neuromotion_webbackend_01.html"/>
+            <author>Trevor Stricker</author>
+            <updated>2017-07-19T00:00:00Z</updated>
+            <published>2017-07-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/neuromotion_webbackend_01.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Boston"
+                        label="Boston" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Video Games"
+                        label="Video Games" />
+            
+            <summary type="text">
+                Company Neuromotion Labs uses the power of video games to help kids 6-14 build emotional strength. We are building a scientifically validated platform of video games, paired with coaching and a...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">AHL Quant Platform Developer</title>
             <link href="https://pythonjobs.github.io/jobs/AHL_london_quant_developer.html"/>
