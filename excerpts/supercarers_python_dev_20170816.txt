@@ -1,0 +1,4 @@
+Title: Python Developer.
+Company: SuperCarers.
+Tags: uk python flask postgres docker.
+SuperCarers is an online platform where families can find trusted local carers for the people they love. We provide families with simple digital tools to manage the scheduling, logistics and payment of care directly with a carer, bypassing the high overhead costs of agency middlemen.  You are keen to make a difference using your tech skills for social good! You love writing tests first and producing high quality work. You don’t like silos and want to get your hands dirty. You want in on a chance to build a world beating platform without exploitation. If this sounds like you, email oisin@supercarers.com with your details.
