@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/liveit_juniordev_201709.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/supercarers_python_dev_20170816.html</loc>
     </url>
                 <url>
@@ -245,15 +248,6 @@
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/incuna_ltd.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/bookitbee_juniordev_201602.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/bookitbee_seniordev_201602.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/bookitbee_devops_201601.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/chalkandwire_fulltime_senior_dev.html</loc>
@@ -1007,6 +1001,9 @@
     <loc>https://pythonjobs.github.io/tags/senior.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/serverless.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/soa.html</loc>
     </url>
         <url>
@@ -1125,6 +1122,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/virtualisation.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/vuejs.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/wagtail.html</loc>
