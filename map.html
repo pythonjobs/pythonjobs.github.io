@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + -37.8136276 + ':' + 144.9630576;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/Man_AHL_python_contractor.html\">Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> UK - London</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 04 Oct 2017</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> contract, 6 months (extendable)</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Man AHL</span>\n    \n    <p class=\"detail\"> Overview A contractor is required to port existing python applications on to RHEL 7 using Docker. The port includes: ensuring tests run, Dockerisation, service discovery considerations, deploying secrets through...</p>\n    \n"
+        });
+                        var key = '' + -37.8136276 + ':' + 144.9630576;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": -37.8136276, "lng": 144.9630576},
