@@ -7,10 +7,52 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-10-04T17:09:59Z</updated>
+    <updated>2017-11-02T21:22:03Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Experienced back-end engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/octopus_energy_2017_11.html"/>
+            <author>David Winterbottom</author>
+            <updated>2017-11-02T00:00:00Z</updated>
+            <published>2017-11-02T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/octopus_energy_2017_11.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="terraform"
+                        label="Terraform" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="packer"
+                        label="Packer" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="react"
+                        label="React" />
+            
+            <summary type="text">
+                Octopus Energy We’re looking for an experienced back-end developer to work in our engineering team. Please see this detailed job description for the full details. In short, this is a great...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/Man_AHL_python_contractor.html"/>
