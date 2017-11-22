@@ -7,10 +7,43 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-11-02T21:22:03Z</updated>
+    <updated>2017-11-22T09:34:28Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Research Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/senior_research_software_developer_caeser.html"/>
+            <author>Nate Ron-Ferguson</author>
+            <updated>2017-11-20T00:00:00Z</updated>
+            <published>2017-11-20T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/senior_research_software_developer_caeser.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="full-stack"
+                        label="Full-Stack" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="react"
+                        label="React" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="geospatial"
+                        label="Geospatial" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgis"
+                        label="Postgis" />
+            
+            <summary type="text">
+                Description We are looking for a full stack developer that’s interested in developing and applying technical solutions on a range of research problems. The ideal candidate will be passionate about...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Experienced back-end engineer</title>
             <link href="https://pythonjobs.github.io/jobs/octopus_energy_2017_11.html"/>
