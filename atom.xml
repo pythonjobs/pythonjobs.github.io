@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2017-12-18T10:17:32Z</updated>
+    <updated>2017-12-19T19:10:42Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -255,30 +255,6 @@
             
             <summary type="text">
                 Us SuperCarers is an online platform where families can find trusted local carers for the people they love. We provide families with simple digital tools to manage the scheduling, logistics and...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Web Application Developer (Python)</title>
-            <link href="https://pythonjobs.github.io/jobs/AHL_Python_web_app_job_spec.html"/>
-            <author>Charlie Beeson</author>
-            <updated>2017-08-07T00:00:00Z</updated>
-            <published>2017-08-07T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/AHL_Python_web_app_job_spec.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="full-stack"
-                        label="Full-Stack" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SQL"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="London"
-                        label="London" />
-            
-            <summary type="text">
-                Overview We’re looking to create a simple web-app. The design is fully scoped and we are looking now for an experienced full-stack developer to create the tool. Most of our code is written in...
             </summary>
         </entry>
                     <entry>
