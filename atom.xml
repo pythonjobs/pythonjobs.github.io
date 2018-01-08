@@ -7,10 +7,28 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-01-05T20:01:23Z</updated>
+    <updated>2018-01-08T14:18:30Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Full Stack Web Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html"/>
+            <author>Christian Hølmer</author>
+            <updated>2018-01-08T00:00:00Z</updated>
+            <published>2018-01-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+            
+            <summary type="text">
+                Our vision tails.com is a tech-centric startup, using the power of technology combined with applied nutritional science to change the world of dog food for good. We launched to the public in July...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Backend Software Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/tails-senior-software-engineer.html"/>
