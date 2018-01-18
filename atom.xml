@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-01-08T14:18:30Z</updated>
+    <updated>2018-01-18T19:49:20Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python DevOps</title>
+            <link href="https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html"/>
+            <author>Johan Richer</author>
+            <updated>2018-01-18T00:00:00Z</updated>
+            <published>2018-01-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="FR"
+                        label="Fr" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="opendata"
+                        label="Opendata" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="economics"
+                        label="Economics" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="gitlab"
+                        label="Gitlab" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Révolutionnez l’économie par le logiciel libre et l’open data ! Rejoignez l’équipe de DB.nomics pour créer la plus importante banque de données économiques au monde Jailbreak est une entreprise...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Full Stack Web Developer</title>
             <link href="https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html"/>
