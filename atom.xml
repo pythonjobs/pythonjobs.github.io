@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-01-28T19:08:32Z</updated>
+    <updated>2018-01-31T15:19:33Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Data Systems Developer / Web Application Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/open_data_services_developer.html"/>
+            <author>Ben Webb</author>
+            <updated>2018-01-31T00:00:00Z</updated>
+            <published>2018-01-31T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/open_data_services_developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Open Data"
+                        label="Open Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Open Source"
+                        label="Open Source" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Co-operative"
+                        label="Co-Operative" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+            
+            <summary type="text">
+                Closes 19th February. Open Data Services is a growing workers co-operative. We deliver sustainable support for world-changing open data projects, including the Open Contracting Data Standard, the...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python DevOps</title>
             <link href="https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html"/>
@@ -2310,33 +2337,6 @@
             
             <summary type="text">
                 Are you… Interested in working at a successful, funded start-up where every team member can make a huge contribution? Keen to make software that people will use every single day to make their...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Web Developer for open data projects</title>
-            <link href="https://pythonjobs.github.io/jobs/open_data_services_python_web_developer.html"/>
-            <author>Ben Webb</author>
-            <updated>2016-09-04T00:00:00Z</updated>
-            <published>2016-09-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/open_data_services_python_web_developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Open Data"
-                        label="Open Data" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Open Source"
-                        label="Open Source" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Co-operative"
-                        label="Co-Operative" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Django"
-                        label="Django" />
-            
-            <summary type="text">
-                Company overview Open Data Services is a new and growing workers co-operative. We deliver sustainable support for world-changing open data projects, including the Open Contracting Data Standard,...
             </summary>
         </entry>
                     <entry>
