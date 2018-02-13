@@ -4,7 +4,10 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
-    <loc>https://pythonjobs.github.io/jobs/open_data_services_developer.html</loc>
+    <loc>https://pythonjobs.github.io/jobs/open_data_services_data_systems_developer.html</loc>
+    </url>
+                <url>
+    <loc>https://pythonjobs.github.io/jobs/open_data_services_web_application_developer.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/digitalbridge_backend_django.html</loc>
@@ -512,9 +515,6 @@
     <loc>https://pythonjobs.github.io/tags/clustering.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/co-operative.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/coffeescript.html</loc>
     </url>
         <url>
@@ -531,6 +531,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/continuous%2520delivery.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/cooperative.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/css.html</loc>
@@ -899,9 +902,6 @@
     <loc>https://pythonjobs.github.io/tags/oop.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/open%2520data.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/open%2520source.html</loc>
     </url>
         <url>
@@ -912,6 +912,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/openscape-voice.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/opensource.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/oracle.html</loc>
