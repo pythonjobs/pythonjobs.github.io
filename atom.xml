@@ -7,10 +7,28 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-02-13T08:45:51Z</updated>
+    <updated>2018-02-13T08:48:17Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Digital applications developer in international development</title>
+            <link href="https://pythonjobs.github.io/jobs/aptivate-web-dev.html"/>
+            <author>Aptivate Cooperators</author>
+            <updated>2018-02-12T00:00:00Z</updated>
+            <published>2018-02-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/aptivate-web-dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+            
+            <summary type="text">
+                TLDR; Do you want to use your development skills for good? Would you like to be part of an employee-managed non-hierarchical organisation for social benefit? If so, join us! Full stack...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Data Systems Developer</title>
             <link href="https://pythonjobs.github.io/jobs/open_data_services_data_systems_developer.html"/>
