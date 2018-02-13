@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-01-31T15:19:33Z</updated>
+    <updated>2018-02-13T08:44:15Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -36,6 +36,33 @@
             
             <summary type="text">
                 Closes 19th February. Open Data Services is a growing workers co-operative. We deliver sustainable support for world-changing open data projects, including the Open Contracting Data Standard, the...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Scrum Master &amp; Lead Python Developer in Nantes (France)</title>
+            <link href="https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html"/>
+            <author>Frédéric Oliveau</author>
+            <updated>2018-01-25T00:00:00Z</updated>
+            <published>2018-01-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="scrum"
+                        label="Scrum" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="angularjs"
+                        label="Angularjs" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="machine-learning"
+                        label="Machine-Learning" />
+            
+            <summary type="text">
+                Job Description Your main mission is to lead de IT team (5/6 people, half the company) in charge of building and running J360. You may also lead technical choices. You are responsible for:...
             </summary>
         </entry>
                     <entry>
