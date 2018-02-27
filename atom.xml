@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-02-13T09:44:28Z</updated>
+    <updated>2018-02-27T09:56:22Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/blue-canvas-engineer.html"/>
+            <author>Jack Moxon</author>
+            <updated>2018-02-26T00:00:00Z</updated>
+            <published>2018-02-26T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/blue-canvas-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="golang"
+                        label="Golang" />
+            
+            <summary type="text">
+                3rd Engineer on a 4 Person Team Making Dev Tools in Python Be one of the first 4 employees at a 100% remote startup working on developer tooling. Work in Python. About Blue Canvas Our mission is...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Digital applications developer in international development</title>
             <link href="https://pythonjobs.github.io/jobs/aptivate-web-dev.html"/>
@@ -27,6 +48,33 @@
             
             <summary type="text">
                 TLDR; Do you want to use your development skills for good? Would you like to be part of an employee-managed non-hierarchical organisation for social benefit? If so, join us! Full stack...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Middle/Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/wemake-services-python.html"/>
+            <author>Nikita Sobolev</author>
+            <updated>2018-02-10T00:00:00Z</updated>
+            <published>2018-02-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/wemake-services-python.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="middle"
+                        label="Middle" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+            
+            <summary type="text">
+                Overview wemake.services is a group of technology evangelists and simply those who love to write beautiful code. We are dedicated to deliver products of high quality basing on best practices,...
             </summary>
         </entry>
                     <entry>
