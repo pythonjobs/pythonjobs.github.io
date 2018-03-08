@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-02-27T09:56:22Z</updated>
+    <updated>2018-03-08T14:15:06Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/headforward-python.html"/>
+            <author>Jeni Henthorn</author>
+            <updated>2018-03-07T00:00:00Z</updated>
+            <published>2018-03-07T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/headforward-python.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="golang"
+                        label="Golang" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="senior"
+                        label="Senior" />
+            
+            <summary type="text">
+                Overview Python/Golang Developer: £30-£50K per anum We’re an outsource development company based about 5 miles from the beach in Cornwall. We build dedicated teams for our clients, so there’s no...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/blue-canvas-engineer.html"/>
