@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-03-08T14:15:06Z</updated>
+    <updated>2018-03-14T20:02:38Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Quantitative Python Engineer (fintech)</title>
+            <link href="https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html"/>
+            <author>Shane Hampton</author>
+            <updated>2018-03-14T00:00:00Z</updated>
+            <published>2018-03-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="new york"
+                        label="New York" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="fintech"
+                        label="Fintech" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="finance"
+                        label="Finance" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+            
+            <summary type="text">
+                About Hydrogen Hydrogen is the most disruptive fintech platform since Stripe! We are on a mission to help millions of people around the globe get access to better, cheaper, more transparent, and...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/headforward-python.html"/>
