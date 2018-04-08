@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-04-08T22:52:12Z</updated>
+    <updated>2018-04-08T22:58:31Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -210,6 +210,36 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">CTO (Mid- to Senior-Level Backend Developer)</title>
+            <link href="https://pythonjobs.github.io/jobs/night_travel_london_backend_cto.html"/>
+            <author>David</author>
+            <updated>2018-01-28T00:00:00Z</updated>
+            <published>2018-01-28T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/night_travel_london_backend_cto.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Heroku"
+                        label="Heroku" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HTML"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="CSS"
+                        label="Css" />
+            
+            <summary type="text">
+                About Nightly.travel: Nightly.travel is a hotel booking website with a twist, offering travellers the opportunity to stay in two hotels for less than the price of one. By switching hotels once...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Scrum Master &amp; Lead Python Developer in Nantes (France)</title>
             <link href="https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html"/>
             <author>Frédéric Oliveau</author>
@@ -312,6 +342,42 @@
             
             <summary type="text">
                 Our vision tails.com is a tech-centric startup, using the power of technology combined with applied nutritional science to change the world of dog food for good. We launched to the public in July...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Django React Full Stack Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/Duxe_Sydney_Django.html"/>
+            <author>Luke</author>
+            <updated>2017-12-18T00:00:00Z</updated>
+            <published>2017-12-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Duxe_Sydney_Django.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="AWS S3"
+                        label="Aws S3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="React"
+                        label="React" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Heroku"
+                        label="Heroku" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="HTML"
+                        label="Html" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="CSS"
+                        label="Css" />
+            
+            <summary type="text">
+                Job Description: We’re after a keen and capable Django and React developer to help take our year-old software platform to the next level. You’ll be working with smart energetic people who want to...
             </summary>
         </entry>
                     <entry>
