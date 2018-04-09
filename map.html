@@ -128,7 +128,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 40.7127753 + ':' + -74.0059728;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/CrowdScores.html\">Senior Backend Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 09 Apr 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> CrowdScores</span>\n    \n    <p class=\"detail\"> Here at CrowdScores we have a fantastic team of people working on a product used by football fans worldwide. The app itself has more than 6 million downloads and a 4.5 star rating on both the App Store and Google...</p>\n    \n"
+        });
+                        var key = '' + 40.7127753 + ':' + -74.0059728;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 40.7127753, "lng": -74.0059728},

@@ -7,10 +7,43 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-04-08T22:58:31Z</updated>
+    <updated>2018-04-09T10:15:16Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Backend Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/CrowdScores.html"/>
+            <author>Keir Little</author>
+            <updated>2018-04-09T00:00:00Z</updated>
+            <published>2018-04-09T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/CrowdScores.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="backend"
+                        label="Backend" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="microservices"
+                        label="Microservices" />
+            
+            <summary type="text">
+                Here at CrowdScores we have a fantastic team of people working on a product used by football fans worldwide. The app itself has more than 6 million downloads and a 4.5 star rating on both the App...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Quantitative Python Engineer (fintech)</title>
             <link href="https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html"/>
