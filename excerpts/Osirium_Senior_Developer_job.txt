@@ -1,4 +1,0 @@
-Title: Senior Python Developer.
-Company: Osirium.
-Tags: uk python postgres ruby on rails security senior.
-Osirium are looking to hire a couple of brilliant engineers for their dev team Please send a github profile to the address above.   Python Ruby on Rails PostgreSQL Security
