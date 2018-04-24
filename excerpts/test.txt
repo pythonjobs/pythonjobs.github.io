@@ -1,0 +1,4 @@
+Title: Test Role.
+Company: ACME.
+Tags: test.
+Test roles are testing and should be testable

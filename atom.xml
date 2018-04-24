@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-04-23T23:41:33Z</updated>
+    <updated>2018-04-24T00:13:05Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -774,6 +774,21 @@
             
             <summary type="text">
                 Job Description UtilityAPI (https://utilityapi.com) is a software platform that is used by solar and energy efficiency companies to collect their customer’s utility bill and usage data...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Test Role</title>
+            <link href="https://pythonjobs.github.io/jobs/test.html"/>
+            <author>Steve</author>
+            <updated>2017-07-23T00:00:00Z</updated>
+            <published>2017-07-23T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/test.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="test"
+                        label="Test" />
+            
+            <summary type="text">
+                This is a test role Test roles are testing and should be testable
             </summary>
         </entry>
                     <entry>
