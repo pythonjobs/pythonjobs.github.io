@@ -34,7 +34,7 @@
   <link rel="stylesheet" href="/media/css/font.css">
   <link rel="stylesheet" href="/media/css/site.css">
       
-<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?"></script>
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCvUNmmqfyLM6ZXhyprecI3mEFP2e99cLQ"></script>
 <script type="text/javascript" src="/media/js/libs/markcluster.js"></script>
 
 <style>
@@ -75,6 +75,17 @@
   .gm-button-style i{
     margin-bottom: 1px;
   }
+  #location-warn{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-family: Roboto, Arial, sans-serif;
+    padding: 8px 8px;
+    color: red;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 4px -1px;
+    margin: 10px 0;
+  }
 </style>
   </head>
 <body id="map">
@@ -88,6 +99,9 @@
   <div id="container">
             <div id="main" role="main">
           <div class="controls">
+  <div id=location-warn>
+    Location Markers are approximate
+  </div>
   <div id='returnlink' class="gm-button-style">
     <a href="/"><i class='i-list'></i> Return to list</a>
   </div>
@@ -376,6 +390,7 @@
       var footerEl = $("footer");
       var headerEl = $("#main header");
       var homelink = $("#returnlink");
+      var warntext = $("#location-warn")
 
       function resize() {
         var top = headerEl.outerHeight();
@@ -391,6 +406,7 @@
       $(window).resize(resize);
       var map = new google.maps.Map(mapEl[0], MAP_OPTIONS);
       map.controls[google.maps.ControlPosition.TOP_RIGHT].push(homelink[0]);
+      map.controls[google.maps.ControlPosition.TOP_RIGHT].push(warntext[0]);
       var bounds = new google.maps.LatLngBounds();
       var infoWindows = [];
       var markers = [];
@@ -422,7 +438,14 @@
         });
       });
       
-      var markerCluster = new MarkerClusterer(map, markers);
+      var markerCluster = new MarkerClusterer(map, markers, {
+        zoomOnClick: false,
+        styles: [{
+          url: "/media/multi-marker.png",
+          height: 46, width: 32,
+          textColor: "#fff"
+        }]
+      });
       markerCluster.setGridSize(20);
       markerCluster.setMaxZoom(10);
       resize();
