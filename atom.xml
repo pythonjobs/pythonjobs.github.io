@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-04-27T13:05:29Z</updated>
+    <updated>2018-06-04T13:05:37Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Software Development Engineers (All levels)</title>
+            <link href="https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html"/>
+            <author>Kim Watson</author>
+            <updated>2018-06-04T00:00:00Z</updated>
+            <published>2018-06-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python 3"
+                        label="Python 3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="microservices"
+                        label="Microservices" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="serverless"
+                        label="Serverless" />
+            
+            <summary type="text">
+                About Us One of Edinburgh’s most exciting startups, TravelNest is going through a period of rapid growth. We’re building a team to grow with us as we aim to develop the leading SaaS platform in...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Cloud Engineer with Python</title>
             <link href="https://pythonjobs.github.io/jobs/cloud%20engineer_crowdstrike.html"/>
@@ -1002,231 +1029,6 @@
             
             <summary type="text">
                 Overview CCN/2M is a young and expanding company founded in Vancouver. We provide innovative online services to cycling and sports sectors (among others), and strive to always do business...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Experienced Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html"/>
-            <author>Koen Vossen</author>
-            <updated>2017-05-31T00:00:00Z</updated>
-            <published>2017-05-31T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="machine learning"
-                        label="Machine Learning" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="belgium"
-                        label="Belgium" />
-            
-            <summary type="text">
-                Enervalis believes in a maximal green energy future and therefore has set itself the mission to build the operating system of the future energy networks. To support fast growth in a very exciting...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python/Django Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/skilljar_sde_seattle.html"/>
-            <author>Hiring Manager</author>
-            <updated>2017-05-22T00:00:00Z</updated>
-            <published>2017-05-22T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/skilljar_sde_seattle.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django-rest-framework"
-                        label="Django-Rest-Framework" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="heroku"
-                        label="Heroku" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-            
-            <summary type="text">
-                Skilljar - Software Development Engineer Skilljar is seeking a versatile Software Development Engineer to join our fast-growing team. This person will be responsible for the technical design,...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/adspert_python_dev.html"/>
-            <author>Karl Bartel</author>
-            <updated>2017-05-15T00:00:00Z</updated>
-            <published>2017-05-15T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/adspert_python_dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-            
-            <summary type="text">
-                We are looking for a Python Software Developer Note: The position is full-time and based in our Berlin office, therefore if you are outside of Berlin you must be prepared to relocate for...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python / Django Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/octopus-energy-engineer.html"/>
-            <author>Omer Korner</author>
-            <updated>2017-05-15T00:00:00Z</updated>
-            <published>2017-05-15T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/octopus-energy-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="soho"
-                        label="Soho" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="celery"
-                        label="Celery" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="rabbitmq"
-                        label="Rabbitmq" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="terraform"
-                        label="Terraform" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="packer"
-                        label="Packer" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="react"
-                        label="React" />
-            
-            <summary type="text">
-                Octopus Energy We are a tech-focused energy supplier for the UK market and we’re looking for diligent software engineers to join us. There’s a great opportunity for disruption in the UK energy...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/opensyllabus-project.html"/>
-            <author>Joe Karaganis</author>
-            <updated>2017-05-08T00:00:00Z</updated>
-            <published>2017-05-08T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/opensyllabus-project.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-            
-            <summary type="text">
-                The Open Syllabus Project is an academic data mining project based at Columbia University that’s analyzing a corpus of 1M+ college course syllabi. We’re building a wide range of tools and services...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Backend Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/madecom-developer-2017-05-05.html"/>
-            <author>Jon Bramley</author>
-            <updated>2017-05-05T00:00:00Z</updated>
-            <published>2017-05-05T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/madecom-developer-2017-05-05.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="TDD"
-                        label="Tdd" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="DDD"
-                        label="Ddd" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SOA"
-                        label="Soa" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Event Sourcing"
-                        label="Event Sourcing" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="EventStore"
-                        label="Eventstore" />
-            
-            <summary type="text">
-                Who we are At MADE.COM we believe that everyone should have access to great design, so we’ve taken a unique approach to making and selling furniture - no middlemen, no agents or importers and no...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Tech Lead - Platform / Django</title>
-            <link href="https://pythonjobs.github.io/jobs/YunoJuno_London_TechLead.html"/>
-            <author>Estella Reed</author>
-            <updated>2017-04-27T00:00:00Z</updated>
-            <published>2017-04-27T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/YunoJuno_London_TechLead.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Elasticsearch"
-                        label="Elasticsearch" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Heroku"
-                        label="Heroku" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Vagrant"
-                        label="Vagrant" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="lead"
-                        label="Lead" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-            
-            <summary type="text">
-                Overview: What started as a platform to connect the greatest freelancers with a handful of forward-thinking companies is now changing how the creative and tech industry resource their business and...
             </summary>
         </entry>
     </feed>

@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/cloud%20engineer_crowdstrike.html</loc>
     </url>
                 <url>
@@ -105,27 +108,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/ccn_vancouver_django.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/enervalis_houthalen_be_experienceddev.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/skilljar_sde_seattle.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/adspert_python_dev.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/octopus-energy-engineer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/opensyllabus-project.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/madecom-developer-2017-05-05.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/YunoJuno_London_TechLead.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/angularjs.html</loc>
@@ -141,9 +123,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/backend.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/belgium.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/boston.html</loc>
@@ -165,9 +144,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/cto.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/ddd.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/devops.html</loc>
@@ -192,12 +168,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/england.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/event%2520sourcing.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/eventstore.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/finance.html</loc>
@@ -257,16 +227,10 @@
     <loc>https://pythonjobs.github.io/tags/junior.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/lead.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/linux.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/london.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/machine%2520learning.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/machine-learning.html</loc>
@@ -311,6 +275,9 @@
     <loc>https://pythonjobs.github.io/tags/python.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/python%25203.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/rabbitmq.html</loc>
     </url>
         <url>
@@ -338,12 +305,6 @@
     <loc>https://pythonjobs.github.io/tags/serverless.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/soa.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/soho.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/solr.html</loc>
     </url>
         <url>
@@ -353,9 +314,6 @@
     <loc>https://pythonjobs.github.io/tags/sqlalchemy.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/tdd.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/terraform.html</loc>
     </url>
         <url>
@@ -363,9 +321,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/united-states.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/vagrant.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/vancouver.html</loc>
