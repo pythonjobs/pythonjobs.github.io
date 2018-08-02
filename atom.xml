@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-07-30T10:59:10Z</updated>
+    <updated>2018-08-02T15:21:59Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -909,27 +909,6 @@
             
             <summary type="text">
                 Overview We are looking for an experienced Python developer to help us further develop our business mileage reporting system and to expand its functionality into associated business services to...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Co-Founder/CTO</title>
-            <link href="https://pythonjobs.github.io/jobs/forward_partners_cofounder_cto.html"/>
-            <author>Chris Wilkinson</author>
-            <updated>2017-07-31T00:00:00Z</updated>
-            <published>2017-07-31T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/forward_partners_cofounder_cto.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-            
-            <summary type="text">
-                FORWARD PARTNERS Forward Partners is the UK’s largest dedicated seed stage VC with >£80m AUM. We focus on next-generation eCommerce companies and applied AI startups. Startups that we have backed...
             </summary>
         </entry>
     </feed>
