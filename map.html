@@ -136,7 +136,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5255336 + ':' + -0.0882304;
+                  var key = '' + 51.5064055 + ':' + -0.0711452;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5064055, "lng": -0.07114519999999999},
+          content: "        <h1><a href=\"/jobs/smarkets-software-engineer.html\">Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, St Katherines Dock</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Thu, 02 Aug 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> Perm</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Smarkets</span>\n    \n    <p class=\"detail\"> Overview We\u2019re building a reliable, low-latency, highly concurrent system capable of scaling to thousands of executions per second with sub-millisecond latency. Whether you want to work on the exchange platform, the...</p>\n    \n"
+        });
+                        var key = '' + 51.5255336 + ':' + -0.0882304;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5255336, "lng": -0.0882304},
