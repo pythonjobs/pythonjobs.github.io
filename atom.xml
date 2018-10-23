@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-09-20T22:21:08Z</updated>
+    <updated>2018-10-23T12:21:29Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -819,99 +819,6 @@
             
             <summary type="text">
                 Octopus Energy We’re looking for an experienced back-end developer to work in our engineering team. Please see this detailed job description for the full details. In short, this is a great...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/Man_AHL_python_contractor.html"/>
-            <author>Milly Parrott</author>
-            <updated>2017-10-04T00:00:00Z</updated>
-            <published>2017-10-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/Man_AHL_python_contractor.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="full-stack"
-                        label="Full-Stack" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-            
-            <summary type="text">
-                Overview A contractor is required to port existing python applications on to RHEL 7 using Docker. The port includes: ensuring tests run, Dockerisation, service discovery considerations, deploying...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Full Stack Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/seersec_com_au_full_stack_dev.html"/>
-            <author>To apply, please use the url included in the ad.</author>
-            <updated>2017-10-02T00:00:00Z</updated>
-            <published>2017-10-02T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/seersec_com_au_full_stack_dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="redis"
-                        label="Redis" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="jquery"
-                        label="Jquery" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="selenium"
-                        label="Selenium" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="australia"
-                        label="Australia" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="melbourne"
-                        label="Melbourne" />
-            
-            <summary type="text">
-                About the role Seer Security is seeking an experienced Python developer to join our small (but growing) team. The primary responsibility of the role will be supporting an existing bespoke software...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/xcaliber_senior_python_katowice.html"/>
-            <author>XCaliber HR team</author>
-            <updated>2017-09-22T00:00:00Z</updated>
-            <published>2017-09-22T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/xcaliber_senior_python_katowice.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="gaming"
-                        label="Gaming" />
-            
-            <summary type="text">
-                Overview XCaliber is looking for a Senior Python Developer. XCaliber is a tight-knit Technology team with offices in Malta and Poland. We collaborate to produce some of the most innovative...
             </summary>
         </entry>
     </feed>
