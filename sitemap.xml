@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/machinemax_london_python_go.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/shipwell_backend_engineer.html</loc>
     </url>
                 <url>
@@ -11,9 +14,6 @@
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/smarkets-software-engineer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/thought_machine_back_end.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/partners-capital-senior-full-stack-contract-software-developer.html</loc>
@@ -116,6 +116,9 @@
     <loc>https://pythonjobs.github.io/tags/css.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/data%2520engineering.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/devops.html</loc>
     </url>
         <url>
@@ -177,6 +180,12 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/html.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/internet%2520of%2520things.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/iot.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/javascript.html</loc>
@@ -291,9 +300,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/vagrant.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/web.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/webpack.html</loc>
