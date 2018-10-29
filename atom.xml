@@ -7,10 +7,49 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-10-29T15:00:36Z</updated>
+    <updated>2018-10-29T16:54:18Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Data Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/tracr_data_engineer.html"/>
+            <author>Alex Dagge</author>
+            <updated>2018-10-29T00:00:00Z</updated>
+            <published>2018-10-29T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tracr_data_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="england"
+                        label="England" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="uk"
+                        label="Uk" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="islington"
+                        label="Islington" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data"
+                        label="Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="linux"
+                        label="Linux" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="database"
+                        label="Database" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="etl"
+                        label="Etl" />
+            
+            <summary type="text">
+                Tracr is a rapidly growing Blockchain company supported by De Beers (one of the world’s largest diamond producers). As part of our expansion we are seeking world class individuals to join our...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python &amp; Go Developer</title>
             <link href="https://pythonjobs.github.io/jobs/machinemax_london_python_go.html"/>
