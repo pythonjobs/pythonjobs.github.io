@@ -7,10 +7,43 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-10-29T16:54:18Z</updated>
+    <updated>2018-11-01T14:03:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/tau-films-python-developer.html"/>
+            <author>Talent Manager</author>
+            <updated>2018-10-31T00:00:00Z</updated>
+            <published>2018-10-31T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/tau-films-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="slack"
+                        label="Slack" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="shotgun"
+                        label="Shotgun" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="git"
+                        label="Git" />
+            
+            <summary type="text">
+                Overview We’re looking for a well-rounded, experienced Python developer to join our engineering team that is responsible for building and connecting CG production subsystems. Your responsibilities...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Data Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/tracr_data_engineer.html"/>

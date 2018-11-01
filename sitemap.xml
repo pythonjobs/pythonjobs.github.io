@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/tau-films-python-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/tracr_data_engineer.html</loc>
     </url>
                 <url>
@@ -176,6 +179,9 @@
     <loc>https://pythonjobs.github.io/tags/geospatial.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/git.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/gitlab.html</loc>
     </url>
         <url>
@@ -297,6 +303,12 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/serverless.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/shotgun.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/slack.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/sql.html</loc>
