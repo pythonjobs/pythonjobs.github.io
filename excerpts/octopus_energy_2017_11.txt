@@ -1,4 +1,0 @@
-Title: Experienced back-end engineer.
-Company: Octopus Energy.
-Tags: django python london postgresql aws celery rabbitmq terraform packer react.
-We’re looking for an experienced back-end developer to work in our engineering team. Please see this detailed job description for the full details. In short, this is a great role as:   We have high engineering standards. We pair program, have weekly tech-talks, monthly blitzdays, a     continuous deployment pipeline and fast, well-maintained test suites.    This is a rare opportunity to employ your skills to help fight climate change. We’re a small, innovative    entrant to the UK energy market. The software we write helps the UK use green technology and renewable energy
