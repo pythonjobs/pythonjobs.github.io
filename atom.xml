@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-11-06T18:46:06Z</updated>
+    <updated>2018-11-06T23:12:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -357,6 +357,27 @@
             
             <summary type="text">
                 Python/JS Developer We are looking for a Python/JS Developper to join us. They will assist the main developper to some tasks like: Maintain and develop the main application Develop a frontend...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Python Developers (x2 roles)</title>
+            <link href="https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html"/>
+            <author>Steve Blake</author>
+            <updated>2018-04-25T00:00:00Z</updated>
+            <published>2018-04-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+            
+            <summary type="text">
+                Python Developer (x2 roles) Overview SportPursuit is a leading private shopping community for over 4 million active men and women across UK and Europe. We were rated as the 5th fastest growing...
             </summary>
         </entry>
                     <entry>
