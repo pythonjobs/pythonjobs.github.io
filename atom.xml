@@ -7,10 +7,70 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-11-06T23:12:40Z</updated>
+    <updated>2018-11-15T14:49:04Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Backend Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html"/>
+            <author>Nic West</author>
+            <updated>2018-11-15T00:00:00Z</updated>
+            <published>2018-11-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="API design"
+                        label="Api Design" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="big query"
+                        label="Big Query" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="kubernetes"
+                        label="Kubernetes" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="google cloud"
+                        label="Google Cloud" />
+            
+            <summary type="text">
+                At Unmortgage we want to enable everyone to live in the home they want. We are opening up home ownership by co-investing with people who haven’t been able to buy yet. Over the next 18 months we...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Data Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/umortgage_data_engineer_20181115.html"/>
+            <author>Johnny Morris</author>
+            <updated>2018-11-15T00:00:00Z</updated>
+            <published>2018-11-15T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/umortgage_data_engineer_20181115.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data"
+                        label="Data" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQL"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="google cloud"
+                        label="Google Cloud" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="property"
+                        label="Property" />
+            
+            <summary type="text">
+                At Unmortgage we enable everyone to live in the home they want. We are opening up home ownership by co-investing with people who haven’t been able to buy yet. Over the next 18 months we will help...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/tau-films-python-developer.html"/>
