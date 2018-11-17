@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-11-15T14:49:04Z</updated>
+    <updated>2018-11-17T08:17:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -69,6 +69,60 @@
             
             <summary type="text">
                 At Unmortgage we enable everyone to live in the home they want. We are opening up home ownership by co-investing with people who haven’t been able to buy yet. Over the next 18 months we will help...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/university-of-connecticut-senior-software-developer-2018.html"/>
+            <author>Valerie Puffet-Michel</author>
+            <updated>2018-11-14T00:00:00Z</updated>
+            <published>2018-11-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/university-of-connecticut-senior-software-developer-2018.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="usa"
+                        label="Usa" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="connecticut"
+                        label="Connecticut" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pyramid"
+                        label="Pyramid" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pylons"
+                        label="Pylons" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jenkins"
+                        label="Jenkins" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="agile"
+                        label="Agile" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sqlalchemy"
+                        label="Sqlalchemy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mako"
+                        label="Mako" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nose"
+                        label="Nose" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="linux"
+                        label="Linux" />
+            
+            <summary type="text">
+                Overview Student Affairs Information Technology is seeking an experienced Software Developer (Senior Computer Programmer/Analyst, UCP 9). This is an opportunity to build new business software...
             </summary>
         </entry>
                     <entry>
