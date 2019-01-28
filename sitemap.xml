@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html</loc>
     </url>
                 <url>
@@ -81,30 +84,9 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/night_travel_london_backend_cto.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/tails-senior-software-engineer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/Duxe_Sydney_Django.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/senior_research_software_developer_caeser.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/agile.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/angularjs.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/api%2520design.html</loc>
@@ -114,9 +96,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/aws.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/aws%2520s3.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/backend.html</loc>
@@ -152,9 +131,6 @@
     <loc>https://pythonjobs.github.io/tags/database.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/devops.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/django.html</loc>
     </url>
         <url>
@@ -162,9 +138,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/dynamodb.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/economics.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/elasticsearch.html</loc>
@@ -191,19 +164,7 @@
     <loc>https://pythonjobs.github.io/tags/flask.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/fr.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/full-stack.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/geospatial.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/git.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/gitlab.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/go.html</loc>
@@ -254,9 +215,6 @@
     <loc>https://pythonjobs.github.io/tags/london.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/machine-learning.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/mako.html</loc>
     </url>
         <url>
@@ -287,13 +245,7 @@
     <loc>https://pythonjobs.github.io/tags/opensource.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/postgis.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/postgres.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/postgresql.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/property.html</loc>
@@ -333,9 +285,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/salary.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/scrum.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/senior.html</loc>

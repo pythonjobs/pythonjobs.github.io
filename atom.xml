@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2018-11-17T08:17:40Z</updated>
+    <updated>2019-01-28T09:25:15Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Junior Django Developer wanted for Software Startup</title>
+            <link href="https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html"/>
+            <author>Tom Hamilton Stubber</author>
+            <updated>2019-01-09T00:00:00Z</updated>
+            <published>2019-01-09T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+            
+            <summary type="text">
+                TutorCruncher’s looking for a new full time developer to join our small team in London. Who we are TutorCruncher is a SaaS Startup which has quickly become the market leader in its niche. We offer...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Backend Developer</title>
             <link href="https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html"/>
@@ -807,180 +828,6 @@
             
             <summary type="text">
                 About Nightly.travel: Nightly.travel is a hotel booking website with a twist, offering travellers the opportunity to stay in two hotels for less than the price of one. By switching hotels once...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Scrum Master &amp; Lead Python Developer in Nantes (France)</title>
-            <link href="https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html"/>
-            <author>Frédéric Oliveau</author>
-            <updated>2018-01-25T00:00:00Z</updated>
-            <published>2018-01-25T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/jurismarches-2018-scrum-master-developper.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="scrum"
-                        label="Scrum" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="angularjs"
-                        label="Angularjs" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="machine-learning"
-                        label="Machine-Learning" />
-            
-            <summary type="text">
-                Job Description Your main mission is to lead de IT team (5/6 people, half the company) in charge of building and running J360. You may also lead technical choices. You are responsible for:...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python DevOps</title>
-            <link href="https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html"/>
-            <author>Johan Richer</author>
-            <updated>2018-01-18T00:00:00Z</updated>
-            <published>2018-01-18T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/jailbreak_paris_dbnomics_python.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="FR"
-                        label="Fr" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="opendata"
-                        label="Opendata" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="economics"
-                        label="Economics" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="gitlab"
-                        label="Gitlab" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-            
-            <summary type="text">
-                Révolutionnez l’économie par le logiciel libre et l’open data ! Rejoignez l’équipe de DB.nomics pour créer la plus importante banque de données économiques au monde Jailbreak est une entreprise...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Full Stack Web Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html"/>
-            <author>Christian Hølmer</author>
-            <updated>2018-01-08T00:00:00Z</updated>
-            <published>2018-01-08T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/tails-fullstack-webdeveloper.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-            
-            <summary type="text">
-                Our vision tails.com is a tech-centric startup, using the power of technology combined with applied nutritional science to change the world of dog food for good. We launched to the public in July...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Backend Software Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/tails-senior-software-engineer.html"/>
-            <author>Christian Hølmer</author>
-            <updated>2018-01-05T00:00:00Z</updated>
-            <published>2018-01-05T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/tails-senior-software-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cloud"
-                        label="Cloud" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="devops"
-                        label="Devops" />
-            
-            <summary type="text">
-                Our vision tails.com is a tech-centric startup, using the power of technology combined with applied nutritional science to change the world of dog food for good. We launched to the public in July...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Django React Full Stack Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/Duxe_Sydney_Django.html"/>
-            <author>Luke</author>
-            <updated>2017-12-18T00:00:00Z</updated>
-            <published>2017-12-18T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/Duxe_Sydney_Django.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS S3"
-                        label="Aws S3" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="React"
-                        label="React" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Heroku"
-                        label="Heroku" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="HTML"
-                        label="Html" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="CSS"
-                        label="Css" />
-            
-            <summary type="text">
-                Job Description: We’re after a keen and capable Django and React developer to help take our year-old software platform to the next level. You’ll be working with smart energetic people who want to...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Research Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/senior_research_software_developer_caeser.html"/>
-            <author>Nate Ron-Ferguson</author>
-            <updated>2017-11-20T00:00:00Z</updated>
-            <published>2017-11-20T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/senior_research_software_developer_caeser.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="full-stack"
-                        label="Full-Stack" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="react"
-                        label="React" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="geospatial"
-                        label="Geospatial" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgis"
-                        label="Postgis" />
-            
-            <summary type="text">
-                Description We are looking for a full stack developer that’s interested in developing and applying technical solutions on a range of research problems. The ideal candidate will be passionate about...
             </summary>
         </entry>
     </feed>
