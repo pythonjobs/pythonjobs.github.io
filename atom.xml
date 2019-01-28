@@ -7,10 +7,49 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-01-28T09:25:15Z</updated>
+    <updated>2019-01-28T10:10:55Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Edtech web app developer</title>
+            <link href="https://pythonjobs.github.io/jobs/speak-clearly-llc-edtech-web-app-developer.html"/>
+            <author>Jim Salsman</author>
+            <updated>2019-01-21T00:00:00Z</updated>
+            <published>2019-01-21T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/speak-clearly-llc-edtech-web-app-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nosql"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="oauth"
+                        label="Oauth" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="css"
+                        label="Css" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="selenium or similar"
+                        label="Selenium Or Similar" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="emscripten"
+                        label="Emscripten" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="webrtc"
+                        label="Webrtc" />
+            
+            <summary type="text">
+                Description 100% remote opportunity to help finish an educational web app. Technologies involve Python Flask, OAuth, and any or all of emscripten, WebRTC, responsive CSS, and Selenium or similar...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Junior Django Developer wanted for Software Startup</title>
             <link href="https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html"/>
