@@ -1,0 +1,4 @@
+Title: Strats Python Developer.
+Company: HBK Europe Management LLP.
+Tags: python finance london pandas jupyter.
+HBK is looking to add a software developer to join our Front Office-facing team.  Our developers are organized into small teams with independent prioritization and release schedules.  A very flat organizational structure allows for the opportunity to migrate across teams and broaden your business knowledge and experience.   Evidence of disciplined approach to software development. Experience with legacy code bases. Demonstrable interest in finance.  Get in touch today to find out more about the opportunity, out culture and the benefits offered by the firm! No agents please. Please use gitter or email for direct applications only.
