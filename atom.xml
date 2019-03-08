@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-02-11T17:38:38Z</updated>
+    <updated>2019-03-08T13:38:49Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -561,6 +561,36 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Python and Django mid-to-senior software developer at a fintech company</title>
+            <link href="https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html"/>
+            <author>J. Pablo Fernández</author>
+            <updated>2018-04-25T00:00:00Z</updated>
+            <published>2018-04-25T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="heroku"
+                        label="Heroku" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rabbitmq"
+                        label="Rabbitmq" />
+            
+            <summary type="text">
+                Hello, I’m Pablo, CTO at Eligible and we are looking to hire developers. We are currently focusing on a Python and Django backend developer as that’s what we need the most right now. We are...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Python Developers (x2 roles)</title>
             <link href="https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html"/>
             <author>Steve Blake</author>
@@ -693,69 +723,6 @@
             
             <summary type="text">
                 About Hydrogen Hydrogen is the most disruptive fintech platform since Stripe! We are on a mission to help millions of people around the globe get access to better, cheaper, more transparent, and...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/headforward-python.html"/>
-            <author>Jeni Henthorn</author>
-            <updated>2018-03-07T00:00:00Z</updated>
-            <published>2018-03-07T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/headforward-python.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="golang"
-                        label="Golang" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="senior"
-                        label="Senior" />
-            
-            <summary type="text">
-                Overview Python/Golang Developer: £30-£50K per anum We’re an outsource development company based about 5 miles from the beach in Cornwall. We build dedicated teams for our clients, so there’s no...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/blue-canvas-engineer.html"/>
-            <author>Jack Moxon</author>
-            <updated>2018-02-26T00:00:00Z</updated>
-            <published>2018-02-26T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/blue-canvas-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="remote"
-                        label="Remote" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="golang"
-                        label="Golang" />
-            
-            <summary type="text">
-                3rd Engineer on a 4 Person Team Making Dev Tools in Python Be one of the first 4 employees at a 100% remote startup working on developer tooling. Work in Python. About Blue Canvas Our mission is...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Digital applications developer in international development</title>
-            <link href="https://pythonjobs.github.io/jobs/aptivate-web-dev.html"/>
-            <author>Aptivate Cooperators</author>
-            <updated>2018-02-12T00:00:00Z</updated>
-            <published>2018-02-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/aptivate-web-dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-            
-            <summary type="text">
-                TLDR; Do you want to use your development skills for good? Would you like to be part of an employee-managed non-hierarchical organisation for social benefit? If so, join us! Full stack...
             </summary>
         </entry>
     </feed>
