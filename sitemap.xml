@@ -4,13 +4,13 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/hbk-strats-developer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/speak-clearly-llc-edtech-web-app-developer.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html</loc>
@@ -51,24 +51,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/texastribune_software_engineer_05_2018.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/earlytracks-pythonjs-developer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/cloud%20engineer_crowdstrike.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/amsdard_wroclaw_django_0.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/CrowdScores.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/agile.html</loc>
@@ -81,9 +63,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/aws.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/backend.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/big%2520query.html</loc>
@@ -99,9 +78,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/connecticut.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/css.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/data.html</loc>
@@ -122,12 +98,6 @@
     <loc>https://pythonjobs.github.io/tags/dynamodb.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/elasticsearch.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/emscripten.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/england.html</loc>
     </url>
         <url>
@@ -138,9 +108,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/finance.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/fintech.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/first%2520round%2520capital.html</loc>
@@ -161,7 +128,7 @@
     <loc>https://pythonjobs.github.io/tags/google%2520cloud.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/graphql.html</loc>
+    <loc>https://pythonjobs.github.io/tags/healthcare.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/heroku.html</loc>
@@ -209,9 +176,6 @@
     <loc>https://pythonjobs.github.io/tags/mysql.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/new%2520york.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/news.html</loc>
     </url>
         <url>
@@ -219,12 +183,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/nose.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/nosql.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/oauth.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/pandas.html</loc>
@@ -263,16 +221,10 @@
     <loc>https://pythonjobs.github.io/tags/redis.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/rest.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/s3.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/salary.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/selenium%2520or%2520similar.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/serverless.html</loc>
@@ -306,9 +258,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/webpack.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/webrtc.html</loc>
     </url>
     
 </urlset>

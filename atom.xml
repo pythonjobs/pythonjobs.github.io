@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-03-12T14:31:39Z</updated>
+    <updated>2019-04-27T23:56:16Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python/Django Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html"/>
+            <author>Remi</author>
+            <updated>2019-03-20T00:00:00Z</updated>
+            <published>2019-03-20T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="healthcare"
+                        label="Healthcare" />
+            
+            <summary type="text">
+                Senior Python/Django Backend Engineer Things you’ll do as a Backend Engineer Leading the design and development of backend features and components Collaborating with other engineers in API design...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python and Django mid-to-senior software developer at a fintech company</title>
             <link href="https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html"/>
@@ -66,45 +90,6 @@
             
             <summary type="text">
                 Overview HBK is looking to add a software developer to join our Front Office-facing team. Our developers are organized into small teams with independent prioritization and release schedules. A...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Edtech web app developer</title>
-            <link href="https://pythonjobs.github.io/jobs/speak-clearly-llc-edtech-web-app-developer.html"/>
-            <author>Jim Salsman</author>
-            <updated>2019-01-21T00:00:00Z</updated>
-            <published>2019-01-21T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/speak-clearly-llc-edtech-web-app-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nosql"
-                        label="Nosql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="oauth"
-                        label="Oauth" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="css"
-                        label="Css" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="selenium or similar"
-                        label="Selenium Or Similar" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="emscripten"
-                        label="Emscripten" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="webrtc"
-                        label="Webrtc" />
-            
-            <summary type="text">
-                Description 100% remote opportunity to help finish an educational web app. Technologies involve Python Flask, OAuth, and any or all of emscripten, WebRTC, responsive CSS, and Selenium or similar...
             </summary>
         </entry>
                     <entry>
@@ -558,171 +543,6 @@
             
             <summary type="text">
                 Overview The Texas Tribune is a nonprofit, nonpartisan digital news organization that is recognized as a leader in self-supporting journalism. We are seeking a software developer who will work...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python/JS Developper</title>
-            <link href="https://pythonjobs.github.io/jobs/earlytracks-pythonjs-developer.html"/>
-            <author>Sylvain Francis</author>
-            <updated>2018-04-25T00:00:00Z</updated>
-            <published>2018-04-25T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/earlytracks-pythonjs-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="REST"
-                        label="Rest" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Kubernetes"
-                        label="Kubernetes" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Elasticsearch"
-                        label="Elasticsearch" />
-            
-            <summary type="text">
-                Python/JS Developer We are looking for a Python/JS Developper to join us. They will assist the main developper to some tasks like: Maintain and develop the main application Develop a frontend...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developers (x2 roles)</title>
-            <link href="https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html"/>
-            <author>Steve Blake</author>
-            <updated>2018-04-25T00:00:00Z</updated>
-            <published>2018-04-25T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/sportpursuit-python-developers-x2-roles.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-            
-            <summary type="text">
-                Python Developer (x2 roles) Overview SportPursuit is a leading private shopping community for over 4 million active men and women across UK and Europe. We were rated as the 5th fastest growing...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Cloud Engineer with Python</title>
-            <link href="https://pythonjobs.github.io/jobs/cloud%20engineer_crowdstrike.html"/>
-            <author>Ana Robu</author>
-            <updated>2018-04-24T00:00:00Z</updated>
-            <published>2018-04-24T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/cloud%20engineer_crowdstrike.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Go"
-                        label="Go" />
-            
-            <summary type="text">
-                Overview CrowdStrike is looking to hire a Senior Cloud Engineer to build large scale cloud-based cybersecurity systems using Golang, Python, Cassandra, Elasticsearch, AWS. We’re looking for a...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Middle/Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/amsdard_wroclaw_django_0.html"/>
-            <author>Joanna Danel</author>
-            <updated>2018-04-23T00:00:00Z</updated>
-            <published>2018-04-23T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/amsdard_wroclaw_django_0.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="microservices"
-                        label="Microservices" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="backend"
-                        label="Backend" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="graphql"
-                        label="Graphql" />
-            
-            <summary type="text">
-                We are Amsterdam Standard, the software house with a team of skilled, experienced and passionate developers. We manage and develop mobile and web projects. Hard working, fun making, constantly...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Backend Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/CrowdScores.html"/>
-            <author>Keir Little</author>
-            <updated>2018-04-09T00:00:00Z</updated>
-            <published>2018-04-09T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/CrowdScores.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="rabbitmq"
-                        label="Rabbitmq" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="backend"
-                        label="Backend" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="microservices"
-                        label="Microservices" />
-            
-            <summary type="text">
-                Here at CrowdScores we have a fantastic team of people working on a product used by football fans worldwide. The app itself has more than 6 million downloads and a 4.5 star rating on both the App...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Quantitative Python Engineer (fintech)</title>
-            <link href="https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html"/>
-            <author>Shane Hampton</author>
-            <updated>2018-03-14T00:00:00Z</updated>
-            <published>2018-03-14T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/hydrogen_python_engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="new york"
-                        label="New York" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="fintech"
-                        label="Fintech" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="finance"
-                        label="Finance" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-            
-            <summary type="text">
-                About Hydrogen Hydrogen is the most disruptive fintech platform since Stripe! We are on a mission to help millions of people around the globe get access to better, cheaper, more transparent, and...
             </summary>
         </entry>
     </feed>
