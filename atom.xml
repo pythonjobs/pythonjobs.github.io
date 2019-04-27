@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-04-27T23:56:59Z</updated>
+    <updated>2019-04-27T23:57:11Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python/Django Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html"/>
+            <author>Remi</author>
+            <updated>2019-03-20T00:00:00Z</updated>
+            <published>2019-03-20T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="healthcare"
+                        label="Healthcare" />
+            
+            <summary type="text">
+                Senior Python/Django Backend Engineer Things you’ll do as a Backend Engineer Leading the design and development of backend features and components Collaborating with other engineers in API design...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python and Django mid-to-senior software developer at a fintech company</title>
             <link href="https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html"/>
