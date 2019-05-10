@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/oanda-python-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html</loc>
     </url>
                 <url>
@@ -47,9 +50,6 @@
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/texastribune_software_engineer_05_2018.html</loc>
     </url>
     
         <url>
@@ -152,9 +152,6 @@
     <loc>https://pythonjobs.github.io/tags/jenkins.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/journalism.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/jupyter.html</loc>
     </url>
         <url>
@@ -174,12 +171,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/mysql.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/news.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/nonprofit.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/nose.html</loc>
@@ -257,7 +248,7 @@
     <loc>https://pythonjobs.github.io/tags/vagrant.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/webpack.html</loc>
+    <loc>https://pythonjobs.github.io/tags/wagtail.html</loc>
     </url>
     
 </urlset>

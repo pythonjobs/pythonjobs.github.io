@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-04-27T23:57:11Z</updated>
+    <updated>2019-05-10T12:12:31Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/oanda-python-developer.html"/>
+            <author>Praneeta Patil</author>
+            <updated>2019-04-29T00:00:00Z</updated>
+            <published>2019-04-29T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/oanda-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="wagtail"
+                        label="Wagtail" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="heroku"
+                        label="Heroku" />
+            
+            <summary type="text">
+                Job Description We are looking for a Python developer with excellent knowledge of CSS and the Heroku platform to join our Acquisitions team and work across a variety of digital projects, the...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python/Django Backend Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html"/>
@@ -504,45 +528,6 @@
             
             <summary type="text">
                 About Us One of Edinburgh’s most exciting startups, TravelNest is going through a period of rapid growth. We’re building a team to grow with us as we aim to develop the leading SaaS platform in...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/texastribune_software_engineer_05_2018.html"/>
-            <author>Liam Andrew</author>
-            <updated>2018-05-07T00:00:00Z</updated>
-            <published>2018-05-07T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/texastribune_software_engineer_05_2018.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Texas"
-                        label="Texas" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="webpack"
-                        label="Webpack" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="JavaScript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="journalism"
-                        label="Journalism" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="news"
-                        label="News" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nonprofit"
-                        label="Nonprofit" />
-            
-            <summary type="text">
-                Overview The Texas Tribune is a nonprofit, nonpartisan digital news organization that is recognized as a leader in self-supporting journalism. We are seeking a software developer who will work...
             </summary>
         </entry>
     </feed>

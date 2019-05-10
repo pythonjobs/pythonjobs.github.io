@@ -136,7 +136,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                            var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/oanda-python-developer.html\">Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 29 Apr 2019</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> OANDA</span>\n    \n    <p class=\"detail\"> Job\u00a0Description We are looking for a Python developer with excellent knowledge of CSS and the Heroku platform to join our Acquisitions team and work across a variety of digital projects, the largest and most exciting...</p>\n    \n"
+        });
+                                  var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
@@ -189,12 +195,6 @@
         jobs[key].push({
           coords: {"lat": 55.953252, "lng": -3.188267},
           content: "        <h1><a href=\"/jobs/travelnest_edinburgh_20180604.html\">Software Development Engineers (All levels)</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Edinburgh,  United Kingdom</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 04 Jun 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> TravelNest</span>\n    \n    <p class=\"detail\"> About\u00a0Us One of Edinburgh\u2019s most exciting startups, TravelNest is going through a period of rapid\u00a0growth. We\u2019re building a team to grow with us as we aim to develop the leading SaaS platform in our sector. The...</p>\n    \n"
-        });
-                        var key = '' + 30.267153 + ':' + -97.7430608;
-        if (!(key in jobs)) { jobs[key] = []; }
-        jobs[key].push({
-          coords: {"lat": 30.267153, "lng": -97.7430608},
-          content: "        <h1><a href=\"/jobs/texastribune_software_engineer_05_2018.html\">Software Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Austin, TX</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 07 May 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> The Texas Tribune</span>\n    \n    <p class=\"detail\"> Overview The Texas Tribune is a nonprofit, nonpartisan digital news organization that is recognized as a leader in self-supporting journalism. We are seeking a software developer who will work full-time out of our...</p>\n    \n"
         });
               console.log(jobs);
     var MAP_OPTIONS = {
