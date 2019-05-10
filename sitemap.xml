@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/oanda-python-developer.html</loc>
     </url>
                 <url>
@@ -173,6 +176,9 @@
     <loc>https://pythonjobs.github.io/tags/mysql.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/neo4j.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/nose.html</loc>
     </url>
         <url>
@@ -207,6 +213,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/react.js.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/reddis.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/redis.html</loc>

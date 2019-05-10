@@ -7,10 +7,43 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-05-10T12:12:31Z</updated>
+    <updated>2019-05-10T12:14:18Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python / Flask engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html"/>
+            <author>Simon Bessey</author>
+            <updated>2019-05-10T00:00:00Z</updated>
+            <published>2019-05-10T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgresql"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="reddis"
+                        label="Reddis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="neo4j"
+                        label="Neo4j" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+            
+            <summary type="text">
+                ABOUT We’re Valsys: a machine learning platform for company valuation. For too long, spreadsheets have been the weapon of choice in financial modelling - manual data entry, human error, bad stats...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/oanda-python-developer.html"/>
