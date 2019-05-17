@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html</loc>
     </url>
                 <url>
@@ -219,6 +222,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/redis.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/remote.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/s3.html</loc>

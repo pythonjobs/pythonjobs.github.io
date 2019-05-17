@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-05-10T12:14:18Z</updated>
+    <updated>2019-05-17T09:14:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Software Engineer (Clean Energy Job) (Remote OK)</title>
+            <link href="https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html"/>
+            <author>Daniel Roesler</author>
+            <updated>2019-05-14T00:00:00Z</updated>
+            <published>2019-05-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+            
+            <summary type="text">
+                Company Description UtilityAPI is a mission-driven company that is fighting climate change by helping solar, storage, energy efficiency, and energy management companies access the utility bill and...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python / Flask engineer</title>
             <link href="https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html"/>
