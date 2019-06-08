@@ -136,7 +136,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                  var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + -33.8688197 + ':' + 151.2092955;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": -33.8688197, "lng": 151.2092955},
+          content: "        <h1><a href=\"/jobs/octopus-energy-python-django-engineer.html\">Python / Django Engineer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Sydney, Australia</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 05 Jun 2019</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Octopus Energy</span>\n    \n    <p class=\"detail\"> We are a tech-focused energy supplier and we\u2019re looking for diligent software engineers to join\u00a0us. There\u2019s a great opportunity for disruption in the energy market at the moment. The big suppliers still dominate, but...</p>\n    \n"
+        });
+                        var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
