@@ -136,7 +136,13 @@
   
   <script type="text/javascript">
     var jobs = {};
-                                      var key = '' + 51.5073509 + ':' + -0.1277583;
+                  var key = '' + 51.5073509 + ':' + -0.1277583;
+        if (!(key in jobs)) { jobs[key] = []; }
+        jobs[key].push({
+          coords: {"lat": 51.5073509, "lng": -0.1277583},
+          content: "        <h1><a href=\"/jobs/lambert-labs-junior-python-developer.html\">Junior Python Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, United Kingdom</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 22 May 2019</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> contract</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Lambert Labs</span>\n    \n    <p class=\"detail\"> Python-focused development agency Lambert Labs is looking for an enthusiastic Junior Python Developer for an initial 6-month contract, starting ASAP. There is a strong chance that the contract will become a full...</p>\n    \n"
+        });
+                                            var key = '' + 51.5073509 + ':' + -0.1277583;
         if (!(key in jobs)) { jobs[key] = []; }
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
@@ -195,12 +201,6 @@
         jobs[key].push({
           coords: {"lat": 51.5073509, "lng": -0.1277583},
           content: "        <h1><a href=\"/jobs/partners-capital-senior-full-stack-contract-software-developer.html\">Senior Full Stack Contract Software Developer</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> London, England</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Wed, 27 Jun 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> contract</span>\n    <span class=\"info\"><i class=\"i-company\"></i> Partners Capital</span>\n    \n    <p class=\"detail\"> Partners Capital LLP is an independent international investment advisory firm serving high net worth families, foundations and endowments located in London, Hong Kong and Boston. We act as the outsourced investment...</p>\n    \n"
-        });
-                        var key = '' + 55.953252 + ':' + -3.188267;
-        if (!(key in jobs)) { jobs[key] = []; }
-        jobs[key].push({
-          coords: {"lat": 55.953252, "lng": -3.188267},
-          content: "        <h1><a href=\"/jobs/travelnest_edinburgh_20180604.html\">Software Development Engineers (All levels)</a></h1>\n\n    <span class=\"info\"><i class=\"i-globe\"></i> Edinburgh,  United Kingdom</span>\n    <span class=\"info\"><i class=\"i-calendar\"></i> Mon, 04 Jun 2018</span>\n    <span class=\"info\"><i class=\"i-chair\"></i> permanent</span>\n    <span class=\"info\"><i class=\"i-company\"></i> TravelNest</span>\n    \n    <p class=\"detail\"> About\u00a0Us One of Edinburgh\u2019s most exciting startups, TravelNest is going through a period of rapid\u00a0growth. We\u2019re building a team to grow with us as we aim to develop the leading SaaS platform in our sector. The...</p>\n    \n"
         });
               console.log(jobs);
     var MAP_OPTIONS = {

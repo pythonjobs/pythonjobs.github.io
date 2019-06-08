@@ -7,10 +7,28 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-05-21T09:58:12Z</updated>
+    <updated>2019-06-08T11:17:30Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Junior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html"/>
+            <author>George Lambert</author>
+            <updated>2019-05-22T00:00:00Z</updated>
+            <published>2019-05-22T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="london"
+                        label="London" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+            
+            <summary type="text">
+                Python-focused development agency Lambert Labs is looking for an enthusiastic Junior Python Developer for an initial 6-month contract, starting ASAP. There is a strong chance that the contract...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior DevOps Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html"/>
@@ -615,33 +633,6 @@
             
             <summary type="text">
                 Partners Capital LLP is an independent international investment advisory firm serving high net worth families, foundations and endowments located in London, Hong Kong and Boston. We act as the...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Development Engineers (All levels)</title>
-            <link href="https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html"/>
-            <author>Kim Watson</author>
-            <updated>2018-06-04T00:00:00Z</updated>
-            <published>2018-06-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/travelnest_edinburgh_20180604.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python 3"
-                        label="Python 3" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="microservices"
-                        label="Microservices" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="serverless"
-                        label="Serverless" />
-            
-            <summary type="text">
-                About Us One of Edinburgh’s most exciting startups, TravelNest is going through a period of rapid growth. We’re building a team to grow with us as we aim to develop the leading SaaS platform in...
             </summary>
         </entry>
     </feed>
