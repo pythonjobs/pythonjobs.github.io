@@ -7,10 +7,31 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-06-08T11:18:27Z</updated>
+    <updated>2019-06-17T11:55:32Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Full-stack developer for alternative data startup</title>
+            <link href="https://pythonjobs.github.io/jobs/neudata-full-stack-developer-for-alternative-data-startup.html"/>
+            <author>Piers Thompson</author>
+            <updated>2019-06-17T00:00:00Z</updated>
+            <published>2019-06-17T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/neudata-full-stack-developer-for-alternative-data-startup.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ruby"
+                        label="Ruby" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="rails"
+                        label="Rails" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="javascript"
+                        label="Javascript" />
+            
+            <summary type="text">
+                The company We are Neudata, a small but established start-up working in the alternative data space. We help our clients (generally sophisticated investment managers) to find new data sources that...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python / Django Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/octopus-energy-python-django-engineer.html"/>
