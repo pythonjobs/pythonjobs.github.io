@@ -7,10 +7,55 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-06-17T11:55:32Z</updated>
+    <updated>2019-07-17T22:09:40Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Telephony developer</title>
+            <link href="https://pythonjobs.github.io/jobs/speak-clearly-llc-python-telephony-developer.html"/>
+            <author>Jim Salsman</author>
+            <updated>2019-07-14T00:00:00Z</updated>
+            <published>2019-07-14T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/speak-clearly-llc-python-telephony-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Twilio"
+                        label="Twilio" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PostgreSQL"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Dataset"
+                        label="Dataset" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Git"
+                        label="Git" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="C"
+                        label="C" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="MSVC++"
+                        label="Msvc++" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Javascript"
+                        label="Javascript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="WebRTC"
+                        label="Webrtc" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SDL"
+                        label="Sdl" />
+            
+            <summary type="text">
+                Description 100% remote opportunity to help develop, monitor, measure, and maintain a Twilio telephony and web application front end using Python, Microsoft Windows SAPI5 speech recognition,...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Full-stack developer for alternative data startup</title>
             <link href="https://pythonjobs.github.io/jobs/neudata-full-stack-developer-for-alternative-data-startup.html"/>
@@ -669,36 +714,6 @@
             
             <summary type="text">
                 Overview We’re building a reliable, low-latency, highly concurrent system capable of scaling to thousands of executions per second with sub-millisecond latency. Whether you want to work on the...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Full Stack Contract Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/partners-capital-senior-full-stack-contract-software-developer.html"/>
-            <author>Suzi Huntington</author>
-            <updated>2018-06-27T00:00:00Z</updated>
-            <published>2018-06-27T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/partners-capital-senior-full-stack-contract-software-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SQLAlchemy"
-                        label="Sqlalchemy" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="React"
-                        label="React" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="React.js"
-                        label="React.js" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="MySQL"
-                        label="Mysql" />
-            
-            <summary type="text">
-                Partners Capital LLP is an independent international investment advisory firm serving high net worth families, foundations and endowments located in London, Hong Kong and Boston. We act as the...
             </summary>
         </entry>
     </feed>

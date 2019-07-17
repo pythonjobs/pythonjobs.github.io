@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/speak-clearly-llc-python-telephony-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/neudata-full-stack-developer-for-alternative-data-startup.html</loc>
     </url>
                 <url>
@@ -63,9 +66,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/smarkets-software-engineer.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/partners-capital-senior-full-stack-contract-software-developer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/agile.html</loc>
@@ -92,6 +92,9 @@
     <loc>https://pythonjobs.github.io/tags/big%2520query.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/c.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/capital%2520factory.html</loc>
     </url>
         <url>
@@ -114,6 +117,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/database.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/dataset.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/django.html</loc>
@@ -197,6 +203,9 @@
     <loc>https://pythonjobs.github.io/tags/mako.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/msvc%252B%252B.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/mysql.html</loc>
     </url>
         <url>
@@ -245,9 +254,6 @@
     <loc>https://pythonjobs.github.io/tags/react.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/react.js.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/reddis.html</loc>
     </url>
         <url>
@@ -264,6 +270,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/salary.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/sdl.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/shotgun.html</loc>
@@ -296,6 +305,9 @@
     <loc>https://pythonjobs.github.io/tags/travis.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/twilio.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/uk.html</loc>
     </url>
         <url>
@@ -306,6 +318,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/wagtail.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/webrtc.html</loc>
     </url>
     
 </urlset>
