@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-07-17T22:09:40Z</updated>
+    <updated>2019-07-18T10:48:39Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python engineer and data scientist at edtech startup</title>
+            <link href="https://pythonjobs.github.io/jobs/Edtech_Python_data_scientist.html"/>
+            <author>Fintan Nagle</author>
+            <updated>2019-07-18T00:00:00Z</updated>
+            <published>2019-07-18T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Edtech_Python_data_scientist.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sqlalchemy"
+                        label="Sqlalchemy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="graph data structures"
+                        label="Graph Data Structures" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="web"
+                        label="Web" />
+            
+            <summary type="text">
+                Overview Job type: Full-time Role: Python data scientist Experience-level: Mid-level Industry: Enterprise learning and development Compensation: £40-50K per annum plus equity We are an early-stage...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Telephony developer</title>
             <link href="https://pythonjobs.github.io/jobs/speak-clearly-llc-python-telephony-developer.html"/>
