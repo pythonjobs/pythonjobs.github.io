@@ -4,6 +4,12 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/ecs_python_developer_london.html</loc>
+    </url>
+                <url>
+    <loc>https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/Edtech_Python_data_scientist.html</loc>
     </url>
                 <url>
@@ -17,9 +23,6 @@
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html</loc>
     </url>
                 <url>
     <loc>https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html</loc>
@@ -66,9 +69,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/peerspective-python-developer-for-part-time-candidate-screening.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/smarkets-software-engineer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/agile.html</loc>
@@ -108,6 +108,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/cloud.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/connect.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/connecticut.html</loc>
@@ -197,7 +200,13 @@
     <loc>https://pythonjobs.github.io/tags/jupyter.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/kenesis.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/kubernetes.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/lambda.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/linux.html</loc>
@@ -314,13 +323,13 @@
     <loc>https://pythonjobs.github.io/tags/twilio.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/typescript.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/uk.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/usa.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/vagrant.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/wagtail.html</loc>

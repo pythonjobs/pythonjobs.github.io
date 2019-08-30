@@ -7,10 +7,103 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-07-18T10:48:39Z</updated>
+    <updated>2019-08-30T12:08:15Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/ecs_python_developer_london.html"/>
+            <author>Rosie Binfield</author>
+            <updated>2019-08-30T00:00:00Z</updated>
+            <published>2019-08-30T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ecs_python_developer_london.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="lambda"
+                        label="Lambda" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="connect"
+                        label="Connect" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="typescript"
+                        label="Typescript" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="react"
+                        label="React" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="s3"
+                        label="S3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="kenesis"
+                        label="Kenesis" />
+            
+            <summary type="text">
+                Python Developer ECS is looking for experienced Python developers to join a project which will deliver telephony based on Amazon’s Connect platform. We are building the next generation of contact...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Senior DevOps Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html"/>
+            <author>Gemma Simmons</author>
+            <updated>2019-08-30T00:00:00Z</updated>
+            <published>2019-08-30T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="jenkins"
+                        label="Jenkins" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="teamcity"
+                        label="Teamcity" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="travis"
+                        label="Travis" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="kubernetes"
+                        label="Kubernetes" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="ansible"
+                        label="Ansible" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="chef"
+                        label="Chef" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="puppet"
+                        label="Puppet" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="aws"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="bash"
+                        label="Bash" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="java"
+                        label="Java" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="powershell"
+                        label="Powershell" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="golang"
+                        label="Golang" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="linux"
+                        label="Linux" />
+            
+            <summary type="text">
+                Senior DevOps Consultant ECS Digital is looking for a senior DevOps Engineer to join our fast growing team. As we look to continually expand, we are looking for additional senior members that have...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python engineer and data scientist at edtech startup</title>
             <link href="https://pythonjobs.github.io/jobs/Edtech_Python_data_scientist.html"/>
@@ -165,63 +258,6 @@
             
             <summary type="text">
                 Python-focused development agency Lambert Labs is looking for an enthusiastic Junior Python Developer for an initial 6-month contract, starting ASAP. There is a strong chance that the contract...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior DevOps Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html"/>
-            <author>Gemma Simmons</author>
-            <updated>2019-05-21T00:00:00Z</updated>
-            <published>2019-05-21T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="jenkins"
-                        label="Jenkins" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="teamcity"
-                        label="Teamcity" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="travis"
-                        label="Travis" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="kubernetes"
-                        label="Kubernetes" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="ansible"
-                        label="Ansible" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="chef"
-                        label="Chef" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="puppet"
-                        label="Puppet" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="bash"
-                        label="Bash" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="java"
-                        label="Java" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="powershell"
-                        label="Powershell" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="golang"
-                        label="Golang" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-            
-            <summary type="text">
-                Senior DevOps Consultant ECS Digital is looking for a senior DevOps Engineer to join our fast growing team. As we look to continually expand, we are looking for additional senior members that have...
             </summary>
         </entry>
                     <entry>
@@ -708,39 +744,6 @@
             
             <summary type="text">
                 Python developers We’re currently building a platform like hired.com except developers get tested by senior developers before being put in front of companies. We are looking for Python developers...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/smarkets-software-engineer.html"/>
-            <author>Luke Coleman</author>
-            <updated>2018-08-02T00:00:00Z</updated>
-            <published>2018-08-02T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/smarkets-software-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Vagrant"
-                        label="Vagrant" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Linux"
-                        label="Linux" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Postgres"
-                        label="Postgres" />
-            
-            <summary type="text">
-                Overview We’re building a reliable, low-latency, highly concurrent system capable of scaling to thousands of executions per second with sub-millisecond latency. Whether you want to work on the...
             </summary>
         </entry>
     </feed>
