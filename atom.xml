@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2019-08-30T12:08:15Z</updated>
+    <updated>2020-01-16T11:05:23Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/odwyer-heavy-industries-ltd-senior-python-developer.html"/>
+            <author>Richard O'Dwyer</author>
+            <updated>2020-01-16T00:00:00Z</updated>
+            <published>2020-01-16T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/odwyer-heavy-industries-ltd-senior-python-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pytest"
+                        label="Pytest" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+            
+            <summary type="text">
+                Python Developer We’re looking for a Python Developer to help out on a project. It’s in the Health Tech space and a 6-month contract (likely to extend). Mostly remote (if you wish), with 2 days...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/ecs_python_developer_london.html"/>
@@ -420,330 +450,6 @@
             
             <summary type="text">
                 Overview HBK is looking to add a software developer to join our Front Office-facing team. Our developers are organized into small teams with independent prioritization and release schedules. A...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Junior Django Developer wanted for Software Startup</title>
-            <link href="https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html"/>
-            <author>Tom Hamilton Stubber</author>
-            <updated>2019-01-09T00:00:00Z</updated>
-            <published>2019-01-09T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/TutorCruncher-python-django-dev.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-            
-            <summary type="text">
-                TutorCruncher’s looking for a new full time developer to join our small team in London. Who we are TutorCruncher is a SaaS Startup which has quickly become the market leader in its niche. We offer...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Backend Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html"/>
-            <author>Nic West</author>
-            <updated>2018-11-15T00:00:00Z</updated>
-            <published>2018-11-15T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/umortgage_backend_developer_20181115.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="API design"
-                        label="Api Design" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="big query"
-                        label="Big Query" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="kubernetes"
-                        label="Kubernetes" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="google cloud"
-                        label="Google Cloud" />
-            
-            <summary type="text">
-                At Unmortgage we want to enable everyone to live in the home they want. We are opening up home ownership by co-investing with people who haven’t been able to buy yet. Over the next 18 months we...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Data Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/umortgage_data_engineer_20181115.html"/>
-            <author>Johnny Morris</author>
-            <updated>2018-11-15T00:00:00Z</updated>
-            <published>2018-11-15T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/umortgage_data_engineer_20181115.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="data"
-                        label="Data" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SQL"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="google cloud"
-                        label="Google Cloud" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="property"
-                        label="Property" />
-            
-            <summary type="text">
-                At Unmortgage we enable everyone to live in the home they want. We are opening up home ownership by co-investing with people who haven’t been able to buy yet. Over the next 18 months we will help...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/university-of-connecticut-senior-software-developer-2018.html"/>
-            <author>Valerie Puffet-Michel</author>
-            <updated>2018-11-14T00:00:00Z</updated>
-            <published>2018-11-14T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/university-of-connecticut-senior-software-developer-2018.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="usa"
-                        label="Usa" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="connecticut"
-                        label="Connecticut" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pyramid"
-                        label="Pyramid" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pylons"
-                        label="Pylons" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="jenkins"
-                        label="Jenkins" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="agile"
-                        label="Agile" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sqlalchemy"
-                        label="Sqlalchemy" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="mako"
-                        label="Mako" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nose"
-                        label="Nose" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="javascript"
-                        label="Javascript" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-            
-            <summary type="text">
-                Overview Student Affairs Information Technology is seeking an experienced Software Developer (Senior Computer Programmer/Analyst, UCP 9). This is an opportunity to build new business software...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/tau-films-python-developer.html"/>
-            <author>Talent Manager</author>
-            <updated>2018-10-31T00:00:00Z</updated>
-            <published>2018-10-31T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/tau-films-python-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="slack"
-                        label="Slack" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="shotgun"
-                        label="Shotgun" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="git"
-                        label="Git" />
-            
-            <summary type="text">
-                Overview We’re looking for a well-rounded, experienced Python developer to join our engineering team that is responsible for building and connecting CG production subsystems. Your responsibilities...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Data Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/tracr_data_engineer.html"/>
-            <author>Alex Dagge</author>
-            <updated>2018-10-29T00:00:00Z</updated>
-            <published>2018-10-29T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/tracr_data_engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="england"
-                        label="England" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="uk"
-                        label="Uk" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="islington"
-                        label="Islington" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="data"
-                        label="Data" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="linux"
-                        label="Linux" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="database"
-                        label="Database" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="etl"
-                        label="Etl" />
-            
-            <summary type="text">
-                Tracr is a rapidly growing Blockchain company supported by De Beers (one of the world’s largest diamond producers). As part of our expansion we are seeking world class individuals to join our...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python &amp; Go Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/machinemax_london_python_go.html"/>
-            <author>Lauren Simpson</author>
-            <updated>2018-10-23T00:00:00Z</updated>
-            <published>2018-10-23T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/machinemax_london_python_go.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="golang"
-                        label="Golang" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="go"
-                        label="Go" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cloud"
-                        label="Cloud" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="iot"
-                        label="Iot" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="internet of things"
-                        label="Internet Of Things" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="data engineering"
-                        label="Data Engineering" />
-            
-            <summary type="text">
-                MachineMax - Senior Python & Go Developer Are you an experienced engineer, fluent in Python with an interest in learning Go. Are you looking for the opportunity to work in a small and...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Backend Engineer - Python - Austin</title>
-            <link href="https://pythonjobs.github.io/jobs/shipwell_backend_engineer.html"/>
-            <author>Vahid Behzadi</author>
-            <updated>2018-09-12T00:00:00Z</updated>
-            <published>2018-09-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/shipwell_backend_engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Startup"
-                        label="Startup" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="hiring"
-                        label="Hiring" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="austin"
-                        label="Austin" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="texas"
-                        label="Texas" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="capital factory"
-                        label="Capital Factory" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="first round capital"
-                        label="First Round Capital" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="salary"
-                        label="Salary" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="equity"
-                        label="Equity" />
-            
-            <summary type="text">
-                Backend Engineer - Full time – Austin, TX About Shipwell The mission of Shipwell is to build a connected freight platform that is the backbone of how shippers and freight movers connect,...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python developer for part time candidate screening</title>
-            <link href="https://pythonjobs.github.io/jobs/peerspective-python-developer-for-part-time-candidate-screening.html"/>
-            <author>Andrew Thomas</author>
-            <updated>2018-09-10T00:00:00Z</updated>
-            <published>2018-09-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/peerspective-python-developer-for-part-time-candidate-screening.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="SQLAlchemy"
-                        label="Sqlalchemy" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Celery"
-                        label="Celery" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Go"
-                        label="Go" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Redis"
-                        label="Redis" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="DynamoDB"
-                        label="Dynamodb" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="MySQL"
-                        label="Mysql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="S3"
-                        label="S3" />
-            
-            <summary type="text">
-                Python developers We’re currently building a platform like hired.com except developers get tested by senior developers before being put in front of companies. We are looking for Python developers...
             </summary>
         </entry>
     </feed>
