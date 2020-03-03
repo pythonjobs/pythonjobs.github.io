@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/ecs_python_developer_london.html</loc>
     </url>
                 <url>
@@ -39,9 +42,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/hbk-strats-developer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/ansible.html</loc>
@@ -51,6 +51,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/aws.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/backend.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/bash.html</loc>
@@ -75,9 +78,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/docker.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/finance.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/flask.html</loc>
@@ -107,9 +107,6 @@
     <loc>https://pythonjobs.github.io/tags/jenkins.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/jupyter.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/kenesis.html</loc>
     </url>
         <url>
@@ -132,9 +129,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/packer.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/pandas.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/postgresql.html</loc>
