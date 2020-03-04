@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/squareweave-senior-django-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html</loc>
     </url>
                 <url>
@@ -125,10 +128,16 @@
     <loc>https://pythonjobs.github.io/tags/msvc%252B%252B.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/mysql.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/neo4j.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/packer.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/postgres.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/postgresql.html</loc>

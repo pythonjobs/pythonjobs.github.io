@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-03-03T11:38:45Z</updated>
+    <updated>2020-03-04T11:08:09Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Senior Django Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/squareweave-senior-django-developer.html"/>
+            <author>Stefan Schneider</author>
+            <updated>2020-03-04T00:00:00Z</updated>
+            <published>2020-03-04T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/squareweave-senior-django-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="postgres"
+                        label="Postgres" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="mysql"
+                        label="Mysql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="wagtail"
+                        label="Wagtail" />
+            
+            <summary type="text">
+                Summary Web development agency seeking senior Django developer with 3+ years as a dev, and who has been team lead on multi-person projects. Wagtail experience desirable. About Squareweave is a...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Backend Developer (Python/Django)</title>
             <link href="https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html"/>
