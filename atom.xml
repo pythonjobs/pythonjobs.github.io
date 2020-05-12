@@ -7,34 +7,10 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-03-04T11:08:09Z</updated>
+    <updated>2020-05-12T14:31:19Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
-                    <entry>
-            <title type="html">Senior Django Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/squareweave-senior-django-developer.html"/>
-            <author>Stefan Schneider</author>
-            <updated>2020-03-04T00:00:00Z</updated>
-            <published>2020-03-04T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/squareweave-senior-django-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgres"
-                        label="Postgres" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="mysql"
-                        label="Mysql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="wagtail"
-                        label="Wagtail" />
-            
-            <summary type="text">
-                Summary Web development agency seeking senior Django developer with 3+ years as a dev, and who has been team lead on multi-person projects. Wagtail experience desirable. About Squareweave is a...
-            </summary>
-        </entry>
                     <entry>
             <title type="html">Senior Backend Developer (Python/Django)</title>
             <link href="https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html"/>
@@ -330,117 +306,6 @@
             
             <summary type="text">
                 Company Description UtilityAPI is a mission-driven company that is fighting climate change by helping solar, storage, energy efficiency, and energy management companies access the utility bill and...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python / Flask engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html"/>
-            <author>Simon Bessey</author>
-            <updated>2019-05-10T00:00:00Z</updated>
-            <published>2019-05-10T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/valsys-python-flask-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="aws"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="reddis"
-                        label="Reddis" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="neo4j"
-                        label="Neo4j" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="docker"
-                        label="Docker" />
-            
-            <summary type="text">
-                ABOUT We’re Valsys: a machine learning platform for company valuation. For too long, spreadsheets have been the weapon of choice in financial modelling - manual data entry, human error, bad stats...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/oanda-python-developer.html"/>
-            <author>Praneeta Patil</author>
-            <updated>2019-04-29T00:00:00Z</updated>
-            <published>2019-04-29T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/oanda-python-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="wagtail"
-                        label="Wagtail" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="heroku"
-                        label="Heroku" />
-            
-            <summary type="text">
-                Job Description We are looking for a Python developer with excellent knowledge of CSS and the Heroku platform to join our Acquisitions team and work across a variety of digital projects, the...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Python/Django Backend Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html"/>
-            <author>Remi</author>
-            <updated>2019-03-20T00:00:00Z</updated>
-            <published>2019-03-20T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/ro-senior-pythondjango-backend-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="healthcare"
-                        label="Healthcare" />
-            
-            <summary type="text">
-                Senior Python/Django Backend Engineer Things you’ll do as a Backend Engineer Leading the design and development of backend features and components Collaborating with other engineers in API design...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python and Django mid-to-senior software developer at a fintech company</title>
-            <link href="https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html"/>
-            <author>J. Pablo Fernández</author>
-            <updated>2019-03-08T00:00:00Z</updated>
-            <published>2019-03-08T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/eligible-python-and-django-mid-to-senior-software-developer-at-a-fintech-company.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="heroku"
-                        label="Heroku" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="postgresql"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="celery"
-                        label="Celery" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="rabbitmq"
-                        label="Rabbitmq" />
-            
-            <summary type="text">
-                Hello, I’m Pablo, CTO at Eligible and we are looking to hire developers. We are currently focusing on a Python and Django backend developer as that’s what we need the most right now. We are...
             </summary>
         </entry>
     </feed>
