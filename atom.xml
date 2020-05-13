@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-05-12T14:31:19Z</updated>
+    <updated>2020-05-13T19:14:54Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Developer / Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/NIH-developer-engineer.html"/>
+            <author>Philip MacMenamin</author>
+            <updated>2020-05-12T00:00:00Z</updated>
+            <published>2020-05-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/NIH-developer-engineer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="nosql"
+                        label="Nosql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="AWS"
+                        label="Aws" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="CMS"
+                        label="Cms" />
+            
+            <summary type="text">
+                Software engineer in support of the NIH. Please have the following: - A degree in computer science, or comparable experience - Experience in software development - Experience using command line...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Backend Developer (Python/Django)</title>
             <link href="https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html"/>
