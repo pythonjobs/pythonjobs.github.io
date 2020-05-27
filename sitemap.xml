@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/NIH-developer-engineer.html</loc>
     </url>
                 <url>
@@ -27,15 +30,12 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/octopus-energy-python-django-engineer.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/ansible.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/audio.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/australia.html</loc>
@@ -63,6 +63,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/connect.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/cython.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/dataset.html</loc>
@@ -107,9 +110,6 @@
     <loc>https://pythonjobs.github.io/tags/linux.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/london.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/msvc%252B%252B.html</loc>
     </url>
         <url>
@@ -140,7 +140,7 @@
     <loc>https://pythonjobs.github.io/tags/react.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/remote.html</loc>
+    <loc>https://pythonjobs.github.io/tags/realtime.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/ruby.html</loc>

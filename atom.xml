@@ -7,10 +7,34 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-05-13T19:14:54Z</updated>
+    <updated>2020-05-27T21:27:19Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Audio Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html"/>
+            <author>John Roper</author>
+            <updated>2020-05-27T00:00:00Z</updated>
+            <published>2020-05-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="audio"
+                        label="Audio" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cython"
+                        label="Cython" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="realtime"
+                        label="Realtime" />
+            
+            <summary type="text">
+                Real Time Audio with Cython I’m working on an instrument sampler using Sounddevice. I have the majority of the work done, but I need to add realtime pitch changing (resampling) as well as 24/32bit...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Developer / Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/NIH-developer-engineer.html"/>
@@ -294,48 +318,6 @@
             
             <summary type="text">
                 We are a tech-focused energy supplier and we’re looking for diligent software engineers to join us. There’s a great opportunity for disruption in the energy market at the moment. The big suppliers...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Junior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html"/>
-            <author>George Lambert</author>
-            <updated>2019-05-22T00:00:00Z</updated>
-            <published>2019-05-22T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/lambert-labs-junior-python-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="london"
-                        label="London" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-            
-            <summary type="text">
-                Python-focused development agency Lambert Labs is looking for an enthusiastic Junior Python Developer for an initial 6-month contract, starting ASAP. There is a strong chance that the contract...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Software Engineer (Clean Energy Job) (Remote OK)</title>
-            <link href="https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html"/>
-            <author>Daniel Roesler</author>
-            <updated>2019-05-14T00:00:00Z</updated>
-            <published>2019-05-14T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/utilityapi_software_engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="celery"
-                        label="Celery" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="remote"
-                        label="Remote" />
-            
-            <summary type="text">
-                Company Description UtilityAPI is a mission-driven company that is fighting climate change by helping solar, storage, energy efficiency, and energy management companies access the utility bill and...
             </summary>
         </entry>
     </feed>
