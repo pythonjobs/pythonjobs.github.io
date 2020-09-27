@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/autumn_compass_engineer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html</loc>
     </url>
                 <url>
@@ -12,33 +15,9 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/ecs_python_developer_london.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/ecs_senior_devops_consultant_london.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/Edtech_Python_data_scientist.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/speak-clearly-llc-python-telephony-developer.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/neudata-full-stack-developer-for-alternative-data-startup.html</loc>
-    </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/octopus-energy-python-django-engineer.html</loc>
-    </url>
     
         <url>
-    <loc>https://pythonjobs.github.io/tags/ansible.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/audio.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/australia.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/aws.html</loc>
@@ -47,139 +26,34 @@
     <loc>https://pythonjobs.github.io/tags/backend.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/bash.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/c.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/celery.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/chef.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/cms.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/connect.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/cython.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/dataset.html</loc>
+    <loc>https://pythonjobs.github.io/tags/devops.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/django.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/docker.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/flask.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/git.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/golang.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/graph%2520data%2520structures.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/java.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/javascript.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/jenkins.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/kenesis.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/kubernetes.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/lambda.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/linux.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/msvc%252B%252B.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/nosql.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/packer.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/postgresql.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/powershell.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/puppet.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/python.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/rabbitmq.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/rails.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/react.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/realtime.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/ruby.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/s3.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/sdl.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/sql.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/sqlalchemy.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/sydney.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/teamcity.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/terraform.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/travis.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/twilio.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/typescript.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/web.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/webrtc.html</loc>
     </url>
     
 </urlset>
