@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-09-27T08:02:26Z</updated>
+    <updated>2020-10-31T01:49:11Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -30,30 +30,6 @@
             
             <summary type="text">
                 About The Role We are looking for an experienced Software Engineer or SRE to join the Data Platforms team at Autumn Compass. The team is in charge of our distributed cloud compute infrastructure,...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Audio Software Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html"/>
-            <author>John Roper</author>
-            <updated>2020-05-27T00:00:00Z</updated>
-            <published>2020-05-27T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/plenum-organs-audio-software-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="audio"
-                        label="Audio" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="cython"
-                        label="Cython" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="realtime"
-                        label="Realtime" />
-            
-            <summary type="text">
-                Real Time Audio with Cython I’m working on an instrument sampler using Sounddevice. I have the majority of the work done, but I need to add realtime pitch changing (resampling) as well as 24/32bit...
             </summary>
         </entry>
                     <entry>
