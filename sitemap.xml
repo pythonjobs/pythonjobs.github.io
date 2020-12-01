@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/autumn_compass_engineer.html</loc>
     </url>
                 <url>
@@ -13,6 +16,9 @@
     <loc>https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html</loc>
     </url>
     
+        <url>
+    <loc>https://pythonjobs.github.io/tags/airflow.html</loc>
+    </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/aws.html</loc>
     </url>
@@ -29,7 +35,19 @@
     <loc>https://pythonjobs.github.io/tags/django.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/docker.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/flask.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/google%2520bigquery.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/kubernetes.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/marshmallow.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/nosql.html</loc>
@@ -41,7 +59,13 @@
     <loc>https://pythonjobs.github.io/tags/python.html</loc>
     </url>
         <url>
+    <loc>https://pythonjobs.github.io/tags/python%25203.html</loc>
+    </url>
+        <url>
     <loc>https://pythonjobs.github.io/tags/sql.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/sqlalchemy.html</loc>
     </url>
     
 </urlset>

@@ -7,10 +7,49 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-10-31T01:49:11Z</updated>
+    <updated>2020-12-01T14:12:53Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Python Backend Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html"/>
+            <author>Philip Goh</author>
+            <updated>2020-11-30T00:00:00Z</updated>
+            <published>2020-11-30T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python 3"
+                        label="Python 3" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="PostgreSQL"
+                        label="Postgresql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Marshmallow"
+                        label="Marshmallow" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="SQLAlchemy"
+                        label="Sqlalchemy" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Google BigQuery"
+                        label="Google Bigquery" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Kubernetes"
+                        label="Kubernetes" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Airflow"
+                        label="Airflow" />
+            
+            <summary type="text">
+                Overview We are looking for a Python Backend Developer to join us as we build Newzoo Expert. Newzoo Expert uniquely offers a complete view of the games market and industry ecosystem with metrics...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Software Engineer (Data Operations)</title>
             <link href="https://pythonjobs.github.io/jobs/autumn_compass_engineer.html"/>
