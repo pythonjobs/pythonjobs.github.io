@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2020-12-01T14:12:53Z</updated>
+    <updated>2021-01-05T07:13:59Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -48,27 +48,6 @@
             
             <summary type="text">
                 Overview We are looking for a Python Backend Developer to join us as we build Newzoo Expert. Newzoo Expert uniquely offers a complete view of the games market and industry ecosystem with metrics...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Software Engineer (Data Operations)</title>
-            <link href="https://pythonjobs.github.io/jobs/autumn_compass_engineer.html"/>
-            <author>Christopher Byron</author>
-            <updated>2020-09-15T00:00:00Z</updated>
-            <published>2020-09-15T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/autumn_compass_engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="DevOps"
-                        label="Devops" />
-            
-            <summary type="text">
-                About The Role We are looking for an experienced Software Engineer or SRE to join the Data Platforms team at Autumn Compass. The team is in charge of our distributed cloud compute infrastructure,...
             </summary>
         </entry>
                     <entry>
