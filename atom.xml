@@ -7,7 +7,7 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2021-01-05T07:13:59Z</updated>
+    <updated>2021-03-18T08:00:10Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
@@ -51,6 +51,81 @@
             </summary>
         </entry>
                     <entry>
+            <title type="html">Computer Scientist / Software Developer for multi-messenger astronomy</title>
+            <link href="https://pythonjobs.github.io/jobs/european-gravitational-observatory-computer-scientist-software-developer-for-multi-messenger-astronomy.html"/>
+            <author>EGO Jobs</author>
+            <updated>2020-08-19T00:00:00Z</updated>
+            <published>2020-08-19T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/european-gravitational-observatory-computer-scientist-software-developer-for-multi-messenger-astronomy.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Docker"
+                        label="Docker" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Kafka"
+                        label="Kafka" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="Kubernetes"
+                        label="Kubernetes" />
+            
+            <summary type="text">
+                Job Description EGO is looking to recruit a talented and innovative developer to work within its IT Department and in close relationship with the Director’s European Programmes office. Assignment...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Full Stack Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/Full_Stack_Python-Xref.html"/>
+            <author>Amy Cotterill</author>
+            <updated>2020-08-12T00:00:00Z</updated>
+            <published>2020-08-12T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/Full_Stack_Python-Xref.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="angular"
+                        label="Angular" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sydney"
+                        label="Sydney" />
+            
+            <summary type="text">
+                Full Stack Engineer Xref (XF1) is trusted by businesses globally to offer reference, background and ID checks that are fast, simple and secure. The Opportunity This opportunity will have you...
+            </summary>
+        </entry>
+                    <entry>
+            <title type="html">Remote Contractor Senior Django REST Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/aisoft-development-llc-remote-contractor-senior-django-rest-developer.html"/>
+            <author>Teddy Owen</author>
+            <updated>2020-06-08T00:00:00Z</updated>
+            <published>2020-06-08T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/aisoft-development-llc-remote-contractor-senior-django-rest-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="REST"
+                        label="Rest" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="API"
+                        label="Api" />
+            
+            <summary type="text">
+                We’re a young team of developers building mobile apps, web apps and Alexa skills for clients in the US, and we’re looking to hire a remote Django REST developer to work about 10 hours per week...
+            </summary>
+        </entry>
+                    <entry>
             <title type="html">Developer / Engineer</title>
             <link href="https://pythonjobs.github.io/jobs/NIH-developer-engineer.html"/>
             <author>Philip MacMenamin</author>
@@ -78,30 +153,6 @@
             
             <summary type="text">
                 Software engineer in support of the NIH. Please have the following: - A degree in computer science, or comparable experience - Experience in software development - Experience using command line...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Senior Backend Developer (Python/Django)</title>
-            <link href="https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html"/>
-            <author>Patrick Wollner</author>
-            <updated>2020-03-02T00:00:00Z</updated>
-            <published>2020-03-02T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/bambus_vienna_django_dev_20200302.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="PostgreSQL"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="backend"
-                        label="Backend" />
-            
-            <summary type="text">
-                At Bambus, we are redefining what property ownership means. We make real estate ownership more flexible, productive and transparent. Our growing team is based in the centre of Vienna. We are...
             </summary>
         </entry>
     </feed>
