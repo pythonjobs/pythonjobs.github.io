@@ -7,10 +7,40 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2021-03-18T08:00:10Z</updated>
+    <updated>2021-03-27T15:40:13Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Full Stack (Python &amp; JS) Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/odwyer-software-full-stack-developer.html"/>
+            <author>Richard O'Dwyer</author>
+            <updated>2021-03-27T00:00:00Z</updated>
+            <published>2021-03-27T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/odwyer-software-full-stack-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="reactjs"
+                        label="Reactjs" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="pytest"
+                        label="Pytest" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="remote"
+                        label="Remote" />
+            
+            <summary type="text">
+                Full Stack (Python & JS) Developer We’re looking for a contract Python & JS developer to help out with development of a greenfield open-source video sharing platform we are building. Remote...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Python Backend Developer</title>
             <link href="https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html"/>
