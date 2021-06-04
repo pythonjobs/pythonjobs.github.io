@@ -1,4 +1,0 @@
-Title: Developer / Engineer.
-Company: National Institutes of Health contracting company..
-Tags: python nosql sql flask AWS CMS.
-Please have the following: - A degree in computer science, or comparable experience - Experience in software development - Experience using command line Linux - Experience with git - Git repository containing work sample - Experience with more than only Python - Permission to work in the US Nice to have:  - understanding of basic biological concepts.

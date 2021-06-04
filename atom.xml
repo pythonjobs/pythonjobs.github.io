@@ -7,10 +7,37 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2021-04-11T14:05:14Z</updated>
+    <updated>2021-06-04T14:52:27Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
+                    <entry>
+            <title type="html">Open Source Software Engineer - Python</title>
+            <link href="https://pythonjobs.github.io/jobs/datadog-open-source-software-engineer-python.html"/>
+            <author>Tamar Benjoseph</author>
+            <updated>2021-06-03T00:00:00Z</updated>
+            <published>2021-06-03T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/datadog-open-source-software-engineer-python.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="flask"
+                        label="Flask" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="falcon"
+                        label="Falcon" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="celery"
+                        label="Celery" />
+            
+            <summary type="text">
+                The Role In this role on our APM (tracing/profiling/debugging) team you will: Write open source code that instruments thousands of Python applications around the world. Drive our open source...
+            </summary>
+        </entry>
                     <entry>
             <title type="html">Senior Python Developer</title>
             <link href="https://pythonjobs.github.io/jobs/realrate-gmbh-senior-python-developer.html"/>
@@ -180,36 +207,6 @@
             
             <summary type="text">
                 We’re a young team of developers building mobile apps, web apps and Alexa skills for clients in the US, and we’re looking to hire a remote Django REST developer to work about 10 hours per week...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Developer / Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/NIH-developer-engineer.html"/>
-            <author>Philip MacMenamin</author>
-            <updated>2020-05-12T00:00:00Z</updated>
-            <published>2020-05-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/NIH-developer-engineer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="nosql"
-                        label="Nosql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="AWS"
-                        label="Aws" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="CMS"
-                        label="Cms" />
-            
-            <summary type="text">
-                Software engineer in support of the NIH. Please have the following: - A degree in computer science, or comparable experience - Experience in software development - Experience using command line...
             </summary>
         </entry>
     </feed>

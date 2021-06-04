@@ -4,6 +4,9 @@
         <loc>https://pythonjobs.github.io/</loc>
     </url>
                 <url>
+    <loc>https://pythonjobs.github.io/jobs/datadog-open-source-software-engineer-python.html</loc>
+    </url>
+                <url>
     <loc>https://pythonjobs.github.io/jobs/realrate-gmbh-senior-python-developer.html</loc>
     </url>
                 <url>
@@ -21,9 +24,6 @@
                 <url>
     <loc>https://pythonjobs.github.io/jobs/aisoft-development-llc-remote-contractor-senior-django-rest-developer.html</loc>
     </url>
-                <url>
-    <loc>https://pythonjobs.github.io/jobs/NIH-developer-engineer.html</loc>
-    </url>
     
         <url>
     <loc>https://pythonjobs.github.io/tags/airflow.html</loc>
@@ -35,13 +35,10 @@
     <loc>https://pythonjobs.github.io/tags/api.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/aws.html</loc>
-    </url>
-        <url>
     <loc>https://pythonjobs.github.io/tags/back-end.html</loc>
     </url>
         <url>
-    <loc>https://pythonjobs.github.io/tags/cms.html</loc>
+    <loc>https://pythonjobs.github.io/tags/celery.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/data-science.html</loc>
@@ -51,6 +48,9 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/docker.html</loc>
+    </url>
+        <url>
+    <loc>https://pythonjobs.github.io/tags/falcon.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/flask.html</loc>
@@ -66,9 +66,6 @@
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/marshmallow.html</loc>
-    </url>
-        <url>
-    <loc>https://pythonjobs.github.io/tags/nosql.html</loc>
     </url>
         <url>
     <loc>https://pythonjobs.github.io/tags/open-source.html</loc>
