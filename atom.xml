@@ -7,71 +7,71 @@
         <link href="https://pythonjobs.github.io/"/>
     
         
-    <updated>2021-06-04T14:52:27Z</updated>
+    <updated>2022-10-06T20:15:57Z</updated>
 
     <id>https://pythonjobs.github.io/atom.xml/</id>
 
                     <entry>
-            <title type="html">Open Source Software Engineer - Python</title>
-            <link href="https://pythonjobs.github.io/jobs/datadog-open-source-software-engineer-python.html"/>
-            <author>Tamar Benjoseph</author>
-            <updated>2021-06-03T00:00:00Z</updated>
-            <published>2021-06-03T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/datadog-open-source-software-engineer-python.html</id>
+            <title type="html">Strats Python Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/hbk-strats-developer.html"/>
+            <author>Pav</author>
+            <updated>2022-10-06T00:00:00Z</updated>
+            <published>2022-10-06T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/hbk-strats-developer.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
+                        term="finance"
+                        label="Finance" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="flask"
-                        label="Flask" />
+                        term="london"
+                        label="London" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="falcon"
-                        label="Falcon" />
+                        term="pandas"
+                        label="Pandas" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="celery"
-                        label="Celery" />
+                        term="jupyter"
+                        label="Jupyter" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="sql"
+                        label="Sql" />
             
             <summary type="text">
-                The Role In this role on our APM (tracing/profiling/debugging) team you will: Write open source code that instruments thousands of Python applications around the world. Drive our open source...
+                Overview HBK is looking to add a software developer to join our Front Office-facing team. Our developers are organized into small teams with independent prioritization and release schedules. A...
             </summary>
         </entry>
                     <entry>
-            <title type="html">Senior Python Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/realrate-gmbh-senior-python-developer.html"/>
-            <author>Holger Bartel</author>
-            <updated>2021-04-11T00:00:00Z</updated>
-            <published>2021-04-11T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/realrate-gmbh-senior-python-developer.html</id>
+            <title type="html">Python Software Developer</title>
+            <link href="https://pythonjobs.github.io/jobs/open-data-services-co-operative-python-software-developer.html"/>
+            <author>Ben Webb</author>
+            <updated>2022-06-23T00:00:00Z</updated>
+            <published>2022-06-23T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/open-data-services-co-operative-python-software-developer.html</id>
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="opendata"
+                        label="Opendata" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="opensource"
+                        label="Opensource" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="cooperative"
+                        label="Cooperative" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="back-end"
-                        label="Back-End" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pytorch"
-                        label="Pytorch" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="data-science"
-                        label="Data-Science" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="open-source"
-                        label="Open-Source" />
             
             <summary type="text">
-                RealRate is Hiring Senior Python Developers! RealRate, the Artificial Intelligence rating agency is growing. We’re looking for a senior Python developer: More than 8 years of project experience....
+                We’re hiring a Python Software Developer to join our interdisciplinary team, working with data publishers and users. To find out more about this role and working at Open Data Services check out...
             </summary>
         </entry>
                     <entry>
-            <title type="html">Full Stack (Python &amp; JS) Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/odwyer-software-full-stack-developer.html"/>
-            <author>Richard O'Dwyer</author>
-            <updated>2021-03-27T00:00:00Z</updated>
-            <published>2021-03-27T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/odwyer-software-full-stack-developer.html</id>
+            <title type="html">Senior Software Engineer, Back-End (Remote)</title>
+            <link href="https://pythonjobs.github.io/jobs/oomnitza-back-end-sw-enginneer-irl-remote.html"/>
+            <author>Mrs Rency Anoop</author>
+            <updated>2022-03-30T00:00:00Z</updated>
+            <published>2022-03-30T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/oomnitza-back-end-sw-enginneer-irl-remote.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
@@ -79,134 +79,74 @@
                         term="sql"
                         label="Sql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="reactjs"
-                        label="Reactjs" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="pytest"
-                        label="Pytest" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="remote"
-                        label="Remote" />
-            
-            <summary type="text">
-                Full Stack (Python & JS) Developer We’re looking for a contract Python & JS developer to help out with development of a greenfield open-source video sharing platform we are building. Remote...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Python Backend Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html"/>
-            <author>Philip Goh</author>
-            <updated>2020-11-30T00:00:00Z</updated>
-            <published>2020-11-30T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/newzoo-python-backend-developer.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python 3"
-                        label="Python 3" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="PostgreSQL"
-                        label="Postgresql" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Flask"
-                        label="Flask" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Marshmallow"
-                        label="Marshmallow" />
+                        term="Pyramid"
+                        label="Pyramid" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="SQLAlchemy"
                         label="Sqlalchemy" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Google BigQuery"
-                        label="Google Bigquery" />
+                        term="MySQL"
+                        label="Mysql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Kubernetes"
-                        label="Kubernetes" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Airflow"
-                        label="Airflow" />
+                        term="Django"
+                        label="Django" />
             
             <summary type="text">
-                Overview We are looking for a Python Backend Developer to join us as we build Newzoo Expert. Newzoo Expert uniquely offers a complete view of the games market and industry ecosystem with metrics...
+                Oomnitza offers enterprise IT a unique solution to manage the entirety of the digital estate. Unlike our competitors, who deliver siloed solutions, Oomnitza offers granular control and...
             </summary>
         </entry>
                     <entry>
-            <title type="html">Computer Scientist / Software Developer for multi-messenger astronomy</title>
-            <link href="https://pythonjobs.github.io/jobs/european-gravitational-observatory-computer-scientist-software-developer-for-multi-messenger-astronomy.html"/>
-            <author>EGO Jobs</author>
-            <updated>2020-08-19T00:00:00Z</updated>
-            <published>2020-08-19T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/european-gravitational-observatory-computer-scientist-software-developer-for-multi-messenger-astronomy.html</id>
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Python"
-                        label="Python" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Docker"
-                        label="Docker" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Kafka"
-                        label="Kafka" />
-                        <category   scheme="https://pythonjobs.github.io/tags"
-                        term="Kubernetes"
-                        label="Kubernetes" />
-            
-            <summary type="text">
-                Job Description EGO is looking to recruit a talented and innovative developer to work within its IT Department and in close relationship with the Director’s European Programmes office. Assignment...
-            </summary>
-        </entry>
-                    <entry>
-            <title type="html">Full Stack Engineer</title>
-            <link href="https://pythonjobs.github.io/jobs/Full_Stack_Python-Xref.html"/>
-            <author>Amy Cotterill</author>
-            <updated>2020-08-12T00:00:00Z</updated>
-            <published>2020-08-12T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/Full_Stack_Python-Xref.html</id>
+            <title type="html">Python Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/bmat-python-backend-engineer.html"/>
+            <author>Bruno</author>
+            <updated>2021-11-23T00:00:00Z</updated>
+            <published>2021-11-23T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/bmat-python-backend-engineer.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="django"
-                        label="Django" />
+                        term="postgresql"
+                        label="Postgresql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="angular"
-                        label="Angular" />
+                        term="mongoDB"
+                        label="Mongodb" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sydney"
-                        label="Sydney" />
+                        term="ETLs"
+                        label="Etls" />
+                        <category   scheme="https://pythonjobs.github.io/tags"
+                        term="data matching"
+                        label="Data Matching" />
             
             <summary type="text">
-                Full Stack Engineer Xref (XF1) is trusted by businesses globally to offer reference, background and ID checks that are fast, simple and secure. The Opportunity This opportunity will have you...
+                What you’ll be doing In the Data team we want to have the most complete music metadata database in the world. As part of our team you will help in any stage: from integrating new sources,...
             </summary>
         </entry>
                     <entry>
-            <title type="html">Remote Contractor Senior Django REST Developer</title>
-            <link href="https://pythonjobs.github.io/jobs/aisoft-development-llc-remote-contractor-senior-django-rest-developer.html"/>
-            <author>Teddy Owen</author>
-            <updated>2020-06-08T00:00:00Z</updated>
-            <published>2020-06-08T00:00:00Z</published>
-            <id>https://pythonjobs.github.io/jobs/aisoft-development-llc-remote-contractor-senior-django-rest-developer.html</id>
+            <title type="html">Senior Backend Engineer</title>
+            <link href="https://pythonjobs.github.io/jobs/bmat-senior-backend-engineer.html"/>
+            <author>Bruno</author>
+            <updated>2021-11-23T00:00:00Z</updated>
+            <published>2021-11-23T00:00:00Z</published>
+            <id>https://pythonjobs.github.io/jobs/bmat-senior-backend-engineer.html</id>
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="python"
                         label="Python" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="sql"
-                        label="Sql" />
+                        term="postgresql"
+                        label="Postgresql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
                         term="django"
                         label="Django" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="REST"
-                        label="Rest" />
+                        term="mysql"
+                        label="Mysql" />
                         <category   scheme="https://pythonjobs.github.io/tags"
-                        term="API"
-                        label="Api" />
+                        term="mongodb"
+                        label="Mongodb" />
             
             <summary type="text">
-                We’re a young team of developers building mobile apps, web apps and Alexa skills for clients in the US, and we’re looking to hire a remote Django REST developer to work about 10 hours per week...
+                What you’ll be doing BMAT is teaming up with a global music streaming service to revolutionize the way copyrights and royalties are handled in the online world. As we transition from discovery to...
             </summary>
         </entry>
     </feed>
