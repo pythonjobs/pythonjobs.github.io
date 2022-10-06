@@ -1,0 +1,4 @@
+Title: Senior Backend Engineer.
+Company: BMAT.
+Tags: python postgresql django mysql mongodb.
+BMAT is teaming up with a global music streaming service to revolutionize the way copyrights and royalties are handled in the online world. As we transition from discovery to an MVP phase, we’re building an agile product team that can successfully execute this mission-critical project.   Work in a small, agile and customer centric team on our new highly strategic product   Be responsible for its development from a very early stage  Understand our clients’ business logic and requirements and translate them to solid and future proof database and software design Leverage BMAT’s existing services and integrate them into our new product Declare the complexity of your tasks to the Product Manager and work together with her on a timeline to be shared with our clients
